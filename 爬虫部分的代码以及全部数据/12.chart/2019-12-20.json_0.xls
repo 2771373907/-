@@ -1,0 +1,4504 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="ProgId" content="Excel.Sheet"/>
+  <meta name="Generator" content="WPS Office ET"/>
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2021-01-23T20:43:48</o:Created>
+     <o:LastAuthor>86199</o:LastAuthor>
+     <o:LastSaved>2021-01-23T20:44:05</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:KSOProductBuildVer dt:dt="string">2052-11.1.0.10314</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:1.00in 0.75in 1.00in 0.75in;
+	mso-header-margin:0.50in;
+	mso-footer-margin:0.50in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font3
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font4
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font5
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font6
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font7
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font8
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font9
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font10
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font11
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font12
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font13
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font14
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font15
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font16
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font17
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font18
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font20
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"常规";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0_ \;_ \0022\00A5\0022* \\-\#\,\#\#0_ \;_ \0022\00A5\0022* \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"货币[0]";
+	mso-style-id:7;}
+.style17
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 3";}
+.style18
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"输入";}
+.style19
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0\.00_ \;_ \0022\00A5\0022* \\-\#\,\#\#0\.00_ \;_ \0022\00A5\0022* \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"货币";
+	mso-style-id:4;}
+.style20
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"千位分隔[0]";
+	mso-style-id:6;}
+.style21
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 3";}
+.style22
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"差";}
+.style23
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"千位分隔";
+	mso-style-id:3;}
+.style24
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 3";}
+.style25
+	{color:#0000FF;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"超链接";
+	mso-style-id:8;}
+.style26
+	{mso-number-format:"0%";
+	mso-style-name:"百分比";
+	mso-style-id:5;}
+.style27
+	{color:#800080;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"已访问的超链接";
+	mso-style-id:9;}
+.style28
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"注释";}
+.style29
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 2";}
+.style30
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"标题 4";}
+.style31
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"警告文本";}
+.style32
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"标题";}
+.style33
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"解释性文本";}
+.style34
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 1";}
+.style35
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 2";}
+.style36
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 1";}
+.style37
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"标题 3";}
+.style38
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 4";}
+.style39
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"输出";}
+.style40
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"计算";}
+.style41
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"检查单元格";}
+.style42
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 6";}
+.style43
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 2";}
+.style44
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"链接单元格";}
+.style45
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"汇总";}
+.style46
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"好";}
+.style47
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"适中";}
+.style48
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 5";}
+.style49
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 1";}
+.style50
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 1";}
+.style51
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 1";}
+.style52
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 2";}
+.style53
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 2";}
+.style54
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 3";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 4";}
+.style56
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 4";}
+.style57
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 4";}
+.style58
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 5";}
+.style59
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 5";}
+.style60
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 5";}
+.style61
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	white-space:normal;
+	font-size:10.0pt;
+	font-family:Arial Unicode MS;
+	mso-font-charset:134;}
+.xl66
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-font-charset:134;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>{worksheet}</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>280</x:DefaultRowHeight>
+        <x:StandardWidth>2234</x:StandardWidth>
+        <x:Selected/>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>0</x:ActiveCol>
+          <x:ActiveRow>0</x:ActiveRow>
+          <x:RangeSelection>A1:CN43</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>True</x:ProtectObjects>
+        <x:ProtectScenarios>True</x:ProtectScenarios>
+        <x:PageBreakZoom>100</x:PageBreakZoom>
+        <x:Print>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>7130</x:WindowHeight>
+     <x:WindowWidth>18530</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple">
+  <table width="39337" border="0" cellpadding="0" cellspacing="0" style='width:19668.50pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="432" style='mso-width-source:userset;mso-width-alt:10532;'/>
+   <col width="96.50" style='mso-width-source:userset;mso-width-alt:2352;'/>
+   <col width="432" span="89" style='mso-width-source:userset;mso-width-alt:10532;'/>
+   <col width="360.50" style='mso-width-source:userset;mso-width-alt:8788;'/>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" width="432" style='height:91.00pt;width:216.00pt;' x:str>【#你好，明天#】濠江流彩，莲花盛开，澳门迎来回归祖国的“加冠礼”。一度漂泊无依，也曾凄寂沉沦。数百年沧桑、二十载巨变，举目四望换了人间。小城故事多，是祖国统一的进程，也是“一国两制”的荣光。抖落历史尘埃，拥入祖国怀抱，“中国·澳门”这个没齿难忘的乳名，注定将成为响彻四方的盛名。​​​​</td>
+    <td class="xl65" width="96.50" style='width:48.25pt;' x:str>475</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>七子之歌犹在耳，转眼已经二十年，祝澳门继续繁荣昌盛</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福中国澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>澳门明天会更好。祖国永远在身边。</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祖国明天会更好！澳门明天会更好！</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安！你好，明天！</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>中国澳门加油</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>澳门加油</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>你好，明天！中国澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>值得珍藏的地方。</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福澳门！</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>你好，中国·澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福中国澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝贺！</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福祖国母亲更加强大，统一昌盛</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>母亲的孩子</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福澳门明天会更好</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>中国澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祖国人民一家亲</td>
+    <td class="xl66" width="432" style='width:216.00pt;'></td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>明天会更好！晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>澳门一飞冲天</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>中国澳门加油~</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>點讚中國</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福中国澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>澳门明天会更好，祖国永远在身边！</td>
+    <td class="xl66" width="432" style='width:216.00pt;'></td>
+    <td class="xl66" width="432" style='width:216.00pt;'></td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>加油</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>你好明天</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>你好，明天！中国澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>澳门加油！</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>澳门明天会更好。祖国永远在身边。</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>你好明天，你好澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>你好明天你好澳门你好祖国</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>大家请一起为澳门点点赞</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>会更好的</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福祖国</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>你好，明天，中国澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>最近又听了遍“…你可知Macao，不是我真名…”</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>七子之歌犹在耳，转眼已经二十年，祝澳门继续繁荣昌盛</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>明天会更好澳门会更好祖国会更好</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>澳门加油(ง•̀_•́)ง</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>我爱中国</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>转发微博</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福澳门前程似锦，征途璀璨！</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>给祖国点赞</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>你好明天，你好澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>“回归”</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>加油</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>中海建筑心相“莲”，共圆中华民族伟大复兴的中国梦！</td>
+    <td class="xl66" width="432" style='width:216.00pt;'></td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>澳门♡</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>Repost</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>中国澳门，永不分离</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>中国澳门为你点赞</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>你好明天，你好澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>你好明天，你好澳门</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>你好，明天，中国澳门加油晚安</td>
+    <td class="xl66" width="432" style='width:216.00pt;'></td>
+    <td class="xl66" width="432" style='width:216.00pt;'></td>
+    <td class="xl66" width="432" style='width:216.00pt;'></td>
+    <td class="xl66" width="432" style='width:216.00pt;'></td>
+    <td class="xl66" width="432" style='width:216.00pt;'></td>
+    <td class="xl66" width="360.50" style='width:180.25pt;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【夜读：有一种幸福，叫回家吃饭】“妈妈等我回家吃饭”，以前总觉得稀疏平常，现在却成了在外漂泊的我时不时要拿出来回忆的温情片段。父母在，人生尚有来处。长大后我才明白，能回家吃饭，是一种难能可贵的幸福，照耀你未来的路，支撑你走过无数艰难的时光。#你有多久没回家吃饭了#？  ​​​​...展开全文c</td>
+    <td class="xl65" x:str>663</td>
+    <td class="xl65" x:str>过年回家</td>
+    <td class="xl65" x:str>晚安</td>
+    <td class="xl65" x:str>家，是心归处，过年就回家啦</td>
+    <td class="xl65" x:str>常回家看看，陪陪家人！！！</td>
+    <td class="xl65" x:str>香港的废青，爸妈喊你们回家吃饭了</td>
+    <td class="xl65" x:str>父母在  人生尚有来处！希望每个人都珍惜父母健在的日子！常回家看看吧！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>父母在人生尚有去处</td>
+    <td class="xl65" x:str>有一种幸福，叫考研成功，希望明后两天好好发挥</td>
+    <td class="xl65" x:str>常回家看看，晚安</td>
+    <td class="xl65" x:str>妈妈做的饭好吃</td>
+    <td class="xl65" x:str>幸福，就是你爱的人等你回家吃饭</td>
+    <td class="xl65" x:str>妈，我回来了，进门第一句话！！！想你了，妈</td>
+    <td class="xl65" x:str>常回家看看</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>常迴家看看...</td>
+    <td class="xl65" x:str>停留在28岁，永远不会回来，我好想你好想你没有你，孤儿一般的存在。。。</td>
+    <td class="xl65" x:str>记得吃饺子</td>
+    <td class="xl65" x:str>父母在人生尚有去处</td>
+    <td class="xl65" x:str>家～不仅仅是安身之地，更是心灵的港湾</td>
+    <td class="xl65" x:str>有一种幸福，叫回家吃饭</td>
+    <td class="xl65" x:str>有一种幸福叫回家吃饭。  妈妈的饭，满满正能量。</td>
+    <td class="xl65" x:str>回家吃饭</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>从前人们约定父母在，不远游。几十年没有回家过年了。。。</td>
+    <td class="xl65" x:str>想家了，想爸爸妈妈了</td>
+    <td class="xl65" x:str>父母在，人生尚有来处，每当在外心里苦闷时，就会想回家和爸妈一起吃饭的场景，顿时会充满喜悦。</td>
+    <td class="xl65" x:str>晚安</td>
+    <td class="xl65" x:str>常回家看看，晚安，报报</td>
+    <td class="xl65" x:str>常回家看看</td>
+    <td class="xl65" x:str>有一种幸福，叫回家吃饭。晚安报报</td>
+    <td class="xl65" x:str>家的味道永远是最美味的味道</td>
+    <td class="xl65" x:str>好几年没回老家了，忘记家的味道了</td>
+    <td class="xl65" x:str>父母笑了，你就孝了</td>
+    <td class="xl65" x:str>回家吃饭是一种很幸福的生活。</td>
+    <td class="xl65" x:str>回复的表态:谢谢</td>
+    <td class="xl65" x:str>常回家看看</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>小报，此刻看到你我想</td>
+    <td class="xl65" x:str>晚安</td>
+    <td class="xl65" x:str>今晚才和父母吃的晚饭</td>
+    <td class="xl65" x:str>多多陪伴</td>
+    <td class="xl65" x:str>过年回家</td>
+    <td class="xl65" x:str>常回家看看</td>
+    <td class="xl65" x:str>过年带女朋友回家</td>
+    <td class="xl65" x:str>小时候老是感觉外边的饭好吃，现在才发现家里的饭最好吃</td>
+    <td class="xl65" x:str>想妈妈想回家</td>
+    <td class="xl65" x:str>这个周末回家看看，想妈妈了</td>
+    <td class="xl65" x:str>无论你在何处多忙，都要回家吃饭，妈妈的味道独—无二的。晚安</td>
+    <td class="xl65" x:str>明天回家吃饭</td>
+    <td class="xl65" x:str>子欲养而亲不待珍惜当下的时光不要让自己后悔</td>
+    <td class="xl65" x:str>在外真的好想回家吃妈妈做的饭</td>
+    <td class="xl65" x:str>随着长大，能陪在父母身边的时间在减少，过年就回家</td>
+    <td class="xl65" x:str>时间都去哪了？有空常回家看看……</td>
+    <td class="xl65" x:str>抱紧我的报报，再哭在难的日子，我还知道一个人民日报的小编陪在我的身边我也会一直陪伴报报</td>
+    <td class="xl65" x:str>家，永远是一个人最好的港湾。有一种幸福，叫回家吃饭。</td>
+    <td class="xl65" x:str>好喜欢这句话“家人是世界上最高级的厨师”！想家了，过几天就可以回家了，高兴！不过这两天得努力写作业，奋斗</td>
+    <td class="xl65" x:str>2020年的春节就要到了，工作在忙，我们都要抽空回家吃饭</td>
+    <td class="xl65" x:str>带男朋友~回家！过年！</td>
+    <td class="xl65" x:str>真幸福</td>
+    <td class="xl65" x:str>快半年了，好想家</td>
+    <td class="xl65" x:str>明天赶紧回家吃饭！！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>晚安</td>
+    <td class="xl65" x:str>诶</td>
+    <td class="xl65" x:str>晚安</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>幸福</td>
+    <td class="xl65" x:str>回家</td>
+    <td class="xl65" x:str>我回来了</td>
+    <td class="xl65" x:str>家是温暖港</td>
+    <td class="xl65" x:str>是啊，说到痛点了，怎么办？都好几年没回家了</td>
+    <td class="xl65" x:str>有钱没钱回家过年</td>
+    <td class="xl65" x:str>想家了呜呜呜呜</td>
+    <td class="xl65" x:str>希望社会和谐、人人平等。</td>
+    <td class="xl65" x:str>55555想吃家里的饭了。虽然自己做饭也是和家里人学的，但是做不出那个味道</td>
+    <td class="xl65" x:str>嗯，还是家里的床暖活家里的饭好吃</td>
+    <td class="xl65" x:str>家是幸福的缘起</td>
+    <td class="xl65" x:str>晚安</td>
+    <td class="xl65" x:str>长大后真的特别想回家</td>
+    <td class="xl65" x:str>晚安咯～</td>
+    <td class="xl65" x:str>晚安！</td>
+    <td class="xl65" x:str>想家了</td>
+    <td class="xl65" x:str>常回家看看，回家看看。</td>
+    <td class="xl65" x:str>长大后我才明白，能回家吃饭，是一种难能可贵的幸福</td>
+    <td class="xl65" x:str>好想我的妈妈，</td>
+    <td class="xl65" x:str>晚安</td>
+    <td class="xl65" x:str>晚安</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>现在的人感觉吃饭就是完成任务，，</td>
+   </tr>
+   <tr height="156" style='height:78.00pt;'>
+    <td class="xl65" height="156" style='height:78.00pt;' x:str>#我的中国心#【手势舞挑战一起来！发微博，点亮国旗区旗icon！】#澳门回归20周年#，和@邓家佳一起，加入#我的中国心#手势舞挑战！带话题#我的中国心#上传视频，或者参与微博故事挑战，用并不复杂的动作，传递对澳门的祝福，对祖国的爱！O微博视频O#我的中国心#​​​​</td>
+    <td class="xl65" x:str>625</td>
+    <td class="xl65" x:str>小姨妈</td>
+    <td class="xl65" x:str>小姨妈</td>
+    <td class="xl65" x:str>哇，小姨妈来了</td>
+    <td class="xl65" x:str>小姨妈还是那么漂亮！！！！！</td>
+    <td class="xl65" x:str>有没有跟我一样，喜欢上了小姐姐</td>
+    <td class="xl65" x:str>小姨妈！</td>
+    <td class="xl65" x:str>小姨妈太深入人心了，看到之后第一反应就是角色名</td>
+    <td class="xl65" x:str>哇漂亮小姨妈</td>
+    <td class="xl65" x:str>三百年来梦寐不忘的生母啊  请叫儿的乳名叫我一声澳门  那三百年来梦寐不忘的生母啊  请叫儿的乳名叫我一声澳门  母亲啊母亲我要回来母亲母亲  你可知MACAU不是我真姓  我要回来回来母亲</td>
+    <td class="xl65" x:str>小姨妈！！！！</td>
+    <td class="xl65" x:str>跟着邓家佳一起祝福祖国</td>
+    <td class="xl65" x:str>唐氏表演法</td>
+    <td class="xl65" x:str>长江长城，黄山黄河，在我心中重千斤</td>
+    <td class="xl65" x:str>小姨妈</td>
+    <td class="xl65" x:str>姨妈真是你啊</td>
+    <td class="xl65" x:str>和家佳一起送上祝福</td>
+    <td class="xl65" x:str>一起祝福祖国，为祖国加油</td>
+    <td class="xl65" x:str>和家佳一起学起来，祝福祖国</td>
+    <td class="xl65" x:str>一起祝福祖国，越来越强</td>
+    <td class="xl65" x:str>一起表白祖国，我永远爱你祖国</td>
+    <td class="xl65" x:str>太可爱了家佳，跟着你一起舞起来啊</td>
+    <td class="xl65" x:str>跟着家佳一起舞起来，一起为澳门祈福</td>
+    <td class="xl65" x:str>祝福祖国，为澳门加油</td>
+    <td class="xl65" x:str>祝福祖国繁荣富强，为澳门加油</td>
+    <td class="xl65" x:str>跟着小姨妈学手势舞</td>
+    <td class="xl65" x:str>祝福祖国，跟着家佳的手势一起啊</td>
+    <td class="xl65" x:str>好看！学起来</td>
+    <td class="xl65" x:str>唐悠悠！</td>
+    <td class="xl65" x:str>小姨妈啊！</td>
+    <td class="xl65" x:str>手势舞学起来</td>
+    <td class="xl65" x:str>祝福祝福</td>
+    <td class="xl65" x:str>小姨妈威武。。</td>
+    <td class="xl65" x:str>好棒</td>
+    <td class="xl65" x:str>我第一眼以为是李小璐</td>
+    <td class="xl65" x:str>我的中国心</td>
+    <td class="xl65" x:str>手势舞学起来！</td>
+    <td class="xl65" x:str>小姨妈好美</td>
+    <td class="xl65" x:str>祝愿祖国繁荣昌盛啊和家佳姐一起</td>
+    <td class="xl65" x:str>跟着家佳姐学手势舞，祝福祖国</td>
+    <td class="xl65" x:str>祝福祖国，愿祖国繁荣昌盛</td>
+    <td class="xl65" x:str>和邓家佳一起表白祖国，祝福澳门</td>
+    <td class="xl65" x:str>小姨妈</td>
+    <td class="xl65" x:str>长江长城黄山黄河，在我心中重千斤，无论何时，无论何地，心中一样亲</td>
+    <td class="xl65" x:str>好美</td>
+    <td class="xl65" x:str>小姨妈</td>
+    <td class="xl65" x:str>支持支持支持！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>胡善祥</td>
+    <td class="xl65" x:str>她演技不错，感觉很真实</td>
+    <td class="xl65" x:str>漂亮小姨妈</td>
+    <td class="xl65" x:str>有点像金星</td>
+    <td class="xl65" x:str>【手势舞挑战一起来！发微博，点亮国旗区旗icon！】</td>
+    <td class="xl65" x:str>这个姐姐有点美</td>
+    <td class="xl65" x:str>祖国万岁</td>
+    <td class="xl65" x:str>小姨妈</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年</td>
+    <td class="xl65" x:str>和家佳一起表白祖国，祝福澳门</td>
+    <td class="xl65" x:str>愿祖国繁荣昌盛和佳姐一起祝福澳门！表白祖国</td>
+    <td class="xl65" x:str>跟着家佳一起祝祖国繁荣昌盛学起来</td>
+    <td class="xl65" x:str>㊗️祖国繁荣昌盛跟着家佳一起表白祖国</td>
+    <td class="xl65" x:str>小姨妈太棒啦！</td>
+    <td class="xl65" x:str>让我们一起和正能量演员邓家佳学起来</td>
+    <td class="xl65" x:str>和家佳一起祝福澳门回归20周年！我为中国骄傲</td>
+    <td class="xl65" x:str>小姨妈啊啊啊啊啊啊啊啊忽然好想她</td>
+    <td class="xl65" x:str>手势舞挑战一起来！发微博，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年</td>
+    <td class="xl65" x:str>年会的节目有着落了</td>
+    <td class="xl65" x:str>小姨妈来了</td>
+    <td class="xl65" x:str>比抖肩舞好看太多了</td>
+    <td class="xl65" x:str>小姨妈是谁？</td>
+    <td class="xl65" x:str>一起传播正能量，一起祝福祖国繁荣昌盛。</td>
+    <td class="xl65" x:str>跟家佳一起祝福祖国</td>
+    <td class="xl65" x:str>支持正能量的家佳！</td>
+    <td class="xl65" x:str>快来一起学起来</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>祝福我们的祖国和家佳一起做手势舞</td>
+    <td class="xl65" x:str>和家佳一起手势舞跳起来，祝福祖国</td>
+    <td class="xl65" x:str>祝福祖国繁荣昌盛，富强！</td>
+    <td class="xl65" x:str>必须支持正能量的家佳，手势舞学起来，表白祖国</td>
+    <td class="xl65" x:str>愿祖国越来越好，一起和家佳学手势舞传递对澳门的祝福，对祖国的爱</td>
+    <td class="xl65" x:str>非常有正能量的邓家佳，一起学手势舞</td>
+    <td class="xl65" x:str>家佳好美，一起和家佳祝愿我们伟大的祖国繁荣昌盛！</td>
+    <td class="xl65" x:str>一起和美腻的家佳学手势舞，祝福我们的祖国，愿祖国越来越富强</td>
+    <td class="xl65" x:str>家佳真是正能量，和家佳姐一起祝福祖国呀，手势舞学起来</td>
+    <td class="xl65" x:str>祝福祖国！跟家佳学起来！</td>
+    <td class="xl66" colspan="5" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【人民微评：绝不一放了之！】#未达刑责年龄未成年人不能一放了之#回应了舆论关切，更是对未成年人负责。通过惩戒，让他们敬畏法律；通过矫治，让他们学会做人。而解决未成年人违法犯罪难题，重在预防。“多建一所学校，就少建一座监狱”，无论家庭还是学校都应尽责，不让孩子走入歧途！</td>
+    <td class="xl65" x:str>1004</td>
+    <td class="xl65" x:str>那个杀了小女孩的13岁小恶魔，还有人记得吗？</td>
+    <td class="xl65" x:str>确实该管管了，但是降到13岁，12岁的犯罪怎么办？降到12岁，11岁的犯罪怎么办？……恶意补足年龄就挺好，只要ta有能力犯罪，就应认定ta有能力负刑事责任也有能力接受刑事处罚，而不管ta年龄是几岁。</td>
+    <td class="xl65" x:str>恶魔不分年龄。</td>
+    <td class="xl65" x:str>小时候是恶魔长大了也不会是天使</td>
+    <td class="xl65" x:str>希望严重罪行的判罚不要受年龄影响</td>
+    <td class="xl65" x:str>予以一定的惩戒和矫治？我感觉还是没啥用</td>
+    <td class="xl65" x:str>大连那个恶魔，能不能处以极刑？被害人也是未成年人啊，花儿一样的女孩儿！</td>
+    <td class="xl65" x:str>法律面前人人平等</td>
+    <td class="xl65" x:str>尊敬的人民日报，麻烦问一下，春蕾计划没下文了么？国字号的基金会评论不允许有不同的声音么？一个一个微博都开了精选评论，以前不开现在一个接一个开？春蕾计划明明用给贫困山区的女童的，清清楚楚明明白白写着的，现在居然用在男童身上，甚至还用在成年男童身上？只为买个单反？求专款专用</td>
+    <td class="xl65" x:str>早该如此，小小年纪就是个恶魔，你认为两三年后他会改过。</td>
+    <td class="xl65" x:str>凡事触犯刑法了，不分年龄，该怎样判决就怎样判决！</td>
+    <td class="xl65" x:str>支持支持</td>
+    <td class="xl65" x:str>必须依法</td>
+    <td class="xl65" x:str>绝不一放了之</td>
+    <td class="xl65" x:str>所以最终解决方法是什么？</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>支持！</td>
+    <td class="xl65" x:str>希望尽快落实</td>
+    <td class="xl65" x:str>对！未成年不是尚方宝剑！</td>
+    <td class="xl65" x:str>说的好，支持！</td>
+    <td class="xl65" x:str>在哪里可以查到，具体的实施办法或者说措施</td>
+    <td class="xl65" x:str>太棒了</td>
+    <td class="xl65" x:str>做错事肯定要负责，这是必须的，无论是谁！</td>
+    <td class="xl65" x:str>怎么说呢，刑事犯罪年龄一定要降，然后分层次分类别进行归类，精神病抑郁症什么的也要明确，一放了之算怎么回事？这些弱者的命是命，无辜受害者和百姓的命就不是命了？明明普通人的命更重要，法律却本末倒置保护恶徒，那是多么可笑，多么悲哀？</td>
+    <td class="xl65" x:str>看少年的你。校园霸凌的女孩，被欺负的女孩自杀了，她只是回家反思。因为为了让她参加高考！！那可是人命啊，就那么消失了。后来她继续霸凌女主，变本加厉，跟之前处罚太轻关系太大了！还问女主为何不报警？</td>
+    <td class="xl65" x:str>不觉得惩戒矫治有作用，小小年纪就犯案的，不如重罚，这种钻法律空子的所谓未成年人，应当重典伺候。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>绝不</td>
+    <td class="xl65" x:str>预防有什么卵用，那些犯罪的人难倒都不是学生吗他们没上学吗，高智商犯罪那么多学校教的东西能解决吗？学校除了关注成绩和哪个学生听话德智体美有好好在教吗今天你们体育老师美术老师病了吗老师有关注过语言暴力吗甚至有的老师自己都在语言暴力而不自知好吧？</td>
+    <td class="xl65" x:str>应该杀了，对于有些太坏的</td>
+    <td class="xl65" x:str>恶魔不分年龄。</td>
+    <td class="xl65" x:str>现在的孩子很早熟的，感觉10岁的孩子就什么都懂了，不要让年龄成为他们犯罪的保护伞，请严惩犯罪的坏孩子</td>
+    <td class="xl65" x:str>从小就杀人防火，教育还有用吗？必须杀一儆百！！</td>
+    <td class="xl65" x:str>支持//:【人民微评绝不一放了之！】回应了舆论关切，更是对未成年人负责。通过惩戒，让他们敬畏法律；通过矫治，让他们学会做人。而解决未成年人违法犯罪难题，重在预防。“多建一所学校，就少建一座监狱”，无论家庭还是学校都应尽责，不让孩子走入歧途</td>
+    <td class="xl65" x:str>他还是个孩子！长大了还得了！</td>
+    <td class="xl65" x:str>//:【人民微评绝不一放了之！】回应了舆论关切，更是对未成年人负责。通过惩戒，让他们敬畏法律；通过矫治，让他们学会做人。而解决未成年人违法犯罪难题，重在预防。“多建一所学校，就少建一座监狱”，无论家庭还是学校都应尽责，不让孩子走入歧途！</td>
+    <td class="xl65" x:str>惩罚是对受害者的正义，也是对施暴者的及时教育。不惩罚，就放回去，毁了的是受害者一家，也毁了犯错者醒悟认错的机会。他只会变本加厉走向灭亡。</td>
+    <td class="xl65" x:str>希望大连的那个魔鬼被人打得半死</td>
+    <td class="xl65" x:str>为何要如此偏袒这群禽兽</td>
+    <td class="xl65" x:str>//:确实该管管了，但是降到13岁，12岁的犯罪怎么办？降到12岁，11岁的犯罪怎么办？……恶意补足年龄就挺好，只要ta有能力犯罪，就应认定ta有能力负刑事责任也有能力接受刑事处罚，而不管ta年龄是几岁。</td>
+    <td class="xl65" x:str>早该这样了!支持</td>
+    <td class="xl65" x:str>恶魔不分年龄</td>
+    <td class="xl65" x:str>少儿不治，老大为贼</td>
+    <td class="xl65" x:str>绝对支持</td>
+    <td class="xl65" x:str>就是犯罪成本低让这些“小恶魔”如此猖狂我觉得小学初中高中都要加强法律宣传我记得我小学那段时间交通事故很多学校会一个学期开展一次活动告诉我们怎么过马路怎么注意安全我觉得真不错</td>
+    <td class="xl65" x:str>有人天生就是恶魔。</td>
+    <td class="xl65" x:str>记得那个杀了他妈的小男孩奶奶爸爸带他要求学校让他给正常孩子一样上课单独补课好像都不愿意他奶奶跟他爸包括孩子完全没事人一样</td>
+    <td class="xl65" x:str>终于正视这个问题了</td>
+    <td class="xl65" x:str>不能放过他们，放虎归山</td>
+    <td class="xl65" x:str>确实该这样</td>
+    <td class="xl65" x:str>我认为未成年人犯罪先给他记上，成年以后再犯得话就把前面的那几年加上一块蹲。</td>
+    <td class="xl65" x:str>是的！</td>
+    <td class="xl65" x:str>恶意补足制度恶意可以通过心理测定！英国麦纳顿“明知”判定和美国刑法典“辨别”判定！！！不是主观断案</td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>未成年人12岁（含12岁）犯罪同成人判处，家长负责民事赔偿，未满12岁犯法应根据犯罪情节管制监禁，家长附带民事赔偿，情节严重的幽闭（全黑暗状态监禁）</td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>支持！！！太好了！！</td>
+    <td class="xl65" x:str>//:【人民微评绝不一放了之！】回应了舆论关切，更是对未成年人负责。通过惩戒，让他们敬畏法律；通过矫治，让他们学会做人。而解决未成年人违法犯罪难题，重在预防。“多建一所学校，就少建一座监狱”，无论家庭还是学校都应尽责，不让孩子走入歧途！</td>
+    <td class="xl65" x:str>那么点的小孩就犯罪杀人难道不该警醒么？心里绝对有问题吧</td>
+    <td class="xl65" x:str>是//:【人民微评绝不一放了之！】回应了舆论关切，更是对未成年人负责。通过惩戒，让他们敬畏法律；通过矫治，让他们学会做人。而解决未成年人违法犯罪难题，重在预防。“多建一所学校，就少建一座监狱”，无论家庭还是学校都应尽责，不让孩子走入歧途！</td>
+    <td class="xl65" x:str>//:【人民微评绝不一放了之！】回应了舆论关切，更是对未成年人负责。通过惩戒，让他们敬畏法律；通过矫治，让他们学会做人。而解决未成年人违法犯罪难题，重在预防。“多建一所学校，就少建一座监狱”，无论家庭还是学校都应尽责，不让孩子走入歧途！</td>
+    <td class="xl65" x:str>只要是犯罪，都必须惩罚！不能给犯罪理由！</td>
+    <td class="xl65" x:str>绝不一放了之，这句话之后有太多太多的工作要做了。//:【人民微评绝不一放了之！】回应了舆论关切，更是对未成年人负责。通过惩戒，让他们敬畏法律；通过矫治，让他们学会做人。而解决未成年人违法犯罪难题，重在预防。“</td>
+    <td class="xl65" x:str>支持！</td>
+    <td class="xl65" x:str>岩//:【人民微评绝不一放了之！】回应了舆论关切，更是对未成年人负责。通过惩戒，让他们敬畏法律；通过矫治，让他们学会做人。而解决未成年人违法犯罪难题，重在预防。“多建一所学校，就少建一座监狱”，无论家庭还是学校都应尽责，不让孩子走入歧途！</td>
+    <td class="xl65" x:str>//:恶魔不分年龄。</td>
+    <td class="xl65" x:str>本来法律就应该以罪量刑！必须强化法律的底线意识法律，是守法者的护身符，不是犯法者的保护伞！</td>
+    <td class="xl65" x:str>这些未达到年龄的的罪犯的父母也需要受到一些相应的处罚惩罚吧。未达年龄不能一放了之，父母养出这样的孩子也是有责任的啊，需要负责的啊。</td>
+    <td class="xl65" x:str>国家对最近民众强烈反应的问题都在尽力解决，真的很了不起，未成年人犯罪，香港教育问题等</td>
+    <td class="xl65" x:str>恶魔不分年龄</td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>支持！恶魔不分年龄！！</td>
+    <td class="xl65" x:str>//:【人民微评绝不一放了之！】回应了舆论关切，更是对未成年人负责。通过惩戒，让他们敬畏法律；通过矫治，让他们学会做人。而解决未成年人违法犯罪难题，重在预防。“多建一所学校，就少建一座监狱”，无论家庭还是学校都应尽责，不让孩子走入歧途！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>必须死刑立即执行</td>
+    <td class="xl65" x:str>怎么惩戒？</td>
+    <td class="xl65" x:str>。</td>
+    <td class="xl65" x:str>真的不可以姑息！</td>
+    <td class="xl65" x:str>杀人偿命，天经地义</td>
+    <td class="xl65" x:str>赞</td>
+    <td class="xl65" x:str>这话说的只有原则没有实施办法啊</td>
+    <td class="xl65" x:str>家庭观念重要</td>
+    <td class="xl66" colspan="8" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="156" style='height:78.00pt;'>
+    <td class="xl65" height="156" style='height:78.00pt;' x:str>【@#明日考研#的同学：过来人给你的几条建议】明天，#2020硕士研究生考试#开考。作为战友or过来人的你，有哪些建议？投票！送上你的提醒，愿所有考生考试结束收笔如刀剑入鞘，走出考场阔步如凯旋归来！R人民日报的微博投票​​​​</td>
+    <td class="xl65" x:str>667</td>
+    <td class="xl65" x:str>点赞此评论逢考必过</td>
+    <td class="xl65" x:str>其实不管结果如何，能坚持下来已经很棒了</td>
+    <td class="xl65" x:str>凯旋包含了归来的意思</td>
+    <td class="xl65" x:str>希望未来的对象考研成功</td>
+    <td class="xl65" x:str>我想知道怎么调整心态，我好脆弱啊忍不住哭，明天就要考试了。</td>
+    <td class="xl65" x:str>考研对我来说不只是4*3小时的考场经历，更多的是一种成长吧，一个人的孤军奋战,一个人面对所有的压力，每天叫醒自己的只是必须要考上某所学校，每天三点一线无娱乐的生活，只是想让自己可以完成自己心中的理想，没有人知道你有多苦，多的是一个人默默承受，都加油吧</td>
+    <td class="xl65" x:str>不慌，全日制完了还有非全，总能考到地老天荒</td>
+    <td class="xl65" x:str>儿子去年读研，考试经验比较丰富。他说，上考场就是上战场，必须全身心投入，不要想其它任何问题，耳不旁听目不斜视，自信再自信，专注再专注，细心再细心。最后，最好的祝福送给你们！明天马到成功！</td>
+    <td class="xl65" x:str>一战成名，如果不行，二战九八五，三战清北复，四战命题组。所有的努力都会有结果许愿上岸。</td>
+    <td class="xl65" x:str>考的都会，会的都考</td>
+    <td class="xl65" x:str>奥利给！</td>
+    <td class="xl65" x:str>千万不要提前交卷！因为曾经有个男人在最后35秒拿了13分！</td>
+    <td class="xl65" x:str>我的班主任今年也要考研。我想告诉他:放心吧，我已经跟数学老师说好了，让他监考你的时候给你传递错误答案（(∩_∩)还是在线保佑我老班考研成功）</td>
+    <td class="xl65" x:str>不要告诉我考上之后多苦，老子就不怕苦，明年必须是个研究生</td>
+    <td class="xl65" x:str>8</td>
+    <td class="xl65" x:str>在这里给我所有认识的考研的，加把劲你们都可以的</td>
+    <td class="xl65" x:str>谢谢</td>
+    <td class="xl65" x:str>我们下周考试</td>
+    <td class="xl65" x:str>加油各位，奥力给！</td>
+    <td class="xl65" x:str>其实不管结果如何，能坚持下来已经很棒了</td>
+    <td class="xl65" x:str>过来人:不要管什么埋头写就对了用下笔速度击退竞争对手</td>
+    <td class="xl65" x:str>17年弹指一挥，考研最不能想的就是结果和后果，考就完了</td>
+    <td class="xl65" x:str>加油＾０＾~</td>
+    <td class="xl65" x:str>明天德杯懂？</td>
+    <td class="xl65" x:str>愿所有的努力都有好结果</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>愿我们的努力对的起自己的实力[米奇比心]</td>
+    <td class="xl65" x:str>明年打算考思政教育的研究生，希望过来的学姐学长给点建议另祝今年考研的小姐姐小哥哥旗开得胜</td>
+    <td class="xl65" x:str>乌拉</td>
+    <td class="xl65" x:str>祝都是过儿</td>
+    <td class="xl65" x:str>心态真的很重要！！！</td>
+    <td class="xl65" x:str>录取39人，初试第40名，总成绩第32名...不高，但是也是一次上岸了...考研er不要放弃就对了，万一最后见了鬼，说不定逆袭的就是你...</td>
+    <td class="xl65" x:str>加油呀沉住气你们能行的逢考必过哦</td>
+    <td class="xl65" x:str>加油啊！不到最后一刻千万别放弃</td>
+    <td class="xl65" x:str>zhw给爷冲！！么么！！</td>
+    <td class="xl65" x:str>别走错考场，别记错时间</td>
+    <td class="xl65" x:str>不管自己觉得怎么样，一定要坚持考完</td>
+    <td class="xl65" x:str>太难了今晚还发低烧了头晕晕沉沉还要肖四背到最后一秒我希望有奇迹</td>
+    <td class="xl65" x:str>心态真的很重要</td>
+    <td class="xl65" x:str>心态最重要</td>
+    <td class="xl65" x:str>肖4一定要背熟咯</td>
+    <td class="xl65" x:str>加油(ง•̀_•́)ง加油(ง•̀_•́)ง加油(ง•̀_•́)ง</td>
+    <td class="xl65" x:str>说凯旋的，咋的考上之后衣锦还乡不是回来的意思？有啥不能用的？我寻思不是考上了回家跟爸妈报喜的意思吗？？</td>
+    <td class="xl65" x:str>高考和考研的全部超长发挥的路过。不用担心也不用紧张，实在紧张就先做熟悉的题目。也不用因为考场上紧张而害怕，有时紧张能让你思维运转加快</td>
+    <td class="xl65" x:str>希望你们一切顺利保持好心态考研期间全天在线陪聊就算觉着自己考的再烂也给劳资坚持考完全部科目！</td>
+    <td class="xl65" x:str>谢谢考研，教会我不能逃避，坚持下去。看着今晚微博上满屏的考研祝福，眼泪止不住往下流。我走到今天，才深刻地理解了这就是传说中的“一个人的奋斗和孤独”，也才知道考研路上一个个孤独的人在给别人加油鼓劲的同时也成就了自己。加油！每一个为考研付出过的人！</td>
+    <td class="xl65" x:str>考研加油，坚持就是胜利</td>
+    <td class="xl65" x:str>都上岸！高处见！明年这个时候不想再见到你们！</td>
+    <td class="xl65" x:str>肖四背到最后</td>
+    <td class="xl65" x:str>感觉自己好多东西都没记住，背了又忘，好焦虑</td>
+    <td class="xl65" x:str>要相信结局绝对不会辜负你所付出的努力</td>
+    <td class="xl65" x:str>考前听Beyond，吃巧克力（今年推荐麦维他巧克力脆麦丽素），热血沸腾，就过啦有人辞官归故里，有人星夜赶科场。祝福所有为梦想努力的考研人</td>
+    <td class="xl65" x:str>加油加油！</td>
+    <td class="xl65" x:str>经历以后有的是时间说，先谈经验，希望学弟学妹们看下，抢回几分！拉我上去，给需要的人转走！看我置顶</td>
+    <td class="xl65" x:str>我就说一句:你迟早都是研究生</td>
+    <td class="xl65" x:str>摆正心态保持专注！相信自己一定行。加油祝梦想成真，金榜题名</td>
+    <td class="xl65" x:str>加油啊</td>
+    <td class="xl65" x:str>等我后天考完过来给经验</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>平常心态。真的只是一次考试而已。如果有弃考的那叫懦弱。</td>
+    <td class="xl65" x:str>背肖四！！！！</td>
+    <td class="xl65" x:str>坚持到底就是胜利</td>
+    <td class="xl65" x:str>加油加油!不要紧张!祝大家都考出好成绩</td>
+    <td class="xl65" x:str>我将战斗到底</td>
+    <td class="xl65" x:str>凯旋归来是个病句</td>
+    <td class="xl65" x:str>心静，宁静，安静</td>
+    <td class="xl65" x:str>希望我的女儿未来的婆婆考研成功</td>
+    <td class="xl65" x:str>一定要坚持</td>
+    <td class="xl65" x:str>凯旋就有归来的意思，凯旋归来是错的，都说了几遍了，你到底长没长脑子啊！</td>
+    <td class="xl65" x:str>明年再见</td>
+    <td class="xl65" x:str>真的就是坚持</td>
+    <td class="xl65" x:str>注意细节，认真对待，懂的放手，坚持到底</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>老妹加油</td>
+    <td class="xl65" x:str>冲鸭！加油啊啊啊啊</td>
+    <td class="xl65" x:str>Goodluck</td>
+    <td class="xl65" x:str>放平心态，考上不一定是好事，顺其自然就好。</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>我的建议就是，别多想直接冲。</td>
+    <td class="xl65" x:str>明天考试，我想背肖四，可我好困，猪一样</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>加油加油加油，有时候也要相信唯心主义</td>
+    <td class="xl65" x:str>想起来我在中还写过蒋天的第一次考研失败，不过大结局是成功了。希望同学们都能超常发挥，斩获梦校！</td>
+    <td class="xl65" x:str>啥也不用说了！敢上考场，你就已经赢了！心态要稳，小妹妹小弟弟们！妥了加油！</td>
+    <td class="xl65" x:str>加油！</td>
+    <td class="xl65" x:str>加油加油</td>
+    <td class="xl65" x:str>别忘了写名字，逢考必过</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【#明日考研#，为每个考研人加油！​​​​】明天，#2020硕士研究生考试#开考。这一年，感谢无比坚强的你，走到这里，已经是英雄。愿你笔盖进笔帽时，有刀剑入鞘般的骄傲！转发祝福，加油！​​​​</td>
+    <td class="xl65" x:str>1748</td>
+    <td class="xl65" x:str>翻我，考试的都能过</td>
+    <td class="xl65" x:str>我一定是研究生！一言为定！</td>
+    <td class="xl65" x:str>第一张是河南财经政法大学的图书馆母校啊</td>
+    <td class="xl65" x:str>考研备考就像黑屋子里洗衣服，你不知道洗干净了没有，只能一遍一遍的去洗。等到上了考场那一刻，灯光亮了，你发现，只要你认真洗过了，那件衣服光亮如新。让你以后每次穿这件衣服都会想起那段岁月。现在已经到了黎明前的黑暗，灯马上就要亮了，大胆地昂头挺胸往前走就对了，没有后悔，不留遗憾就好！</td>
+    <td class="xl65" x:str>第一张是我财大呀！我们都能上岸！</td>
+    <td class="xl65" x:str>祝考研顺利通过</td>
+    <td class="xl65" x:str>加油星光不负赶路人，逢考必过</td>
+    <td class="xl65" x:str>第一个图，我财大又被人民日报翻牌子了，哈哈哈哈哈哈。</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>考研对我来说不只是4*3小时的考场经历，更多的是一种成长吧，一个人的孤军奋战,一个人面对所有的压力，每天叫醒自己的只是必须要考上某所学校，每天三点一线无娱乐的生活，只是想让自己可以完成自己心中的理想，没有人知道你有多苦</td>
+    <td class="xl65" x:str>一战打基础，二战九八五，三战清北复，四战命题组，五战教育部，六战科文组，七战八战你来出教辅，九战十战留名千古</td>
+    <td class="xl65" x:str>加油！</td>
+    <td class="xl65" x:str>我为这些考研大军的孩子们奋斗拼搏精神老泪纵横，你们太不容易了！你们辛苦了！你们都是新时期的英雄好汉好女！考完了好好休息一下，好好放松一下。祝你们明天过五关斩六将考试成功！祝福你们！</td>
+    <td class="xl65" x:str>也不知道为什么每次考研旁边的宾馆都涨价。我同学都翻倍了。</td>
+    <td class="xl65" x:str>冲鸭！加油加油！</td>
+    <td class="xl65" x:str>冲冲冲</td>
+    <td class="xl65" x:str>表白图一！河南财大</td>
+    <td class="xl65" x:str>祝所有参考的小家伙们“一笔带过”！愿多年的努力不负众望，也愿你们的努力得到回报。成功与否，不看这次，路很长，放松考，开心的考。愿你合上笔盖的那一刻，有着战士收刀入鞘的骄傲。加油！求得文殊菩萨佑所有参考的学弟学妹们金榜题名。</td>
+    <td class="xl65" x:str>加油祝你们金榜题名</td>
+    <td class="xl65" x:str>加油！！！</td>
+    <td class="xl65" x:str>愿你们不辜负努力过的时光加油！奥力给！！！</td>
+    <td class="xl65" x:str>加油！！！！</td>
+    <td class="xl65" x:str>加油！</td>
+    <td class="xl65" x:str>考研加油</td>
+    <td class="xl65" x:str>祝顺利上岸！（P.S咖啡利尿，明天少喝，要么早喝早排）</td>
+    <td class="xl65" x:str>愿我们一战成硕！你好，考研人！</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>考研一定要考后有研，不能考而不研。</td>
+    <td class="xl65" x:str>啊啊啊是财大图书馆啊，毕业老学姐两眼一酸，学弟学妹们加油</td>
+    <td class="xl65" x:str>加油研究生们！</td>
+    <td class="xl65" x:str>为梦想拼搏都不辛苦！愿付出都得到应有的回报！</td>
+    <td class="xl65" x:str>快要考试了</td>
+    <td class="xl65" x:str>就为了心中的一口气吧。那段日子觉得心理是踏实的，没有杂念，觉得考完了自己就已经很成功了，因为感受到了为梦想而奋斗的美好。不管结果是什么，也没有值得不值得，即使失败了也还是觉得一切皆有可能。最美的考研人，你们真的很棒，当你们走出考场的时候，希望是面带微笑的，只为你那颗最坚定的心❤️</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>加油，祝大家会的全对，蒙的全对，考神附体，冲鸭</td>
+    <td class="xl65" x:str>加油！！！</td>
+    <td class="xl65" x:str>我怎么觉得每个戴套袖的人都自带学霸气场呢</td>
+    <td class="xl65" x:str>祝你们所有人都上岸</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>你的微博有我的足迹</td>
+    <td class="xl65" x:str>为我的前男友加油</td>
+    <td class="xl65" x:str>马上考试了，大家加油！！！保持状态，即使你会休息不好，睡不着觉，那都是正常的，看我微博置顶，研究生学长分享的一些经验，希望对你们有用，可以提几分！</td>
+    <td class="xl65" x:str>我会一直祝福你！祝你考试顺利！希望你最后得到的东西，值得你放弃了我！</td>
+    <td class="xl65" x:str>加油！</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>加油加油加油我们都会上岸的！！！！！</td>
+    <td class="xl65" x:str>大家加油</td>
+    <td class="xl65" x:str>加油啊小研们</td>
+    <td class="xl65" x:str>祝考研的同学们顺利上岸哦加油哦</td>
+    <td class="xl65" x:str>加油！冲鸭！</td>
+    <td class="xl65" x:str>考研加油！成功上岸！</td>
+    <td class="xl65" x:str>加油，考研的学子们</td>
+    <td class="xl65" x:str>加油！！你能上岸的！！</td>
+    <td class="xl65" x:str>加油！！！好害怕，好紧张！好开心我去年已经考过了！哈哈哈哈</td>
+    <td class="xl65" x:str>加油！明天考试的必过</td>
+    <td class="xl65" x:str>加油驴驴</td>
+    <td class="xl65" x:str>正在背肖一…</td>
+    <td class="xl65" x:str>考研学子加油！！！</td>
+    <td class="xl65" x:str>加油！！</td>
+    <td class="xl65" x:str>噢力给</td>
+    <td class="xl65" x:str>考研加油！</td>
+    <td class="xl65" x:str>躲三年就业形势也不一定好转</td>
+    <td class="xl65" x:str>图2和图9都是王江涛</td>
+    <td class="xl65" x:str>加油!</td>
+    <td class="xl65" x:str>wyq加油，你可以的，我等你，我爱你</td>
+    <td class="xl65" x:str>加油！很羡慕这些有决心且狠下心去备考的学子，寒冬里为你们加油点赞，明天加油</td>
+    <td class="xl65" x:str>加油！准研究生们，就这一哆嗦了，岸上见！</td>
+    <td class="xl65" x:str>祝逢考必过，一战成硕！</td>
+    <td class="xl65" x:str>上岸</td>
+    <td class="xl65" x:str>希望我能顺利上岸！为我们加油吧！</td>
+    <td class="xl65" x:str>有啥用呢逃避工作</td>
+    <td class="xl65" x:str>加油   国家的未来</td>
+    <td class="xl65" x:str>加油鸭！去年考完英语哭了半天以为自己上不了差点想放弃第二天考试。后面结果分数还过了几十分，还得了一志愿的老师。坚持就是胜利</td>
+    <td class="xl65" x:str>加油加油！！！一定都会上岸的！冲冲冲</td>
+    <td class="xl65" x:str>加油，好运，努力，祝你们成功</td>
+    <td class="xl65" x:str>我们都是追梦者，更是圆梦人，大家一起加油！</td>
+    <td class="xl65" x:str>会的！哪怕很艰难</td>
+    <td class="xl65" x:str>明天的你们加油明年的我加油</td>
+    <td class="xl65" x:str>加油吧少年</td>
+    <td class="xl65" x:str>突然委屈</td>
+    <td class="xl65" x:str>生死看淡不服就干</td>
+    <td class="xl65" x:str>明年我也</td>
+    <td class="xl65" x:str>学长学姐们，祝你们早日上岸！</td>
+    <td class="xl65" x:str>加油一定过</td>
+    <td class="xl66" colspan="5" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="104" style='height:52.00pt;'>
+    <td class="xl65" height="104" style='height:52.00pt;' x:str>#澳门回归20周年#，加入#我的中国心#手势舞挑战！并不复杂的动作，表达同一个心声：祝福澳门、祝福祖国！转发微博，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>235</td>
+    <td class="xl65" x:str>手手都好好看，祝福澳门，和祖国一起加油</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>主持小姐姐真漂亮网恋吗</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门！！为澳门点赞！！手势舞学起来！！</td>
+    <td class="xl65" x:str>爱上小姐姐的有没有</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，点赞中国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>参加主持人大赛那个吧</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国！祝福澳门！</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>这个主持人参加了今年的主持人大赛了，他很厉害哦！</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>祝福澳门，表白祖国//:，加入手势舞挑战！并不复杂的动作，表达同一个心声祝福澳门、祝福祖国！转发微博，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福//:，加入手势舞挑战！并不复杂的动作，表达同一个心声祝福澳门、祝福祖国！转发微博，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>//:，加入手势舞挑战！并不复杂的动作，表达同一个心声祝福澳门、祝福祖国！转发微博，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>//:，加入手势舞挑战！并不复杂的动作，表达同一个心声祝福澳门、祝福祖国！转发微博，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>祝福澳门！祝福祖国！//:，加入手势舞挑战！并不复杂的动作，表达同一个心声祝福澳门、祝福祖国！转发微博，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国。</td>
+    <td class="xl65" x:str>澳门现在发展不错。祝福澳门祝福祖国越来越好</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>祝福澳门！祝福祖国！！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>//:，加入手势舞挑战！并不复杂的动作，表达同一个心声祝福澳门、祝福祖国！转发微博，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>，加入手势舞挑战！并不复杂的动作，表达同一个心声祝福澳门、祝福祖国！转发微博，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>//:，加入手势舞挑战！并不复杂的动作，表达同一个心声祝福澳门、祝福祖国！转发微博，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，希望澳门越来越好！祖国越来越强大！</td>
+    <td class="xl65" x:str>我爱你中国</td>
+    <td class="xl65" x:str>华能集团推平几千亩林地不曝光一下？</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>祝福澳门，点赞中国</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>棒！</td>
+    <td class="xl65" x:str>求完整版</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>我问一下手语可以有口型的吗</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>//:，加入手势舞挑战！并不复杂的动作，表达同一个心声祝福澳门、祝福祖国！转发微博，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>我学不会，哈哈哈，觉得手势舞好看</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>点赞澳门</td>
+    <td class="xl65" x:str>祝福澳门一个中国</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门   表白祖国</td>
+    <td class="xl65" x:str>有点像应采儿。</td>
+    <td class="xl65" x:str>澳门加油！</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门呀</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>主持人大赛的熟面孔</td>
+    <td class="xl65" x:str>祝福澳门，祝福中国，爱你们</td>
+    <td class="xl65" x:str>表白我们伟大的祖国</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>澳门</td>
+    <td class="xl65" x:str>赞</td>
+    <td class="xl65" x:str>我的中国心//:，加入手势舞挑战！并不复杂的动作，表达同一个心声祝福澳门、祝福祖国！转发微博，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>阿中向前冲鸭！！！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>越祖国越来越强大，祝福澳门回归二十周年。越来越好//:，加入手势舞挑战！并不复杂的动作，表达同一个心声祝福澳门、祝福祖国！转发微博，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国，我爱我的祖国//:，加入手势舞挑战！并不复杂的动作，表达同一个心声祝福澳门、祝福祖国！转发微博，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>主持人大赛有这个小姐姐</td>
+    <td class="xl65" x:str>祝福祖国❤️共建美好未来</td>
+    <td class="xl65" x:str>//:，加入手势舞挑战！并不复杂的动作，表达同一个心声祝福澳门、祝福祖国！转发微博，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>祝福祖国！祝福澳门！</td>
+    <td class="xl65" x:str>点赞澳门</td>
+    <td class="xl66" colspan="4" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="104" style='height:52.00pt;'>
+    <td class="xl65" height="104" style='height:52.00pt;' x:str>【正式测定：#阿富汗北部6.4级地震#，#新疆喀什有震感#】中国地震台网正式测定：12月20日19时39分在阿富汗（北纬36.50度，东经70.60度）发生6.4级地震，震源深度200千米。</td>
+    <td class="xl65" x:str>303</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>都要平平安安</td>
+    <td class="xl65" x:str>愿平安，一切都要安好</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>地球怎么啦，动得频繁了一点吧</td>
+    <td class="xl65" x:str>原来阿富汗离我们这么近？</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>要平安啊</td>
+    <td class="xl65" x:str>祈愿平安！</td>
+    <td class="xl65" x:str>望平安？</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>震感好强  被吓到了希望阿国人民平安</td>
+    <td class="xl65" x:str>愿一切平安</td>
+    <td class="xl65" x:str>愿平安！！！</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿家人平安无事</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>和田有震感，两次</td>
+    <td class="xl65" x:str>我有亲戚在胡占德，离兴都库什有多远？会有大的影响吗？</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>平安</td>
+    <td class="xl65" x:str>希望一切安好，愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>平安一切都好</td>
+    <td class="xl65" x:str>希望平平安安的。</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>天哪</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>希望没有人员伤亡</td>
+    <td class="xl65" x:str>地球准备流浪了吗？</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>平安</td>
+    <td class="xl65" x:str>200km，望平安</td>
+    <td class="xl65" x:str>祝安全平安</td>
+    <td class="xl65" x:str>祈福平安</td>
+    <td class="xl65" x:str>望平安！</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>。</td>
+    <td class="xl65" x:str>平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl66" colspan="19" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="130" style='height:65.00pt;'>
+    <td class="xl65" height="130" style='height:65.00pt;' x:str>【兴都库什7.0级地震，#新疆喀什有震感#】中国地震台网自动测定：12月20日19时39分在兴都库什地区附近（北纬36.51度，东经70.52度）发生7.0级左右地震，最终结果以正式速报为准。​​​​</td>
+    <td class="xl65" x:str>1320</td>
+    <td class="xl65" x:str>年底了，愿家家户户平安</td>
+    <td class="xl65" x:str>愿一切安好</td>
+    <td class="xl65" x:str>平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安啊</td>
+    <td class="xl65" x:str>平安平安</td>
+    <td class="xl65" x:str>年底了，怎么地震也要过年了，好活跃</td>
+    <td class="xl65" x:str>愿平安，为啥最近总是地震</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿一切安好，加油，明天会更好，祈福平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>今年地震特别多，上个月经历过余震，吓到腿软，愿平安啊</td>
+    <td class="xl65" x:str>原平安</td>
+    <td class="xl65" x:str>天呐，一定要平安</td>
+    <td class="xl65" x:str>愿平安！！！</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>平安，平安，一定会平安的</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿一切平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安(ღ˘⌣˘ღ)</td>
+    <td class="xl65" x:str>天佑我中华。</td>
+    <td class="xl65" x:str>啊家乡要安好</td>
+    <td class="xl65" x:str>平安</td>
+    <td class="xl65" x:str>哇</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>我在喀什，正炒菜呢，突然摇晃，我以为我得炒锅晃动呢</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>？愿平安</td>
+    <td class="xl65" x:str>只要不是我国就好</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>平安啊！！</td>
+    <td class="xl65" x:str>哇，好严重。</td>
+    <td class="xl65" x:str>保佑平安</td>
+    <td class="xl65" x:str>平安</td>
+    <td class="xl65" x:str>七级！愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>平安平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>为什么今年那么多地震</td>
+    <td class="xl65" x:str>一定要平安无事</td>
+    <td class="xl65" x:str>快过年了，愿大家都平安吧！！！</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>平安</td>
+    <td class="xl65" x:str>望安好</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>望平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>平安</td>
+    <td class="xl65" x:str>一定要平安啊</td>
+    <td class="xl65" x:str>愿平安，</td>
+    <td class="xl65" x:str>一切平安，喀什真的震感好强烈</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>保佑平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>天呐七级啊</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>天呐！！！这是这几年来最大的一次了吧！！！愿伤亡少之又少！！救援人员注意安全！！</td>
+    <td class="xl65" x:str>祈祷</td>
+    <td class="xl65" x:str>愿一定要平平安安</td>
+    <td class="xl65" x:str>2019快过去吧…愿平安！</td>
+    <td class="xl65" x:str>平安是“福”愿一切众生平安</td>
+    <td class="xl65" x:str>阿地震的地方是中国嘛，我看着搁斯坦那儿</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>平安</td>
+    <td class="xl65" x:str>愿平安！</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>这是国外呀？谁搞核武器实验呢吧</td>
+    <td class="xl65" x:str>平安</td>
+    <td class="xl65" x:str>平安平安</td>
+    <td class="xl65" x:str>看看</td>
+    <td class="xl65" x:str>祈愿平安</td>
+    <td class="xl65" x:str>愿平安啊</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>一定要平安啊</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl66" colspan="4" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="104" style='height:52.00pt;'>
+    <td class="xl65" height="104" style='height:52.00pt;' x:str>#故宫年客流量1900万破纪录#，已是世界上最聚人气儿的博物馆。送你网友推荐#故宫最佳游览线路#↓留着周末去看看？转需不谢~（@城市不麋鹿_陆叔）L北京发布的微博视频​​​​</td>
+    <td class="xl65" x:str>813</td>
+    <td class="xl65" x:str>还没去过的举个爪</td>
+    <td class="xl65" x:str>有机会一定要去看看</td>
+    <td class="xl65" x:str>故宫不去一次会蛮遗憾的</td>
+    <td class="xl65" x:str>故宫太大了，走马观花一样随人流到处走，如果细致的驻足看珍宝和书画展，可能一天都逛不尽兴</td>
+    <td class="xl65" x:str>想去的请点赞</td>
+    <td class="xl65" x:str>好想去看看</td>
+    <td class="xl65" x:str>有机会再去一次[冰雪奇缘雪宝]</td>
+    <td class="xl65" x:str>文华殿闭馆中，各位。另，周一闭馆。周一下雪那天，还有好多人要从北门进去。南进北出。午门单行线，也不能往南去天安门。东华门门口电瓶车，就到午门外，不到天安门</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>感谢路线，老祖宗留下的好东西真的值得一一探寻一下！</td>
+    <td class="xl65" x:str>一个值得静下心来去细细品味的地方，一砖一瓦都有它自己的故事，一定会去看一次。</td>
+    <td class="xl65" x:str>先存，一定会去一次</td>
+    <td class="xl65" x:str>前几天刚去了</td>
+    <td class="xl65" x:str>有机会了一定要去看看</td>
+    <td class="xl65" x:str>去故宫转了两次都没转遍</td>
+    <td class="xl65" x:str>走了一次东六宫</td>
+    <td class="xl65" x:str>每年都要去好多回，可以说是我打卡最多的博物馆了</td>
+    <td class="xl65" x:str>啊我上次就绕了一大圈一天愣是没逛完</td>
+    <td class="xl65" x:str>收藏↓一去游故宫</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>去过一次可是不过瘾啊</td>
+    <td class="xl65" x:str>人少的时候，能呆上一天该多好呀……</td>
+    <td class="xl65" x:str>马</td>
+    <td class="xl65" x:str>收起来，还要去</td>
+    <td class="xl65" x:str>第一次去的时候就看了个中轴线</td>
+    <td class="xl65" x:str>看完上新了故宫之后就好想再去看一下</td>
+    <td class="xl65" x:str>故宫要n刷</td>
+    <td class="xl65" x:str>OK</td>
+    <td class="xl65" x:str>要在故宫走几万步了我们</td>
+    <td class="xl65" x:str>主要是中国人多哈哈</td>
+    <td class="xl65" x:str>想带父母去</td>
+    <td class="xl65" x:str>夏天去，建议排了半小时队以后，直接右拐去文华殿，那边可以买冷饮，还有厕所，休息的地方，实在不想逛了还可以直接出去，去王府井逛逛</td>
+    <td class="xl65" x:str>武英殿进不去啦</td>
+    <td class="xl65" x:str>上新了故宫   </td>
+    <td class="xl65" x:str>去过一次，有机会会再去看看</td>
+    <td class="xl65" x:str>票价最便宜的古园林式家宅大院</td>
+    <td class="xl65" x:str>平均门票按50块钱算，一年就是将近10亿</td>
+    <td class="xl65" x:str>很需要</td>
+    <td class="xl65" x:str>看到11号周六下雪赶紧买票去看故宫的雪！！！！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>收藏，有机会好好看一次故宫。</td>
+    <td class="xl65" x:str>去了两次都因太大了而早早的跑出来</td>
+    <td class="xl65" x:str>我在武英殿就能待上一天看不完的书画展览。</td>
+    <td class="xl65" x:str>约吗，明年故宫之行</td>
+    <td class="xl65" x:str>每年去一次故宫，每次都有不同的感触！仍是那片青瓦红墙，不同的是每次对内心的撼动！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>需要多去几次</td>
+    <td class="xl65" x:str>太大了。逛不过来。</td>
+    <td class="xl65" x:str>身为一个北京人，还真没认真仔细的逛过故宫</td>
+    <td class="xl65" x:str>哇！这个得收藏，一直很想去看看！一定要去看看！路线留着用！</td>
+    <td class="xl65" x:str>故宫博物院</td>
+    <td class="xl65" x:str>今年有我</td>
+    <td class="xl65" x:str>收到</td>
+    <td class="xl65" x:str>牛</td>
+    <td class="xl65" x:str>其实从北门进南门出，特别惊艳</td>
+    <td class="xl65" x:str>一次哪够？分两次去吧</td>
+    <td class="xl65" x:str>住皇家驿栈，我安排人陪您逛故宫！</td>
+    <td class="xl65" x:str>虽然没得去但是收藏说不定啥时候有机会去</td>
+    <td class="xl65" x:str>网红故宫</td>
+    <td class="xl65" x:str>我还没有看过</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>这个儿化音有点东西</td>
+    <td class="xl65" x:str>已经去了两次，还想再去。</td>
+    <td class="xl65" x:str>明年夏天带女儿去看看！</td>
+    <td class="xl65" x:str>有机会去故宫看看</td>
+    <td class="xl65" x:str>我去过十次故宫了，每次都有新感觉。这座城，容易着迷。</td>
+    <td class="xl65" x:str>好好好</td>
+    <td class="xl65" x:str>走南门！！！！</td>
+    <td class="xl65" x:str>哇</td>
+    <td class="xl65" x:str>以前去故宫跟走马观花似的，现在有了这个最佳观光路线图，再去故宫可以慢慢看，细细赏</td>
+    <td class="xl65" x:str>留</td>
+    <td class="xl65" x:str>留着  一定有机会去北京看一看的</td>
+    <td class="xl65" x:str>一直想好好去看看，欣赏</td>
+    <td class="xl65" x:str>看了夏天的故宫就很想去看冬天下了雪的故宫！</td>
+    <td class="xl65" x:str>小时候去过但是年纪太小不懂历史没什么感受还是现在去好些寒假约一波叭</td>
+    <td class="xl65" x:str>想去看看</td>
+    <td class="xl65" x:str>订好了票，马上就能去看故宫了</td>
+    <td class="xl65" x:str>存了，一定要去一次</td>
+    <td class="xl65" x:str>没去过故宫一定会遗憾！</td>
+    <td class="xl65" x:str>明年去</td>
+    <td class="xl65" x:str>故宫我真的太想去看看了！！！！！！！</td>
+    <td class="xl65" x:str>果断收藏</td>
+    <td class="xl65" x:str>好神奇</td>
+    <td class="xl65" x:str>去过好几次也没逛全过</td>
+    <td class="xl65" x:str>我在这个</td>
+    <td class="xl65" x:str>一定要去康康</td>
+    <td class="xl65" x:str>一定要带上自己喜欢的人去看一次啊</td>
+    <td class="xl66" colspan="3" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>#我的中国心#【就等你来！手势舞挑战了解一下】#澳门回归20周年#，跟@李一桐Q一起，参加#我的中国心手势舞#挑战！并不复杂的动作，表达同一个心声：无论何时，无论何地，不变的，是我们永恒的中国心。带话题#我的中国心#，参与微博故事挑战，表达对澳门的祝福，对祖国的爱！  ​​​​...展开全文c</td>
+    <td class="xl65" x:str>478</td>
+    <td class="xl65" x:str>我的中国心❤️</td>
+    <td class="xl65" x:str>和正能量演员李一桐一起，表达对澳门的祝福，对祖国的爱</td>
+    <td class="xl65" x:str>和正能量偶像一起学起来！</td>
+    <td class="xl65" x:str>和姐姐一起祝福祖国。无论何时何地，我们都有一颗中国心</td>
+    <td class="xl65" x:str>澳门加油！祖国加油！一桐的手势舞学起来</td>
+    <td class="xl65" x:str>跟李一桐一起祝福祖国繁荣昌盛</td>
+    <td class="xl65" x:str>和演员李一桐一起表达对祖国的热爱!</td>
+    <td class="xl65" x:str>无论何时，无论何地，不变的，是我们永恒的中国心❤️和李一桐一起祝祖国繁荣昌盛</td>
+    <td class="xl65" x:str>跟小姨一起</td>
+    <td class="xl65" x:str>支持！演员李一桐，我爱祖国</td>
+    <td class="xl65" x:str>祝祖国繁荣昌盛!和演员李一桐爱国桐行</td>
+    <td class="xl65" x:str>无论何时，无论何地，不变的，是我们永恒的中国心。</td>
+    <td class="xl65" x:str>和一起挑战手势舞，祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>手势舞学起来，永远不变的是我们中国心</td>
+    <td class="xl65" x:str>和一起挑战手势舞，祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>来了来了。李一桐手指舞可</td>
+    <td class="xl65" x:str>最近在看李一桐</td>
+    <td class="xl65" x:str>与正能量李一桐一起爱祖国祝福澳门和姐姐一起永远保持这一颗中国心</td>
+    <td class="xl65" x:str>小姐姐太优秀了！！！</td>
+    <td class="xl65" x:str>和姐姐一起祝福祖国越来越好！</td>
+    <td class="xl65" x:str>和正能量李一桐一起学</td>
+    <td class="xl65" x:str>特别想看李一桐上综艺，他出现在镜头里，都是整整齐齐，头发像是定了型。</td>
+    <td class="xl65" x:str>和桐桐一起挑战</td>
+    <td class="xl65" x:str>李一桐好可爱啊</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门，与李同行</td>
+    <td class="xl65" x:str>祝贺澳门</td>
+    <td class="xl65" x:str>学起来学起来</td>
+    <td class="xl65" x:str>和正能量演员李一桐一起，表达对澳门的祝福，对祖国的爱</td>
+    <td class="xl65" x:str>祖国繁荣昌盛</td>
+    <td class="xl65" x:str>这谁啊</td>
+    <td class="xl65" x:str>桐妹</td>
+    <td class="xl65" x:str>李一桐</td>
+    <td class="xl65" x:str>学起来</td>
+    <td class="xl65" x:str>体寒</td>
+    <td class="xl65" x:str>好看</td>
+    <td class="xl65" x:str>寒姐</td>
+    <td class="xl65" x:str>抢到报报前排，给给位拜个早年嘞</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>我的中国心</td>
+    <td class="xl65" x:str>一起和正能量，演技派演员一桐，庆祝澳门回归国祖20周年，对祖国的热爱，永远支持桐桐，加油!</td>
+    <td class="xl66" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>和一起祝福澳门，表白祖国</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>和演员李一桐一起表达对祖国的热爱</td>
+    <td class="xl65" x:str>支持演员李一桐</td>
+    <td class="xl65" x:str>跟青年演员李一桐一起愿祖国繁荣昌盛，未来更加美好</td>
+    <td class="xl65" x:str>和正能量演员李一桐一起，表达对澳门的祝福，对祖国的爱和演员李一桐一起表达对祖国的热爱!</td>
+    <td class="xl65" x:str>李一桐最近很火啊好几部剧播这呢</td>
+    <td class="xl65" x:str>和李一桐一起祝福澳门回归20周年，恭祝两岸和平发展盛况</td>
+    <td class="xl65" x:str>和正能量演员李一桐</td>
+    <td class="xl65" x:str>和一桐姐一起祝福祖国繁荣昌盛</td>
+    <td class="xl65" x:str>和一起祝福祖国。无论何时何地，我们都有一颗中国心</td>
+    <td class="xl65" x:str>和李一桐一起祝福我的祖国</td>
+    <td class="xl65" x:str>爱国情怀，与李一同并行</td>
+    <td class="xl65" x:str>加油，澳门加油</td>
+    <td class="xl65" x:str>和演员李一桐一起保持永恒的中国心，祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>李一桐</td>
+    <td class="xl65" x:str>祝福祖国永远繁荣昌盛！</td>
+    <td class="xl65" x:str>和李一桐小姐姐一起，祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>和正能量演员李一桐一起，表达对澳门的祝福，对祖国的爱</td>
+    <td class="xl65" x:str>李一桐，正能量。</td>
+    <td class="xl65" x:str>祝祖国繁荣昌盛!和演员李一桐爱国桐行</td>
+    <td class="xl65" x:str>和正能量演员李一桐一起，表达对澳门的祝福，对祖国的爱为澳门</td>
+    <td class="xl65" x:str>和演员李一桐，一起祝祖国繁荣昌盛</td>
+    <td class="xl65" x:str>和桐姐一起祝福祖国。无论何时何地，我们都有一颗中国心</td>
+    <td class="xl65" x:str>爱祖国爱</td>
+    <td class="xl65" x:str>和李一桐一起，庆祝澳门回归20周年，祝福澳门，未来我们一起桐行</td>
+    <td class="xl65" x:str>啊啊啊啊啊姐姐！！！！</td>
+    <td class="xl65" x:str>我和我的祖国</td>
+    <td class="xl65" x:str>迷惑，为啥李一桐的资源这么好</td>
+    <td class="xl65" x:str>和一起祝福祖国。无论何时何地，我们都有一颗中国心！</td>
+    <td class="xl65" x:str>为实现中国梦奋斗！！</td>
+    <td class="xl65" x:str>和正能量演员一起表达对澳门的祝福，对祖国</td>
+    <td class="xl65" x:str>漂亮姐姐</td>
+    <td class="xl65" x:str>这是我小姨</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门！我们大中国一定会越来越好！</td>
+    <td class="xl65" x:str>❤️❤️❤️</td>
+    <td class="xl65" x:str>和桐桐一起挑战手势舞  中国</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>与正能量一起表白祖国，祝福澳门</td>
+    <td class="xl65" x:str>我的中国心！！！！</td>
+    <td class="xl65" x:str>学起来</td>
+    <td class="xl65" x:str>和李一桐一起祝福祖国</td>
+    <td class="xl65" x:str>演员李一桐和全体桐铃共祝澳门回归20周年。愿伟大祖国繁荣昌盛，愿全国人民幸福安康。</td>
+    <td class="xl65" x:str>李一桐与所有铜铃粉丝共贺澳门回归20周年！祝愿伟大祖国繁荣昌盛，早日完成统一大业！</td>
+    <td class="xl65" x:str>和正能量偶像一起学起来！</td>
+   </tr>
+   <tr height="156" style='height:78.00pt;'>
+    <td class="xl65" height="156" style='height:78.00pt;' x:str>@甘肃公安：#一身奖章的他叫程鹏#，中共党员，一级警督，兰州铁路公安处技术侦查大队大队长。先后荣立个人一等功4次，个人二等功12次，个人三等功17次；先后荣获“甘肃省第二届我最喜爱的十大人民警察”“全国优秀人民警察”等多项荣誉称号。致敬！</td>
+    <td class="xl65" x:str>831</td>
+    <td class="xl65" x:str>一等功？！四次！！！！！！！！！！！！！！！！！！！！！！！！！！！</td>
+    <td class="xl65" x:str>一等功4次</td>
+    <td class="xl65" x:str>哇哇哇，本甘肃人可太骄傲了，原来身边就有这样传奇的英雄，太厉害了(ง•̀_•́)ง致敬</td>
+    <td class="xl65" x:str>一等功4次，这是神仙。。。</td>
+    <td class="xl65" x:str>向人民警察致敬！</td>
+    <td class="xl65" x:str>努力考研，为建设国家加油(ง•̀_•́)ง奥利给</td>
+    <td class="xl65" x:str>致敬人民警察</td>
+    <td class="xl65" x:str>金色盾牌，热血铸就！致敬人民警察！</td>
+    <td class="xl65" x:str>一等功四次的事迹可以科普下吗？太牛了</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>不想让他一身勋章，想让他一生平安</td>
+    <td class="xl65" x:str>致敬英雄！！辛苦了！</td>
+    <td class="xl65" x:str>一等功四次？？？这是神啊</td>
+    <td class="xl65" x:str>“全国优秀人民警察”这身荣誉当之无愧</td>
+    <td class="xl65" x:str>一个强大的民族需要这样的英雄，崇敬英雄，从我做起</td>
+    <td class="xl65" x:str>侧影看起来像蔡大队</td>
+    <td class="xl65" x:str>致敬！</td>
+    <td class="xl65" x:str>一等功四次！不简单</td>
+    <td class="xl65" x:str>四次一等功，这意味着他至少四次差点丧命，他是当之无愧的英雄，致敬</td>
+    <td class="xl65" x:str>一等不牺牲即残</td>
+    <td class="xl65" x:str>有没有大佬讲解一波，一等功四次是个什么概念</td>
+    <td class="xl65" x:str>爱了，致敬</td>
+    <td class="xl65" x:str>想听故事</td>
+    <td class="xl65" x:str>传奇legend.</td>
+    <td class="xl65" x:str>这一身战甲</td>
+    <td class="xl65" x:str>了不起！一将功成……</td>
+    <td class="xl65" x:str>这为啥还是大队长?升不上去了？</td>
+    <td class="xl65" x:str>太牛了吧！！！</td>
+    <td class="xl65" x:str>四次一等功</td>
+    <td class="xl65" x:str>金色盾牌，热血铸就！致敬英雄！愿每次出去执行任务都要平安归来！</td>
+    <td class="xl65" x:str>了不起</td>
+    <td class="xl65" x:str>天啊</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>牛人，</td>
+    <td class="xl65" x:str>神仙</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>真牛！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>老天爷！这老乡真的猛！</td>
+    <td class="xl65" x:str>致敬英雄</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>天呐，佩服</td>
+    <td class="xl65" x:str>和平年代能立这么多功，背后的辛苦，你值得</td>
+    <td class="xl65" x:str>牛</td>
+    <td class="xl65" x:str>一等功啊，这是那命才能拿到的。致英雄。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>致敬英雄。</td>
+    <td class="xl65" x:str>其他人呢？其他人不愿意立功么？</td>
+    <td class="xl65" x:str>点赞</td>
+    <td class="xl65" x:str>知道的最多的人。</td>
+    <td class="xl65" x:str>一等功，四次！我跪了</td>
+    <td class="xl65" x:str>这才是最值得赞赏的人。</td>
+    <td class="xl65" x:str>致敬传奇！致敬英雄！</td>
+    <td class="xl65" x:str>帅</td>
+    <td class="xl65" x:str>致敬英雄，愿未来一切安好，人民英雄</td>
+    <td class="xl65" x:str>优秀</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>致敬！</td>
+    <td class="xl65" x:str>致敬！</td>
+    <td class="xl65" x:str>致敬！</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>一等功</td>
+    <td class="xl65" x:str>本甘肃人太太太太太自豪了</td>
+    <td class="xl65" x:str>人民英雄</td>
+    <td class="xl65" x:str>致敬英雄</td>
+    <td class="xl65" x:str>敬佩</td>
+    <td class="xl65" x:str>一等功四次</td>
+    <td class="xl65" x:str>真酷！！！！</td>
+    <td class="xl65" x:str>致敬家乡的人民警察</td>
+    <td class="xl65" x:str>一等功四次？！这是怎样的英雄！</td>
+    <td class="xl65" x:str>同兰州人！</td>
+    <td class="xl65" x:str>真正地英雄。致敬</td>
+    <td class="xl65" x:str>强</td>
+    <td class="xl65" x:str>神仙</td>
+    <td class="xl65" x:str>把勋章活活穿成铠甲的样子！</td>
+    <td class="xl65" x:str>敬礼</td>
+    <td class="xl65" x:str>勋章铠甲！</td>
+    <td class="xl65" x:str>愿你安好。</td>
+    <td class="xl65" x:str>天！！！真正大英雄！！！</td>
+    <td class="xl65" x:str>人民英雄！人民偶像！</td>
+    <td class="xl65" x:str>致敬！</td>
+    <td class="xl65" x:str>故事可以写一本书了</td>
+    <td class="xl65" x:str>啊啊啊兰州人的骄傲！！！威武！</td>
+    <td class="xl66" colspan="4" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="156" style='height:78.00pt;'>
+    <td class="xl65" height="156" style='height:78.00pt;' x:str>有多少传奇故事，才能配这一身奖章（图/@中国警察网）​​​​</td>
+    <td class="xl65" x:str>3171</td>
+    <td class="xl65" x:str>都是血汗换来的，致敬！</td>
+    <td class="xl65" x:str>致敬英雄</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>一身戎装，满身勋章</td>
+    <td class="xl65" x:str>致敬！</td>
+    <td class="xl65" x:str>致敬英雄</td>
+    <td class="xl65" x:str>这人非常牛，致敬</td>
+    <td class="xl65" x:str>致敬英雄！！！</td>
+    <td class="xl65" x:str>然而这满身的功勋也没能换到一件白衬衫</td>
+    <td class="xl65" x:str>向英雄以及背后默默支持他们的家人们致敬！</td>
+    <td class="xl65" x:str>程鹏，兰州铁路公安处技术侦查大队大队长，禁毒先锋，全国优秀人民警察。先后荣立个人一等功4次，个人二等功12次，个人三等功17次</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>英雄</td>
+    <td class="xl65" x:str>每一枚勋章后面，都是生与死的较量☞勇士，只能给你多点几个</td>
+    <td class="xl65" x:str>致敬英雄</td>
+    <td class="xl65" x:str>致敬英雄！！</td>
+    <td class="xl65" x:str>致敬！</td>
+    <td class="xl65" x:str>敬礼</td>
+    <td class="xl65" x:str>每一枚勋章的背后都是惊险万分啊</td>
+    <td class="xl65" x:str>哇，好感动吧。真英雄啊，报报，咋没科普下英雄人物的事迹？很惭愧，不知道是哪位大神啊⊙﹏⊙</td>
+    <td class="xl65" x:str>一生戎马把名扬</td>
+    <td class="xl65" x:str>致敬！</td>
+    <td class="xl65" x:str>一身传奇，致敬英雄</td>
+    <td class="xl65" x:str>向英雄致敬</td>
+    <td class="xl65" x:str>致敬！一身荣光！</td>
+    <td class="xl65" x:str>致敬英雄一生的荣誉</td>
+    <td class="xl65" x:str>致敬最可爱的人！</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>这才是最帅的人！！！</td>
+    <td class="xl65" x:str>戎马一生！致敬！</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>我的天真的是让人肃然起敬真的佩服致敬！</td>
+    <td class="xl65" x:str>致敬英雄！！！！！</td>
+    <td class="xl65" x:str>致敬英雄</td>
+    <td class="xl65" x:str>一身荣耀，一生荣耀。</td>
+    <td class="xl65" x:str>致敬！</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>这些奖章背后的酸楚只有他一人知道！但是却成就了亿万家庭的幸福。致敬英雄</td>
+    <td class="xl65" x:str>致敬！！</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>致敬英雄</td>
+    <td class="xl65" x:str>英雄</td>
+    <td class="xl65" x:str>致敬英雄！</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>好棒</td>
+    <td class="xl65" x:str>致敬英雄  身上的荣耀而闪耀</td>
+    <td class="xl65" x:str>致敬英雄！！</td>
+    <td class="xl65" x:str>致敬！</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>致敬英雄！</td>
+    <td class="xl65" x:str>致敬！</td>
+    <td class="xl65" x:str>致敬英雄</td>
+    <td class="xl65" x:str>致敬英雄</td>
+    <td class="xl65" x:str>有多少伤痛就有多少奖章。致敬英雄</td>
+    <td class="xl65" x:str>辛苦了英雄</td>
+    <td class="xl65" x:str>致敬英雄！</td>
+    <td class="xl65" x:str>致敬英雄</td>
+    <td class="xl65" x:str>致敬英雄</td>
+    <td class="xl65" x:str>致敬英雄，感恩</td>
+    <td class="xl65" x:str>向英雄致敬</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>我的妈呀</td>
+    <td class="xl65" x:str>致敬英雄</td>
+    <td class="xl65" x:str>致敬！</td>
+    <td class="xl65" x:str>致敬英雄</td>
+    <td class="xl65" x:str>致敬！真男神！</td>
+    <td class="xl65" x:str>英雄</td>
+    <td class="xl65" x:str>护国为民</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>致敬英雄</td>
+    <td class="xl65" x:str>向致敬英雄人民的好警察</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>真英雄，这么多功都没穿上白衬衣，哎……</td>
+    <td class="xl65" x:str>致敬英雄</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>谁来和我说一下他的警衔是什么</td>
+    <td class="xl65" x:str>程鹏，兰州铁路公安处兰州车站派出所民警，从警26年，在平凡的工作岗位上屡建奇功，先后荣立个人一等功2次、二等功6次、三等功16次，先后被国务院和多部委以及甘肃省委、省政府授予“禁毒工作先进个人”、“反假币先进个人”等荣誉称号。</td>
+    <td class="xl65" x:str>致敬英雄！每一枚勋章的后面都会有一个故事。不敢想象我们的这位英雄到底经历了多少次生与死的较量。敬！有故事的人</td>
+    <td class="xl65" x:str>一身勋章，满身伤。致敬最可爱的人</td>
+    <td class="xl65" x:str>英雄</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>wow厉害了！</td>
+    <td class="xl66" colspan="6" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="130" style='height:65.00pt;'>
+    <td class="xl65" height="130" style='height:65.00pt;' x:str>接力祝福澳门，表白祖国！高铁小姐姐喊你一起加入#我的中国心#手势舞挑战，转发微博，还能点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>178</td>
+    <td class="xl65" x:str>接力祝福澳门，表白祖国！有没有爱上小姐姐了</td>
+    <td class="xl65" x:str>我现在就在澳门！祝福澳门！点赞澳门！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门表白祖国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，表白祖国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>一起表白祝福祖国</td>
+    <td class="xl65" x:str>我的中国心！❤️</td>
+    <td class="xl65" x:str>转发微博，来一起表白，祝福我们的祖国，动起来吧！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>接力祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，表白祖国！</td>
+    <td class="xl65" x:str>富贵花</td>
+    <td class="xl65" x:str>火凤凰</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门～//:接力祝福澳门，表白祖国！高铁小姐姐喊你一起加入手势舞挑战，转发微博，还能点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>祝福澳门   祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>我爱我的祖国</td>
+    <td class="xl65" x:str>中国//:接力祝福澳门，表白祖国！高铁小姐姐喊你一起加入手势舞挑战，转发微博，还能点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>这么复杂的手势实在学不会，还是喊中国牛逼吧//:接力祝福澳门，表白祖国！高铁小姐姐喊你一起加入手势舞挑战，转发微博，还能点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>加油澳门</td>
+    <td class="xl65" x:str>美丽</td>
+    <td class="xl65" x:str>我是真想接力，可是看不懂也不会耍啊，只能口头祝福澳门了</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>华夏儿女  爱我中华    无论在哪里心系中国心❤</td>
+    <td class="xl65" x:str>简单易学，我们动起来吧</td>
+    <td class="xl65" x:str>祖国在我心中</td>
+    <td class="xl65" x:str>祝福澳门表白祖国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>表白祖国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>接力祝福澳门，表白祖国！高铁小姐姐喊你一起加入</td>
+    <td class="xl65" x:str>祝福澳门祝福祖国//:接力祝福澳门，表白祖国！高铁小姐姐喊你一起加入手势舞挑战，转发微博，还能点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>美美哒//:接力祝福澳门，表白祖国！高铁小姐姐喊你一起加入手势舞挑战，转发微博，还能点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>表白祖国</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>我的中国心//:接力祝福澳门，表白祖国！高铁小姐姐喊你一起加入手势舞挑战，转发微博，还能点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>我在浙江，为澳门点赞，祝福祖国</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>祖国</td>
+    <td class="xl65" x:str>不要脸这事干得好，就叫心理素质过硬</td>
+    <td class="xl65" x:str>棒</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>澳门兴旺</td>
+    <td class="xl65" x:str>//:接力祝福澳门，表白祖国！高铁小姐姐喊你一起加入手势舞挑战，转发微博，还能点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>表白</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>一起表白</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>多才多艺</td>
+    <td class="xl65" x:str>祖国澳门</td>
+    <td class="xl65" x:str>//:接力祝福澳门，表白祖国！高铁小姐姐喊你一起加入手势舞挑战，转发微博，还能点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>表白祖国</td>
+    <td class="xl65" x:str>舞蹈天赋我是一点儿都没有，手势舞也不行，太尬了我害羞，不过政治立场一贯坚定，表白祖国。//:接力祝福澳门，表白祖国！高铁小姐姐喊你一起加入手势舞挑战，转发微博，还能点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>澳门加油</td>
+    <td class="xl65" x:str>我的中国</td>
+    <td class="xl65" x:str>爱祖国</td>
+    <td class="xl65" x:str>我的中国心</td>
+    <td class="xl65" x:str>我们的中国心❤</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门   祝福祖国</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>表白我的祖国[米奇比心][米奇比心]</td>
+    <td class="xl65" x:str>//:接力祝福澳门，表白祖国！高铁小姐姐喊你一起加入手势舞挑战，转发微博，还能点亮国旗区旗icon！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>接力祝福澳门，表白祖国！//:接力祝福澳门，表白祖国！高铁小姐姐喊你一起加入手势舞挑战，转发微博，还能点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>同庆同庆</td>
+    <td class="xl65" x:str>祝福澳门，表白祖国</td>
+    <td class="xl65" x:str>很赞</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，表白祖国//:接力祝福澳门，表白祖国！高铁小姐姐喊你一起加入手势舞挑战，转发微博，还能点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl66" colspan="3" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【最高检：#未达刑责年龄未成年人不能一放了之#】12月20日上午，在“从严惩处涉未成年人犯罪，加强未成年人司法保护”发布会上，最高检第九检察厅厅长史卫忠表示，对一些涉嫌犯罪，但是没有达到刑事责任年龄的未成年人，绝不能一放了之，必须依法予以一定的惩戒和矫治。L正义网的微博视频​​​​</td>
+    <td class="xl65" x:str>2872</td>
+    <td class="xl65" x:str>绝对支持！！！</td>
+    <td class="xl65" x:str>未成年不是犯罪的借口！</td>
+    <td class="xl65" x:str>关到成年再执行</td>
+    <td class="xl65" x:str>恢复少管所！</td>
+    <td class="xl65" x:str>小时候是恶魔长大也不会是天使</td>
+    <td class="xl65" x:str>就给他们打个折就好了，比如3年以上7年以下，的可以判2年</td>
+    <td class="xl65" x:str>那些小恶魔也该好好收拾一下了。</td>
+    <td class="xl65" x:str>年龄不是保护伞！故意的、严重的犯罪应该受到惩罚！</td>
+    <td class="xl65" x:str>支持！！相信国家的法律机制会越来越健全的</td>
+    <td class="xl65" x:str>大连那个怎么说？？？？</td>
+    <td class="xl65" x:str>那就以其人之道还治其人之身</td>
+    <td class="xl65" x:str>明天就是考研的时间。愿所有考研的小伙伴们大捷。</td>
+    <td class="xl65" x:str>也该管管了</td>
+    <td class="xl65" x:str>希望未成年犯罪太严重的也能判刑</td>
+    <td class="xl65" x:str>恶魔长大了不会变成天使。</td>
+    <td class="xl65" x:str>这个必须进入少管所……让他们知道，什么叫有法必依</td>
+    <td class="xl65" x:str>支持！不能让保护成为犯罪的理由！</td>
+    <td class="xl65" x:str>对受害者而言加害者的年龄没有意义</td>
+    <td class="xl65" x:str>这一点最高检比最高法强！</td>
+    <td class="xl65" x:str>必须支持！不管是谁必须让他为他的罪恶之行负上法律责任！</td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>这是说给香港听的吗？</td>
+    <td class="xl65" x:str>校长开会的时候总说，对学生要宽容，想想他们这么大点，杀了人国家都原谅他的，平时他不做作业，不守纪律这样的小事，就不要批评他了</td>
+    <td class="xl65" x:str>支持！干死西南政法派系那帮西方白左的傀儡！</td>
+    <td class="xl65" x:str>遇到未成年人犯罪严重的就应该关到成年  再出来判刑！</td>
+    <td class="xl65" x:str>虽然不必按照成人刑责论处，但是必须严惩！！！</td>
+    <td class="xl65" x:str>支持!建议严惩当今社会那些知法犯法以自己年龄当挡箭牌的小鬼</td>
+    <td class="xl65" x:str>对，我们需要法律的完善，在下一代情商认识日益早熟的现在，在男女比例不平的现在，为弱势群体保护，为正义伸张，不要放过那个一米七十三岁的恶魔!</td>
+    <td class="xl65" x:str>他还是个孩子，不能放过他！</td>
+    <td class="xl65" x:str>早该如此，小小年纪就是个恶魔，你认为两三年之后他会改过。真是笑话</td>
+    <td class="xl65" x:str>这厅长的名字就正直！</td>
+    <td class="xl65" x:str>绝对支持！有的孩子是孩子，有的孩子是禽兽！必须严惩恶性犯罪但却未达刑事责任年龄的未成年人！！</td>
+    <td class="xl65" x:str>不要分什么成年不成年，有罪就该受到惩罚</td>
+    <td class="xl65" x:str>相当支持，未成年人保护法是保护无辜少年的，而不是“小恶魔”！！</td>
+    <td class="xl65" x:str>未成年不是犯罪的借口。。。一样要判刑</td>
+    <td class="xl65" x:str>我觉得只是盗窃或者偷的话是可以改的，但是什么强奸杀人的不管多大，真的我建议死刑，不死难平人家的恨</td>
+    <td class="xl65" x:str>支持！！！不能单纯以年龄来衡量</td>
+    <td class="xl65" x:str>！！！这是必须！任何一个有良知的人，都不会容许犯罪，及时犯人未成年</td>
+    <td class="xl65" x:str>有自主判断力的未成年人，不管多小，犯罪了都不能一放了之好吗，求求了</td>
+    <td class="xl65" x:str>好样的</td>
+    <td class="xl65" x:str>支持但是预防上也要多下功夫啊</td>
+    <td class="xl65" x:str>一直关到少管所，直到成年再判</td>
+    <td class="xl65" x:str>早该如此！有多少伤害了别人却没受到严惩的恶魔因此逃过</td>
+    <td class="xl65" x:str>未成年不是他们犯罪的理由未成年也不应该成为被魔鬼伤害侵犯的原因</td>
+    <td class="xl65" x:str>犯罪就是犯罪和年龄有什么关系？</td>
+    <td class="xl65" x:str>有的人真的恨不得死刑，未成年保护法真的应该改了</td>
+    <td class="xl65" x:str>支持！</td>
+    <td class="xl65" x:str>支持！希望真正的体现法律面前人人平等！尤其是对那些实施恶性事件的未成年的小畜牲！从小犯罪，根本就是从根儿上开始烂了！支持承担相对应的刑责！</td>
+    <td class="xl65" x:str>好，完善法律盲区</td>
+    <td class="xl65" x:str>父母从小除了要教会女儿要保护自己，也要告诉自己的儿子不能去伤害别人</td>
+    <td class="xl65" x:str>说的对，“他还是个孩子”绝对不是借口</td>
+    <td class="xl65" x:str>强烈支持！未成年人保护法不是保护熊孩子和小流氓的</td>
+    <td class="xl65" x:str>绝对支持，年纪小不能成为犯罪借口！</td>
+    <td class="xl65" x:str>杀人，强奸的肯定不能轻易放过！</td>
+    <td class="xl65" x:str>杀人、抢劫、强奸等犯罪行为不应该有年龄保护限制！恶魔没有资格受到保护的权利！</td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>支持！！</td>
+    <td class="xl65" x:str>支持，不能放任少年罪犯</td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>依法的话不都是放了吗，有啥用</td>
+    <td class="xl65" x:str>支持！完善法律的盲区</td>
+    <td class="xl65" x:str>支持！必须教育、惩处、杜绝！</td>
+    <td class="xl65" x:str>未成年保护法不是那些触犯了刑法的人的保护伞和免死金牌</td>
+    <td class="xl65" x:str>强烈支持</td>
+    <td class="xl65" x:str>未成年不是免死金牌</td>
+    <td class="xl65" x:str>支持大大的支持</td>
+    <td class="xl65" x:str>不能一放了之！</td>
+    <td class="xl65" x:str>看罪行</td>
+    <td class="xl65" x:str>这话早该说</td>
+    <td class="xl65" x:str>还应该向父母问责，孩子犯罪，父母同罪，甚至于罪加一等，别说什么父母不知情，孩子是你生的，自己没教育好还祸害了别人，这难道不该是你的责任么</td>
+    <td class="xl65" x:str>绝对支持，在这个社会这个时代家庭教育和校园风气还有文化教育根基已经对孩子的教育发展产生了巨大的畸形，未成年人犯刑事责任的罪行已经不是要去保护而是要去理性的去面对去教育去为自己的行为买单，现在的婴幼儿青少年成长的非常迅速，心理和思想已经很快成长，所以未成年人刑事责任应该降低年龄！</td>
+    <td class="xl65" x:str>!对</td>
+    <td class="xl65" x:str>我以为，未成年人保护法要保护的是他们不被旁人侵害的权益，而不该是去为他们侵害他人的行为提供保护。</td>
+    <td class="xl65" x:str>说的还是废话！杀人偿命，不应该分年龄大了！取消未成年人保护法才是真的！</td>
+    <td class="xl65" x:str>未成年保护法应当保护未成年受害者，而不是保护未成年犯罪者。</td>
+    <td class="xl65" x:str>大连那个杀人犯，关到成年就枪毙！！</td>
+    <td class="xl65" x:str>别说别的，降低年龄吧，八岁什么都懂了</td>
+    <td class="xl65" x:str>未成年不是犯罪的理由，请周知</td>
+    <td class="xl65" x:str>无条件支持！法律就应该因时而变！</td>
+    <td class="xl65" x:str>加快实施</td>
+    <td class="xl65" x:str>支持！</td>
+    <td class="xl65" x:str>未成年不是犯罪的借口</td>
+    <td class="xl65" x:str>电子脚铐了解一下</td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>必须一视同仁！否则未成年人犯罪将成为逞凶避刑的借口！</td>
+    <td class="xl66" colspan="5" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>#我的中国心#【刷屏的手势舞挑战等你一起来】@佟丽娅喊你参加#我的中国心手势舞#挑战！并不复杂的动作，希望能表达我们的心声：无论何时，无论何地，不变的，是我们永恒的中国心。带话题#我的中国心#，参与微博故事挑战，让这段手势舞刷屏！#澳门回归20周年#  O微博视频  ​​​​...展开全文c</td>
+    <td class="xl65" x:str>497</td>
+    <td class="xl65" x:str>优质偶像佟丽娅</td>
+    <td class="xl65" x:str>丫丫好漂亮啊</td>
+    <td class="xl65" x:str>佟亚丽好漂亮啊</td>
+    <td class="xl65" x:str>我竟然学会了，今年的年会我就表演这个吧。</td>
+    <td class="xl65" x:str>和丫丫一起祝福澳门表白祖国</td>
+    <td class="xl65" x:str>和丫丫一起祝福澳门表白祖国！</td>
+    <td class="xl65" x:str>文艺丫？我的天，戴眼镜都这么好看</td>
+    <td class="xl65" x:str>中国最美偶像佟丽娅</td>
+    <td class="xl65" x:str>哇！被官方pick了</td>
+    <td class="xl65" x:str>女神</td>
+    <td class="xl65" x:str>戴眼镜就太可了</td>
+    <td class="xl65" x:str>长江长城黄山黄河，在我心中重千斤</td>
+    <td class="xl65" x:str>丫丫，好久不见，还是好美！无论何时，无论何地，这是个自带歌声节奏的帖子，不由自主的唱起来了</td>
+    <td class="xl65" x:str>丫丫真的好美</td>
+    <td class="xl65" x:str>丫丫好好看呀</td>
+    <td class="xl65" x:str>祝祖国繁荣昌盛</td>
+    <td class="xl65" x:str>丫丫这个是最自然的！表情管理也好！</td>
+    <td class="xl65" x:str>漂亮，丫丫太漂亮了</td>
+    <td class="xl65" x:str>戴了眼镜更漂亮了</td>
+    <td class="xl65" x:str>丫丫</td>
+    <td class="xl65" x:str>丫丫!</td>
+    <td class="xl65" x:str>第一眼看成了怒怼外卖小哥的某“知名”车评人</td>
+    <td class="xl65" x:str>丫丫太美丽了吧</td>
+    <td class="xl65" x:str>丫丫最乖</td>
+    <td class="xl65" x:str>眼睛:我会了手:你会你上!</td>
+    <td class="xl65" x:str>人美心美</td>
+    <td class="xl65" x:str>丫丫很优秀</td>
+    <td class="xl65" x:str>好美！</td>
+    <td class="xl65" x:str>漂亮，而且是越来越</td>
+    <td class="xl65" x:str>。</td>
+    <td class="xl65" x:str>虽然丫丫已经很慢了，但我还是没学会，手残没办法</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>丫丫也太好看了叭学起来</td>
+    <td class="xl65" x:str>好美啊</td>
+    <td class="xl65" x:str>好漂亮</td>
+    <td class="xl65" x:str>丫丫好漂亮啊啊啊</td>
+    <td class="xl65" x:str>佟丽娅真好看啊</td>
+    <td class="xl65" x:str>看小图以为蔡英文美颜版。</td>
+    <td class="xl65" x:str>丫丫短发好漂亮啊</td>
+    <td class="xl65" x:str>啊好漂亮</td>
+    <td class="xl65" x:str>跟着润叶老师一起来学</td>
+    <td class="xl65" x:str>祝福澳门，表白祖国。</td>
+    <td class="xl65" x:str>我还以为是手语</td>
+    <td class="xl65" x:str>佟丽娅好漂亮</td>
+    <td class="xl65" x:str>你咋那么好看呢</td>
+    <td class="xl65" x:str>我爱你中国</td>
+    <td class="xl65" x:str>正能量手势舞</td>
+    <td class="xl65" x:str>咋恁好看呢！</td>
+    <td class="xl65" x:str>姐姐好美</td>
+    <td class="xl65" x:str>感觉越来越像黄晓明</td>
+    <td class="xl65" x:str>mark！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>太美了</td>
+    <td class="xl65" x:str>为什么我只能录15秒啊，手势做到最后歌就没有了</td>
+    <td class="xl65" x:str>丫丫真是新疆同胞的优秀代表。。。</td>
+    <td class="xl65" x:str>优质</td>
+    <td class="xl65" x:str>真正的无脑女星，不想看到她</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>我我我我，我也要学！！！好棒的舞蹈❤</td>
+    <td class="xl65" x:str>我女神佟丽娅</td>
+    <td class="xl65" x:str>呀</td>
+    <td class="xl65" x:str>我的中国</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年！丫丫太有气质了</td>
+    <td class="xl65" x:str>也太漂亮了吧</td>
+    <td class="xl65" x:str>好美啊</td>
+    <td class="xl65" x:str>好看死了</td>
+    <td class="xl65" x:str>我的中国心</td>
+    <td class="xl65" x:str>丫丫好美呀～</td>
+    <td class="xl65" x:str>可爱姐姐</td>
+    <td class="xl65" x:str>啊我的丫丫</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>佟丽娅真的好漂亮啊好有气质啊</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>是看冬妮娅开始看手语？</td>
+    <td class="xl65" x:str>范冰冰</td>
+    <td class="xl65" x:str>我还以为是关之琳。。。</td>
+    <td class="xl65" x:str>我这个直男眼中，佟丽娅是女明星里最好看的，没有之一…</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>上过</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>佟丽娅可真是太美了</td>
+    <td class="xl65" x:str>丫丫好漂亮。</td>
+    <td class="xl65" x:str>没想到你是这么漂亮的人，以前只听说过名字不知道人</td>
+    <td class="xl65" x:str>哇哦</td>
+    <td class="xl65" x:str>优雅美丽佟丽娅</td>
+    <td class="xl65" x:str>丫丫好美呀</td>
+    <td class="xl66" colspan="4" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="130" style='height:65.00pt;'>
+    <td class="xl65" height="130" style='height:65.00pt;' x:str>帅气的火箭军小哥哥小姐姐，手势舞也跳得这么好！还等什么？一起来，参加#我的中国心#手势舞挑战啦！转发微博，庆祝#澳门回归20周年#，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>234</td>
+    <td class="xl65" x:str>最美小姐姐，因为是祖国的花朵</td>
+    <td class="xl65" x:str>好漂亮</td>
+    <td class="xl65" x:str>在一起在一起，内部消化</td>
+    <td class="xl65" x:str>火箭军新军种，我在部队时还没有这个兵种，甚至没听说过火箭军。时代变化太快！社会变化太快！国家变化太快！你们做的手势太快，我真的跟不上了！再做几次试试看！</td>
+    <td class="xl65" x:str>赞</td>
+    <td class="xl65" x:str>中国军人，优秀</td>
+    <td class="xl65" x:str>好看都上交國家了</td>
+    <td class="xl65" x:str>美</td>
+    <td class="xl65" x:str>好帅！</td>
+    <td class="xl65" x:str>飒，好美</td>
+    <td class="xl65" x:str>好感动！哭了T﹏T</td>
+    <td class="xl65" x:str>美丽</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>天天宣传JR</td>
+    <td class="xl65" x:str>表白祖国//:帅气的火箭军小哥哥小姐姐，手势舞也跳得这么好！还等什么？一起来，参加手势舞挑战啦！转发微博，庆祝，点亮国旗区旗icon！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>这个兵哥哥缺媳妇吗？</td>
+    <td class="xl65" x:str>感觉年会我们科室有现成的节目了//:帅气的火箭军小哥哥小姐姐，手势舞也跳得这么好！还等什么？一起来，参加手势舞挑战啦！转发微博，庆祝，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>祝福祖国！愿伟大祖国繁荣昌盛！//:帅气的火箭军小哥哥小姐姐，手势舞也跳得这么好！还等什么？一起来，参加手势舞挑战啦！转发微博，庆祝，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>多才多艺。</td>
+    <td class="xl65" x:str>都是祖国的鲜花，祝福澳门</td>
+    <td class="xl65" x:str>爱了爱了</td>
+    <td class="xl65" x:str>也顺便关注一下上海新城董事长可否，等了半年了，千亿身价，亿万财团，就不敢动了？微博定案的机制还是得持续性完善，某相关部门不要热点凉了就把头埋进沙子里，此刻，你我都是键盘侠</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>帅</td>
+    <td class="xl65" x:str>春蕾删了？</td>
+    <td class="xl65" x:str>都是祖国的鲜花，祝福澳门</td>
+    <td class="xl65" x:str>优秀啊</td>
+    <td class="xl65" x:str>优秀</td>
+    <td class="xl65" x:str>来啦</td>
+    <td class="xl65" x:str>帅</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>爱我中华</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>赞</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>哇，我想要小姐姐。</td>
+    <td class="xl65" x:str>哇好帅</td>
+    <td class="xl65" x:str>优秀！</td>
+    <td class="xl65" x:str>爱我中华</td>
+    <td class="xl65" x:str>连个军服都整不利索。还能整啥？军服越来越难看。</td>
+    <td class="xl65" x:str>这手势舞有点尬</td>
+    <td class="xl65" x:str>好看，好听</td>
+    <td class="xl65" x:str>东风快递，</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>我只会啊啊啊啊啊啊啊啊啊啊啊啊啊啊</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>为你们点赞</td>
+    <td class="xl65" x:str>优秀</td>
+    <td class="xl65" x:str>好可爱呀</td>
+    <td class="xl65" x:str>//:帅气的火箭军小哥哥小姐姐，手势舞也跳得这么好！还等什么？一起来，参加手势舞挑战啦！转发微博，庆祝，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>//:帅气的火箭军小哥哥小姐姐，手势舞也跳得这么好！还等什么？一起来，参加手势舞挑战啦！转发微博，庆祝，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>帅萌帅萌的</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>太帅了！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>//:帅气的火箭军小哥哥小姐姐，手势舞也跳得这么好！还等什么？一起来，参加手势舞挑战啦！转发微博，庆祝，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>英姿飒爽</td>
+    <td class="xl65" x:str>漂亮</td>
+    <td class="xl65" x:str>[米奇比心][米奇比心]</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>图片评论</td>
+    <td class="xl65" x:str>//:帅气的火箭军小哥哥小姐姐，手势舞也跳得这么好！还等什么？一起来，参加手势舞挑战啦！转发微博，庆祝，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>//:帅气的火箭军小哥哥小姐姐，手势舞也跳得这么好！还等什么？一起来，参加手势舞挑战啦！转发微博，庆祝，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>秀</td>
+    <td class="xl65" x:str>阔以阔以</td>
+    <td class="xl65" x:str>好美</td>
+    <td class="xl65" x:str>这女兵真是漂亮的不要不要的</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>//:帅气的火箭军小哥哥小姐姐，手势舞也跳得这么好！还等什么？一起来，参加手势舞挑战啦！转发微博，庆祝，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>好帅呀</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>小姐姐太美啦</td>
+    <td class="xl65" x:str>兵姐姐好美</td>
+    <td class="xl65" x:str>英姿飒爽</td>
+    <td class="xl65" x:str>[拍手]</td>
+    <td class="xl65" x:str>//:帅气的火箭军小哥哥小姐姐，手势舞也跳得这么好！还等什么？一起来，参加手势舞挑战啦！转发微博，庆祝，点亮国旗区旗icon！</td>
+    <td class="xl65" x:str>优秀</td>
+    <td class="xl65" x:str>好棒啊</td>
+    <td class="xl65" x:str>优秀</td>
+    <td class="xl65" x:str>又美又帅</td>
+    <td class="xl65" x:str>当然赞一个</td>
+    <td class="xl66" colspan="5" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【二十年前的今天，你在做什么？】①那一天，学校给每个孩子送了枚纪念徽章，同学们都别在胸口，为那个陌生却又无比牵挂的地方祝福；②爸爸骑着摩托载我上学，激动地说澳门回归了，那时懵懵懂懂不理解，现在想起真的很飙泪；③全程看完回归仪式写观后感，日记本大小的本子，写了5、6页。</td>
+    <td class="xl65" x:str>709</td>
+    <td class="xl65" x:str>还没出生</td>
+    <td class="xl65" x:str>1999年我什么都不是我是01年的</td>
+    <td class="xl65" x:str>玩……玩泥巴。</td>
+    <td class="xl65" x:str>我1歲呢</td>
+    <td class="xl65" x:str>我五岁</td>
+    <td class="xl65" x:str>刚出生</td>
+    <td class="xl65" x:str>太小了  不记得了</td>
+    <td class="xl65" x:str>那一年的今天，儿子很小很小，抱着他还不敢走太远，好在拱北就在几站远的地方，再往前走一步就进入澳门了。我们抱着儿子，看着浩浩荡荡的中国人民解放军的队伍开进澳门，亲眼见证了那段辉煌历史！</td>
+    <td class="xl65" x:str>进去学前班啦。</td>
+    <td class="xl65" x:str>两个独立的细胞</td>
+    <td class="xl65" x:str>我在电视机前哼歌“一颗芝麻扣，不是我真名……”</td>
+    <td class="xl65" x:str>在地里撒尿活泥巴</td>
+    <td class="xl65" x:str>三四岁不记得在干嘛</td>
+    <td class="xl65" x:str>还没出生</td>
+    <td class="xl65" x:str>二十年前，我还在玩过家家！！</td>
+    <td class="xl65" x:str>不知道</td>
+    <td class="xl65" x:str>在到处撒野呢</td>
+    <td class="xl65" x:str>还没出生</td>
+    <td class="xl65" x:str>同志幸同年[米奇比心]</td>
+    <td class="xl65" x:str>估计坐在教室里在上课</td>
+    <td class="xl65" x:str>还没出生</td>
+    <td class="xl65" x:str>上学前班</td>
+    <td class="xl65" x:str>二十年前，大人们问我几岁，我害羞，半天才说一句五岁。</td>
+    <td class="xl65" x:str>在老妈肚子里？</td>
+    <td class="xl65" x:str>我还在我妈肚子里[巨汗]</td>
+    <td class="xl65" x:str>那年刚出生没多久</td>
+    <td class="xl65" x:str>我四岁，再上幼儿园</td>
+    <td class="xl65" x:str>5岁，朦胧中有点印象有看回归的仪式。但那时候什么都不懂，印象最深的应该是那部澳门回归的那部电视剧吧。叫《澳门的故事》。香港回归那时好像也有一部</td>
+    <td class="xl65" x:str>上小学。</td>
+    <td class="xl65" x:str>二十年前小学二年级</td>
+    <td class="xl65" x:str>1999年我五年级，参加学校澳门回归知识竞赛，体育老师给划得题，结果从学校一等奖拿到学区拿到市里一等奖。澳门回归拿奖拿到手软</td>
+    <td class="xl65" x:str>20年前已经上小学了呀，哎真的是老了看来哈哈</td>
+    <td class="xl65" x:str>20年前的今天，我已经步入了高中的学校大门</td>
+    <td class="xl65" x:str>还在吃奶</td>
+    <td class="xl65" x:str>4岁能干嘛</td>
+    <td class="xl65" x:str>刚出生还在喝奶</td>
+    <td class="xl65" x:str>二十年前我还没出生</td>
+    <td class="xl65" x:str>那一年我才刚出生</td>
+    <td class="xl65" x:str>身为中国人我骄傲</td>
+    <td class="xl65" x:str>刚出生</td>
+    <td class="xl65" x:str>我还在妈妈肚子里</td>
+    <td class="xl65" x:str>20年犹如昨天</td>
+    <td class="xl65" x:str>二十年前的我四岁，应该在堆雪人吧</td>
+    <td class="xl65" x:str>正在学前班大班玩洋娃娃[冰雪奇缘安娜]//:【二十年前的今天，你在做什么？】①那一天，学校给每个孩子送了枚纪念徽章，同学们都别在胸口，为那个陌生却又熟悉的地方祝福；②爸爸骑着摩托载我上学，激动地说澳门回归了，那时不理解，现在想起真的飙泪；③全程观看回归仪式写观后感，写了5、6页</td>
+    <td class="xl65" x:str>1岁</td>
+    <td class="xl65" x:str>刚参加工作还是个小屁孩</td>
+    <td class="xl65" x:str>刚刚出生两个月零19天</td>
+    <td class="xl65" x:str>我还没出生</td>
+    <td class="xl65" x:str>小学四年级，参加了“澳门回归知识竞赛”，并获得了一个本本（后来当成歌词本啦）</td>
+    <td class="xl65" x:str>玩的年代</td>
+    <td class="xl65" x:str>20年前的今天我2岁半还在玩泥巴  有的人都已经会背唐诗三百首了</td>
+    <td class="xl65" x:str>在过生日</td>
+    <td class="xl65" x:str>我在家乡的小广场表演《七子之歌》</td>
+    <td class="xl65" x:str>99年。</td>
+    <td class="xl65" x:str>可能在听七子之歌</td>
+    <td class="xl65" x:str>上小学，好开心！</td>
+    <td class="xl65" x:str>20年的今天，我在读初中，，，，后悔当年没好好读书</td>
+    <td class="xl65" x:str>在学校的迎回归晚会表演，那是我人生中第一次跳舞</td>
+    <td class="xl65" x:str>我还没出生</td>
+    <td class="xl65" x:str>1999年二月份出生的我</td>
+    <td class="xl65" x:str>身为中国人我骄傲</td>
+    <td class="xl65" x:str>当时两岁半</td>
+    <td class="xl65" x:str>小的02，告退</td>
+    <td class="xl65" x:str>三岁了</td>
+    <td class="xl65" x:str>七年后我才出生</td>
+    <td class="xl65" x:str>清楚的记得，那天晚上和爸妈一起守着电视直播过了零点。小时候除了春晚，第一次允许超过零点睡觉。（香港回归那次还太小，没熬住）</td>
+    <td class="xl65" x:str>20年前的今天，我应该刚刚升级为准妈妈</td>
+    <td class="xl65" x:str>那一年，</td>
+    <td class="xl65" x:str>准备过自己第二天的满月酒</td>
+    <td class="xl65" x:str>出生啦</td>
+    <td class="xl65" x:str>认识个小姑娘，生在那一年，所以叫澳华</td>
+    <td class="xl65" x:str>我还没出生</td>
+    <td class="xl65" x:str>没出生，离出生还差两年呢</td>
+    <td class="xl65" x:str>打扰了，还有两个月出生我在妈妈肚子里祝福伟大祖国繁荣昌盛</td>
+    <td class="xl65" x:str>我还没出生</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>澳门回归20周年</td>
+    <td class="xl65" x:str>可能还在吃奶吧</td>
+    <td class="xl65" x:str>回归</td>
+    <td class="xl65" x:str>回归回归</td>
+    <td class="xl65" x:str>当年的这会儿我应该在学说话吧。</td>
+    <td class="xl65" x:str>是不是间接问年龄</td>
+    <td class="xl65" x:str>当年女儿刚出生，现在已经是天津大学大二的学生</td>
+    <td class="xl65" x:str>我的偶像出生了。</td>
+    <td class="xl66" colspan="6" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="156" style='height:78.00pt;'>
+    <td class="xl65" height="156" style='height:78.00pt;' x:str>【#故宫年客流量1900万破纪录#】据北京日报，12月19日10:47:03，随着一位来自浙江省湖州市的杨姓观众从午门检票入院，故宫博物院年接待观众数量首次突破1900万人次。故宫已是世界上最聚人气儿的博物馆。故宫雪景图：是不是也有我的功劳？你去过几次故宫？​​​​</td>
+    <td class="xl65" x:str>2224</td>
+    <td class="xl65" x:str>一次没去的赞一个</td>
+    <td class="xl65" x:str>1900万分之一</td>
+    <td class="xl65" x:str>故宫博物院真的，去了一次还想去！太美好了根本逛不够啊</td>
+    <td class="xl65" x:str>我慢慢的听雪落下的声音，闭着眼睛幻想它不会停……</td>
+    <td class="xl65" x:str>冬天的故宫就变成紫禁城了</td>
+    <td class="xl65" x:str>和单院长的努力公关有很大关系哈哈哈</td>
+    <td class="xl65" x:str>好想去</td>
+    <td class="xl65" x:str>哇来自我大湖州</td>
+    <td class="xl65" x:str>太好看了</td>
+    <td class="xl65" x:str>下雪的故宫特别有内味儿～</td>
+    <td class="xl65" x:str>去过一次！还想去！但是那一次记忆犹新！很幸福！哈哈！跟老公十多年前去的！</td>
+    <td class="xl65" x:str>虽然只有一次，但觉得也特别幸运</td>
+    <td class="xl65" x:str>以后去北京旅游一定要去！</td>
+    <td class="xl65" x:str>一个东北人，有些想去故宫看雪</td>
+    <td class="xl65" x:str>哈哈哈哈今年一定去</td>
+    <td class="xl65" x:str>那我是这今年的1900万分之一了✌</td>
+    <td class="xl65" x:str>《盼君共赏》  何时杖尔看南雪，我与梅花两白头。  门阔威严雕狮立，宏伟壮观紫荆城。  作者:梅花  《愿得一人心》    何时杖尔看南雪，我与梅花两白头。    细数岁月渡流年，满堂儿孙欢笑声。    作者:梅花​​​</td>
+    <td class="xl65" x:str>今年去了十六次</td>
+    <td class="xl65" x:str>两次</td>
+    <td class="xl65" x:str>今年三次了</td>
+    <td class="xl65" x:str>看到这雪景，脑海浮现的应景歌词。寒梅落尽把冬了，衔春的燕想归巢(许嵩-燕归巣)</td>
+    <td class="xl65" x:str>三次三次！</td>
+    <td class="xl65" x:str>0次</td>
+    <td class="xl65" x:str>一次都没有</td>
+    <td class="xl65" x:str>希望有机会去好美❄️❄️❄️</td>
+    <td class="xl65" x:str>我超喜欢中国风</td>
+    <td class="xl65" x:str>沒去過，明年打算去</td>
+    <td class="xl65" x:str>今年去过啦，北京梦圆。</td>
+    <td class="xl65" x:str>这雪景，我的天太爱了</td>
+    <td class="xl65" x:str>去过一次明天还要去</td>
+    <td class="xl65" x:str>好美</td>
+    <td class="xl65" x:str>美仑美奂的故宫</td>
+    <td class="xl65" x:str>做贡献了  我是其中之一</td>
+    <td class="xl65" x:str>太美了吧，只能看看图片</td>
+    <td class="xl65" x:str>今年去了两次</td>
+    <td class="xl65" x:str>去了两次都有特殊原因没进去…我真的太想去了</td>
+    <td class="xl65" x:str>目前一次都没去过但我一定会去的！！！！</td>
+    <td class="xl65" x:str>还没有去过故宫，以后有机会安排上</td>
+    <td class="xl65" x:str>我们家去了十口人，贡献了190万分之一</td>
+    <td class="xl65" x:str>我是那1900万分之一</td>
+    <td class="xl65" x:str>去过一次那时是春天的尾巴了！好好看！漂亮！庄严！</td>
+    <td class="xl65" x:str>那么多人</td>
+    <td class="xl65" x:str>就凭梦回我都要去找我的晴川2020我要去打卡评论我可以一起去看看我不想一直一直一个人我愿给你温暖</td>
+    <td class="xl65" x:str>三次！</td>
+    <td class="xl65" x:str>两次，明年争取12次</td>
+    <td class="xl65" x:str>准备去了，希望到时候也能看到雪景</td>
+    <td class="xl65" x:str>去了一次还想再去</td>
+    <td class="xl65" x:str>白顶青瓦红墙勾勒国画求下联</td>
+    <td class="xl65" x:str>这个广告费故宫给你多少？我金银宝           也买过门票</td>
+    <td class="xl65" x:str>两次</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>我去的那年没下雪</td>
+    <td class="xl65" x:str>冬季一定要再去一次！</td>
+    <td class="xl65" x:str>1900万分之一来报道了，总共去过三次</td>
+    <td class="xl65" x:str>我去过三次！我也很喜欢故宮！</td>
+    <td class="xl65" x:str>今年夏天去了一次</td>
+    <td class="xl65" x:str>朕以前就住在故宫，你说去过几次呢。</td>
+    <td class="xl65" x:str>雪落下的故宫很唯美！故宫实红是中国民族文化全面复兴的体现</td>
+    <td class="xl65" x:str>三十一年前第一次去故宫，此后又有多次参观故宫，以后还想再去故宫。故宫的魅力就是中华民族的魅力！故宫陈列的瑰宝是中国人聪明智慧的结晶！</td>
+    <td class="xl65" x:str>还没去过故宫呢</td>
+    <td class="xl65" x:str>还没有没有去过，毕业了一定要去看一次故宫雪景</td>
+    <td class="xl65" x:str>北京故宫还会重新打开回到唐朝盛世等着吧</td>
+    <td class="xl65" x:str>故宫实红是中国民族文化全面复兴的体现！</td>
+    <td class="xl65" x:str>门票钱能分点吗？</td>
+    <td class="xl65" x:str>好美</td>
+    <td class="xl65" x:str>3次</td>
+    <td class="xl65" x:str>1900万分之3</td>
+    <td class="xl65" x:str>小时候只要一听班主任宣布春游去故宫，就特别不开心。结果长大了故宫成了我最爱且去不逆的地儿。</td>
+    <td class="xl65" x:str>我觉得故宫是国内最良心的景点</td>
+    <td class="xl65" x:str>以后一定要去故宫康康</td>
+    <td class="xl65" x:str>故宫是不是应该再统计一下周一开车进去的人流量</td>
+    <td class="xl65" x:str>上新了故宫</td>
+    <td class="xl65" x:str>故宫超棒这一切也离不开单院长的努力，作为单院长退休前安排好的故宫文创上新综艺《上新了故宫》的常驻开发员邓伦及其粉丝支持故宫</td>
+    <td class="xl65" x:str>我是前几天去故宫，他给我说是淡季，我差点让挤死</td>
+    <td class="xl65" x:str>两次</td>
+    <td class="xl65" x:str>好想去一次！</td>
+    <td class="xl65" x:str>我们圆明园今年突破1250万人次～～～</td>
+    <td class="xl65" x:str>今天5月份刚去过</td>
+    <td class="xl65" x:str>今年的第三次，依然很激动</td>
+    <td class="xl65" x:str>三次三次</td>
+    <td class="xl65" x:str>算我一个</td>
+    <td class="xl65" x:str>2次</td>
+    <td class="xl65" x:str>去过三次了</td>
+    <td class="xl65" x:str>2021年过年带爸妈去一次</td>
+    <td class="xl65" x:str>四舍五入可就将近一个亿啦</td>
+    <td class="xl66" colspan="5" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【共庆#澳门回归20周年#，转发微博抽奖送福利啦】澳门同胞让你倍感亲近，澳门风光让你一见钟情，澳门美食让你格外中意？在共同庆祝澳门回归祖国20周年的日子里，参与人民日报新媒体#我的中国心#活动，20部荣耀V30手机在等你！转发微博试手气，一起祝福澳门明天会更好！​O抽奖详情​​​​</td>
+    <td class="xl65" x:str>5365</td>
+    <td class="xl65" x:str>祝澳门越来越好，祝香港越来越随便吧</td>
+    <td class="xl65" x:str>我是来做分母的</td>
+    <td class="xl65" x:str>祝福祖国越来越强大，祝福澳门的明天越来越美好</td>
+    <td class="xl65" x:str>澳门会更好！中国会更棒！</td>
+    <td class="xl65" x:str>明天会更好</td>
+    <td class="xl65" x:str>祝澳门越来越好,祝祖国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝伟大的祖国</td>
+    <td class="xl65" x:str>祝澳门越来越好</td>
+    <td class="xl65" x:str>祝澳门越来越好</td>
+    <td class="xl65" x:str>澳门越来越好，喜欢</td>
+    <td class="xl65" x:str>澳門</td>
+    <td class="xl65" x:str>庆祝澳门回归祖国20周年</td>
+    <td class="xl65" x:str>祝福祖国繁荣昌盛！祝福澳门越来越好</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福美丽的祖国繁荣昌盛，祝福你中国！</td>
+    <td class="xl65" x:str>祖国威武！！荣耀v30给力！</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>祝澳门明天更美好</td>
+    <td class="xl65" x:str>【共庆，转发微博抽奖送福利啦】澳门同胞让你倍感亲近，澳门风光让你一见钟情，澳门美食让你格外中意？在共同庆祝澳门回归祖国20周年的日子里，参与人民日报新媒体活动，中华儿女，明天会更好！！！</td>
+    <td class="xl65" x:str>共庆</td>
+    <td class="xl65" x:str>澳门同胞让我倍感亲近，澳门点心让我格外喜欢让我们一起祝福澳门明天会更好！​​​</td>
+    <td class="xl65" x:str>转发抽20台，庆澳门回归20周年，祝明天更好！</td>
+    <td class="xl65" x:str>祝福澳门！</td>
+    <td class="xl65" x:str>我們会越來越好哒！</td>
+    <td class="xl65" x:str>因为祖国我们才会越来越好</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>澳门明天会更好！</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>好运，手机挺好</td>
+    <td class="xl65" x:str>祝福澳门明天会更好</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>澳门越来越好</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>祖国加油</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>热烈庆祝澳门回归祖国母亲怀抱20周年</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝同胞们一直幸福期待中奖</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年</td>
+    <td class="xl65" x:str>越来越好[米奇比心]</td>
+    <td class="xl65" x:str>祝澳门越来越好</td>
+    <td class="xl65" x:str>澳门</td>
+    <td class="xl65" x:str>共庆，！祝福祖国越来越好！为祖国骄傲！！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>澳门同胞让你倍感亲近,澳门风光让你一见钟情,澳门美食让你格外中意?在共同庆祝澳门回归祖国20周年的日子里,参与活动,一起祝福澳门明天会更好。</td>
+    <td class="xl65" x:str>来啦</td>
+    <td class="xl66" colspan="5" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>你好，我想要求恭喜</td>
+    <td class="xl65" x:str>都越来越好</td>
+    <td class="xl65" x:str>祝祖国繁荣昌盛</td>
+    <td class="xl65" x:str>祝福澳门祝福祖国明天更美好</td>
+    <td class="xl65" x:str>愿伟大祖国强大富强</td>
+    <td class="xl65" x:str>澳门越来越好，中国越来越强</td>
+    <td class="xl65" x:str>明天更美好！</td>
+    <td class="xl65" x:str>人民日报就让我中一次吧</td>
+    <td class="xl65" x:str>运气这事谁说的准呢</td>
+    <td class="xl65" x:str>热烈庆祝澳门回归二十周年！</td>
+    <td class="xl65" x:str>澳门</td>
+    <td class="xl65" x:str>【共庆，转发微博抽奖送福利啦】澳门同胞让你倍感亲近，澳门风光让你一见钟情，澳门美食让你格外中意？在共同庆祝澳门回归祖国20周年的日子里，参与人民日报新媒体活动，20部荣耀V30手机在等你！转发微博试手气，一起祝福澳门明天会更好</td>
+    <td class="xl65" x:str>好几次与澳门擦肩而过下次去一定停停看看</td>
+    <td class="xl65" x:str>隔壁送小米，咱们送华为都好</td>
+    <td class="xl65" x:str>转发</td>
+    <td class="xl65" x:str>祝澳门越来越好。祝香港跟上上进的步伐</td>
+    <td class="xl65" x:str>转发了！祝澳门越来越美好</td>
+    <td class="xl65" x:str>祝澳门越来越好</td>
+    <td class="xl65" x:str>祝中国澳门越来越好</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝澳门越来越好！祝祖国繁荣昌盛！</td>
+    <td class="xl65" x:str>一起祝福澳门的明天会更好</td>
+    <td class="xl65" x:str>中国澳门</td>
+    <td class="xl65" x:str>可以</td>
+    <td class="xl65" x:str>祝福澳门！！！</td>
+    <td class="xl65" x:str>我的中国心❤</td>
+    <td class="xl65" x:str>祝福祝福~我们的祖国一定会越来越好！澳门会越来越好！来沾一沾这不一样的喜气</td>
+    <td class="xl65" x:str>热烈庆祝澳门回归祖国20周年！</td>
+    <td class="xl66" colspan="3" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="208" style='height:104.00pt;'>
+    <td class="xl65" height="208" style='height:104.00pt;' x:str>【#人民日报评传销披上成功学马甲#：你以为的捷径，其实是最深的陷阱】近日，深圳警方查处一家疑似以课程培训和企业营销为幌子，从事诈骗和传销活动的公司，抓获多名所谓“成功学”和“营销学”的大师，涉案资金超2000万元。如今，传销披上成功学等时尚马甲，就像被美颜一样立马走俏。然而，许多看似成​​​​...展开全文c</td>
+    <td class="xl65" x:str>490</td>
+    <td class="xl65" x:str>我一个方法简单识别传销凡是整天缠着你，哄着你苦苦哀求你去赚钱的，如果不是你爹妈，就是传销无疑。</td>
+    <td class="xl65" x:str>传销和直销是不一样的，脚踏实地才是成功的关键</td>
+    <td class="xl65" x:str>宣传成功学荐股那些都是诈骗还有前段时间那个孙宇晨</td>
+    <td class="xl65" x:str>一入传销深似海，亲朋好友成路人</td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>快手好多电商都是微商传销希望有关部门查查</td>
+    <td class="xl65" x:str>传销比人贩子还人贩子，他们忽悠的是一大批成年人，如滚雪球般，越滚越大！！！天上掉馅饼的事人人都相信，却忘了馅饼里面夹带的是妻离子散！！！</td>
+    <td class="xl65" x:str>传销组织就是吸血鬼</td>
+    <td class="xl65" x:str>全国各地现在传销泛滥，离我们并不遥远，坚决支持打击活动</td>
+    <td class="xl65" x:str>现在除了拆迁买彩票哪有一夜暴富</td>
+    <td class="xl65" x:str>小心骗子成功没有捷径</td>
+    <td class="xl65" x:str>所谓的成功学大师大部分的收入都是靠骗傻子</td>
+    <td class="xl65" x:str>支持人民日报</td>
+    <td class="xl65" x:str>你们确实成功了，只不过是成功违法了</td>
+    <td class="xl65" x:str>骗子这么多社会该反省……</td>
+    <td class="xl65" x:str>支持人民日报，打击诈骗行为</td>
+    <td class="xl65" x:str>感觉在说某音上每天都在推荐月薪百万，白手起家，各种励志我就想说这样的能不能整顿一下，经常搞得我觉得自己像个废人一样，一辈子挣得没人一个月挣得多</td>
+    <td class="xl65" x:str>传销真的害人不浅  我们老家有一个大学生被传销者洗脑后进入传销组织  家人千辛万苦花钱才将自己儿子赎回  回来后却仍神智不清</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>全国各地现在传销泛滥，离我们并不遥远，坚决支持打击活动</td>
+    <td class="xl65" x:str>致良知四合院是啥组织</td>
+    <td class="xl65" x:str>天上不会掉馅饼[米奇比心]</td>
+    <td class="xl65" x:str>支持，一步一个脚印</td>
+    <td class="xl65" x:str>所以要想成功还是要脚踏实地的干好每一件事</td>
+    <td class="xl65" x:str>这个设计很可以</td>
+    <td class="xl65" x:str>你们听说过致良知四合院吗</td>
+    <td class="xl65" x:str>还有一个北京致良知四合院也是传销，拉人头卖书</td>
+    <td class="xl65" x:str>致良知是不是快完蛋了</td>
+    <td class="xl65" x:str>别被骗了</td>
+    <td class="xl65" x:str>再见</td>
+    <td class="xl65" x:str>保险公司都是传销，中国平安就是传销之王，传销都和平安学，最近几点中国人寿和人保都传销了。</td>
+    <td class="xl65" x:str>最近这图做的好棒</td>
+    <td class="xl65" x:str>今天还看到“征信修复”的咧哎哟我靠感觉比中国银行还厉害</td>
+    <td class="xl65" x:str>人间正道是沧桑</td>
+    <td class="xl65" x:str>真管理学还要看大校</td>
+    <td class="xl65" x:str>拖欠半年工资，以断缴社保和公积金为手段逼迫员工签了劳动解除协议，才会补发工资，现协议签了工资没补发，地方劳动局不管，仲裁委员会踢皮球，马上过年了谁都不容易。</td>
+    <td class="xl65" x:str>知识付费什么时候也可以查一查？</td>
+    <td class="xl65" x:str>支持支持</td>
+    <td class="xl65" x:str>万变不离传销</td>
+    <td class="xl65" x:str>“成功学大师”类没有正规机构监管的职业满足了人天生自恋想要掌控权利的欲望+不用投入大量金钱成本就有高收益的走捷径心理。一个仅仅因为满足自己欲望而存在的职业，发展的时候却打着善良公益的旗号，这种糖衣包装之下最后吸引的都是什么人加入？是贪的人。最后就成了贪的利益集团</td>
+    <td class="xl65" x:str>举报深圳市太阳交易所诈骗、诈骗人数上千人，诈骗金额几千万。办公地点深圳市福田区现代国际大厦2213。申请援助</td>
+    <td class="xl65" x:str>支持支持</td>
+    <td class="xl65" x:str>支持人民日报</td>
+    <td class="xl65" x:str>所以啊......不能只听言“表面言论”......一定的明白“言论后面的黑恶”......</td>
+    <td class="xl65" x:str>区块链就是真大的传销</td>
+    <td class="xl65" x:str>我说了那么久，终于认识到了，还是很欣慰的</td>
+    <td class="xl65" x:str>成功学大师成功了，却没有一个成功的徒弟。因为教的是走捷径，太功利</td>
+    <td class="xl65" x:str>成功没有捷径</td>
+    <td class="xl65" x:str>现在市场有很多这样的黑心机构～</td>
+    <td class="xl65" x:str>想要成功还得努力靠自己，那有什么捷径</td>
+    <td class="xl65" x:str>支持人民日报</td>
+    <td class="xl65" x:str>看成“马到成功”……以为新年剪纸……</td>
+    <td class="xl65" x:str>支持人民日报，身边确实存在，必须严惩！</td>
+    <td class="xl65" x:str>中国文化果然博大精深</td>
+    <td class="xl65" x:str>成功没有捷径！</td>
+    <td class="xl65" x:str>成功哪有那么多捷径</td>
+    <td class="xl65" x:str>安之、一秒、引华笑了……</td>
+    <td class="xl65" x:str>好的，收到！还是多看书，多学知识，比什么来的都强</td>
+    <td class="xl65" x:str>讲课的也成传销和诈骗了，现在的犯罪率太高了，那还能信什么呢？</td>
+    <td class="xl65" x:str>传销就像瘟疫，智商低的人没有免疫力。</td>
+    <td class="xl65" x:str>缇丽莎尔属于传销吗？</td>
+    <td class="xl65" x:str>你以为的捷径，其实是最深的陷阱</td>
+    <td class="xl65" x:str>成功学本来就是骗子前沿阵地吧</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>对，打击非法传销人人有责</td>
+    <td class="xl65" x:str>徐鹤宁销售女神，还一个男的，谁来着，啧，简直可怕，跟神经病一样</td>
+    <td class="xl65" x:str>这个图？？？</td>
+    <td class="xl65" x:str>我感觉我室友也被骗到传销组织里了</td>
+    <td class="xl65" x:str>金木是不是传销？</td>
+    <td class="xl65" x:str>不仅仅是这些企业还有很多类似的企业在电话营销上打擦边球必须加强监管啊</td>
+    <td class="xl65" x:str>你以为的捷径，其实是最深的陷阱</td>
+    <td class="xl65" x:str>支持彻底打击传销，害人害己害亲情！</td>
+    <td class="xl65" x:str>你穿上马甲我还是能认出你</td>
+    <td class="xl65" x:str>脚踏实地才是硬道理呀</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>那个叫什么安之的人最能忽悠</td>
+    <td class="xl65" x:str>小心骗子啊</td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>前两年青岛的未来支点。。。</td>
+    <td class="xl65" x:str>你被骗了，他成功了</td>
+    <td class="xl65" x:str>还有一些演讲</td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>支持人民日报</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>。</td>
+    <td class="xl65" x:str>开始脸红，后来眼红</td>
+    <td class="xl65" x:str>姆信是不是传销啊？我妈已经完全沉迷其中了</td>
+    <td class="xl66" colspan="3" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="208" style='height:104.00pt;'>
+    <td class="xl65" height="208" style='height:104.00pt;' x:str>【最高检：#近两年起诉性侵未成年人犯罪3.25万人#】记者今天从最高检、公安部联合召开的新闻发布会上获悉：从2018年1月至2019年10月，全国检察机关共批准逮捕侵害未成年人案件8.06万人，起诉10.07万人，性侵害犯罪在侵害未成年人犯罪中占有较大比例，2018年1月至2019年10月共起诉性侵害未成年人犯罪3.2​​​​...展开全文c</td>
+    <td class="xl65" x:str>1948</td>
+    <td class="xl65" x:str>所以应该在这方面引起重视啊！！</td>
+    <td class="xl65" x:str>这个数字也太可怕了</td>
+    <td class="xl65" x:str>父母从小除了要教会女儿要保护自己，也要告诉自己的儿子不能去伤害别人</td>
+    <td class="xl65" x:str>这个数字只是已经知道的，不为我们不知道这类犯罪还有很多</td>
+    <td class="xl65" x:str>3.25万？？？？？？</td>
+    <td class="xl65" x:str>啊啊啊啊这种性侵未成年都给爷死</td>
+    <td class="xl65" x:str>检察机关正不断加强性侵害未成年人违法犯罪信息库和入职查询建设。</td>
+    <td class="xl65" x:str>性侵未成年人必须受到严惩</td>
+    <td class="xl65" x:str>性侵未成年直接无期或死刑</td>
+    <td class="xl65" x:str>每天关注人民日报，总能看到社会的另一面！希望这个事情能得到改善！！！祖国的花朵呀！！这是祖国的未来呀</td>
+    <td class="xl65" x:str>性盛致灾割以永治</td>
+    <td class="xl65" x:str>怎么这个数据这么阔怕</td>
+    <td class="xl65" x:str>直接化学阉割了吧</td>
+    <td class="xl65" x:str>都是些没有能力的人欺负未成年人不要脸</td>
+    <td class="xl65" x:str>3.25万人，这个数字好可怕</td>
+    <td class="xl65" x:str>割以永治！！</td>
+    <td class="xl65" x:str>性侵未成年人的一定要严惩！</td>
+    <td class="xl65" x:str>这个数字太呕了</td>
+    <td class="xl65" x:str>不满十四岁的未成年性侵不满十四岁的未成年呢</td>
+    <td class="xl65" x:str>想起了韩国电影《素媛》…</td>
+    <td class="xl65" x:str>我们国家和别的国家相比，算是好的了！</td>
+    <td class="xl65" x:str>性侵成年人的要是重视起来（包括婚内强奸），那数量可惊人了（没有说不重视性侵未成年人的意思，我是说成年人和未成年人被性侵都要一起重视，性侵未成年人和性侵成年人的都是垃圾中的垃圾）</td>
+    <td class="xl65" x:str>是近年来法律意识提高所以报案率高吧，性侵一直都存在，只是揭发不揭发的问题</td>
+    <td class="xl65" x:str>这个数字太可怕了，要学会保护自己</td>
+    <td class="xl65" x:str>这只是报了案的，还有很多私了的</td>
+    <td class="xl65" x:str>这方面应该要被重视。保护孩子，给他们的应该是光明</td>
+    <td class="xl65" x:str>如果性侵未成年的这种人，建议先有痛化学阉割，然后挂个‘性侵儿童的变态’的牌子，最后关进各种重刑犯的监狱。</td>
+    <td class="xl65" x:str>可怕，这数字太多了，而且这只是被查到的，还有很多不了了之的，希望加强这方面的法制建设，做不到百分百没有，但尽可能的降低案件发生数量</td>
+    <td class="xl65" x:str>是不是可以出台法律对这些人进行化学阉割</td>
+    <td class="xl65" x:str>这个数字太可怕了，应该得到重视，</td>
+    <td class="xl65" x:str>加强对孩子的保护</td>
+    <td class="xl65" x:str>这种人，就该活剥了</td>
+    <td class="xl65" x:str>这个数字太可怕了！希望能引起重视！</td>
+    <td class="xl65" x:str>出台相应法律刻不容缓</td>
+    <td class="xl65" x:str>一定要加强对孩子的健康保护</td>
+    <td class="xl65" x:str>这么多，好吓人！</td>
+    <td class="xl65" x:str>该死</td>
+    <td class="xl65" x:str>割以永制！！</td>
+    <td class="xl65" x:str>可怕的数据</td>
+    <td class="xl65" x:str>还生什么娃生出来就被糟蹋的么呵呵社会</td>
+    <td class="xl65" x:str>毛骨悚然！只是未成年就有这么多被侵害，那加上成年的呢！？</td>
+    <td class="xl65" x:str>这种就是死刑呗。最好恢复砍头这一刑法。</td>
+    <td class="xl65" x:str>这是社会问题啊！应引起重视！相对应法律也应规范！</td>
+    <td class="xl65" x:str>对地区偏远的地方也要加上宣传啊，对小孩的性教育也要普及！！！！</td>
+    <td class="xl65" x:str>父母除了要教会女儿要保护自己，也要告诉自己的儿子不能去伤害别人！！！</td>
+    <td class="xl65" x:str>这数字有点吓人，侵害未成年建议死刑。</td>
+    <td class="xl65" x:str>不能对未成年人犯罪行为视而不见，应该出台相应的惩戒措施</td>
+    <td class="xl65" x:str>看看我微博吧真的被骗的人太多了没有办法才开评论</td>
+    <td class="xl65" x:str>数据很可怕，一定要重视！</td>
+    <td class="xl65" x:str>这个数目也太惊人了吧！必须严惩性侵者！</td>
+    <td class="xl65" x:str>量刑可以加重</td>
+    <td class="xl65" x:str>按照年龄，性侵14岁以下的幼女，一律死刑。性侵14岁以上的未成年，一律无期徒刑。</td>
+    <td class="xl65" x:str>都是畜牲</td>
+    <td class="xl65" x:str>远远不止这些！</td>
+    <td class="xl65" x:str>真实的数字可能还不止有勇气反抗的只是一部分</td>
+    <td class="xl65" x:str>3.25万太可怕了，判刑可以加重吗</td>
+    <td class="xl65" x:str>我小时候就经历过，那个时候信息还不是很发达，我都不知道那是在被侵犯。</td>
+    <td class="xl65" x:str>我觉得还是性教育普及到每一个人。虽然对中国人来说这个有点难以启齿，但是还是从小学生抓起</td>
+    <td class="xl65" x:str>从大人到小孩都谈性色变，所以都不愿意重视这块，所以缺少防范意识。不在社会意识上做建设，只靠警察去抓是抓不过来的。</td>
+    <td class="xl65" x:str>14亿里面不缺这点垃圾</td>
+    <td class="xl65" x:str>！！</td>
+    <td class="xl65" x:str>这可不止3.25，还有不肯说出去的，还有那被侵犯的至少3.25万女性</td>
+    <td class="xl65" x:str>太可怕了，要重视！</td>
+    <td class="xl65" x:str>强烈呼吁强奸未成年少女的必须死刑！</td>
+    <td class="xl65" x:str>违法成本低是主要原因！凡是性侵未成年人的一律阉割，然后重判10年以上……</td>
+    <td class="xl65" x:str>法律该完善，预防，，则更重！宣传教育真的真的真的极为重要！</td>
+    <td class="xl65" x:str>请国家一定要完善加强《未成年人保护法》</td>
+    <td class="xl65" x:str>死刑谢谢（昨天刚看完熔炉）</td>
+    <td class="xl65" x:str>新城控股的那个董事长大家早都忘了</td>
+    <td class="xl65" x:str>教育真的很重要</td>
+    <td class="xl65" x:str>普及性教育之外，不教怎么做人也是白搭…</td>
+    <td class="xl65" x:str>每个人都是子女，也会有有子女的那天，大家就不能将心比心吗。有些劫匪都不劫老人的钱，那些人怎么忍心这么对待弱小。</td>
+    <td class="xl65" x:str>最少乘以100</td>
+    <td class="xl65" x:str>没查到的还有不少，比如送给人大代表玩弄的</td>
+    <td class="xl65" x:str>天呐，我能安全长大真是太不容易了</td>
+    <td class="xl65" x:str>未成年人口大约三亿，算一半是女性1.5亿，其中有可能遭到性侵的（12岁以上）约为6500万，这概率超过万分之一了</td>
+    <td class="xl65" x:str>从未想到这么高的数据</td>
+    <td class="xl65" x:str>卧槽……这数据有点吓人了……</td>
+    <td class="xl65" x:str>唉，就这么发声却不见好转。难受么</td>
+    <td class="xl65" x:str>没起诉的呢</td>
+    <td class="xl65" x:str>严惩不贷</td>
+    <td class="xl65" x:str>想到了默读的碎花裙，希望有骆队、陶陶和肥嘟嘟这样的人，去努力吧。</td>
+    <td class="xl65" x:str>决不饶恕</td>
+    <td class="xl66" colspan="7" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="104" style='height:52.00pt;'>
+    <td class="xl65" height="104" style='height:52.00pt;' x:str>【收藏！#澳门回归20周年中国风壁纸#】今天，澳门回归祖国20周年。6个词讲述澳门风土人情，一笔一画勾勒出满满中国心，哪一张是你的最爱？转发祝福，澳门明天会更好！​​​​</td>
+    <td class="xl65" x:str>547</td>
+    <td class="xl65" x:str>好看啊</td>
+    <td class="xl65" x:str>澳门很棒呀，喜欢</td>
+    <td class="xl65" x:str>中国风，寓意中国心，祝福澳门！</td>
+    <td class="xl65" x:str>很棒的设计呢，澳门棒棒哒</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>喜欢，想去看看澳门</td>
+    <td class="xl65" x:str>所有都爱，澳门</td>
+    <td class="xl65" x:str>好看好看，年味十足！！</td>
+    <td class="xl65" x:str>好看</td>
+    <td class="xl65" x:str>我都爱</td>
+    <td class="xl65" x:str>喜乐！好温馨啊祝福祖国</td>
+    <td class="xl65" x:str>收藏啦</td>
+    <td class="xl65" x:str>祖国越来越好</td>
+    <td class="xl65" x:str>收藏了！！！</td>
+    <td class="xl65" x:str>太美啦</td>
+    <td class="xl65" x:str>求原图[笑而不語]</td>
+    <td class="xl65" x:str>澳门明天会更好！​​​</td>
+    <td class="xl65" x:str>中国澳门</td>
+    <td class="xl65" x:str>中国风，寓意中国心，祝福澳门越来越好！</td>
+    <td class="xl65" x:str>整这么些花里胡哨的，还挺耐看</td>
+    <td class="xl65" x:str>好钟意啊！祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>每一张都很喜欢，都是我心中澳门的样子！这样的海报可以有！</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>澳门明天会更好！祖国明天会更好！祝福你，澳门！祝福你，祖国！</td>
+    <td class="xl65" x:str>“得閒”饮茶</td>
+    <td class="xl65" x:str>明天会更好！！！</td>
+    <td class="xl65" x:str>喜欢喜乐这一张，感觉喜庆，开心，是团团圆圆的样子</td>
+    <td class="xl65" x:str>澳门明天会更好</td>
+    <td class="xl65" x:str>好看诶！时尚又有中国味儿</td>
+    <td class="xl65" x:str>喜乐好美啊hhhhhh</td>
+    <td class="xl65" x:str>祝福澳门明天会更好</td>
+    <td class="xl65" x:str>给力</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门回归祖国二十周年</td>
+    <td class="xl65" x:str>糟糕，是心动的感觉，也太好看了吧</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>越来越好</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>收藏。</td>
+    <td class="xl65" x:str>庆祝庆祝</td>
+    <td class="xl65" x:str>哇哇哇，好看</td>
+    <td class="xl65" x:str>马克</td>
+    <td class="xl65" x:str>谢谢海报很好看</td>
+    <td class="xl65" x:str>太棒了，赞！</td>
+    <td class="xl65" x:str>澳门明日会更好！</td>
+    <td class="xl65" x:str>祝福澳门❤</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>支持澳门</td>
+    <td class="xl65" x:str>我最爱發財</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>好看耶</td>
+    <td class="xl65" x:str>都爱祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>很不错的设计！</td>
+    <td class="xl65" x:str>宜家我都好钟意澳门噶</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年</td>
+    <td class="xl65" x:str>画风</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>支持祖国，我爱你</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>好看</td>
+    <td class="xl65" x:str>来了</td>
+    <td class="xl65" x:str>好喜欢这组海报，抱走澳门！祝福祖国！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>有比较才有鉴别，现在就觉得澳门超可爱。</td>
+    <td class="xl65" x:str>支持澳门</td>
+    <td class="xl65" x:str>好喜欢这组海报</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>喜乐！好温馨啊祝福祖国</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>哈哈哈哈好味！爱美食！</td>
+    <td class="xl65" x:str>香港看过来。</td>
+    <td class="xl65" x:str>好看</td>
+    <td class="xl65" x:str>喜欢澳门，莲成一家中国心。</td>
+    <td class="xl65" x:str>好看</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>都好好看祝福祖国</td>
+    <td class="xl65" x:str>都很好看</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>好看！</td>
+    <td class="xl65" x:str>好靓！</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>澳门会更好，棒</td>
+    <td class="xl65" x:str>和平鸽飞翔！祝福澳门</td>
+    <td class="xl66" colspan="3" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="130" style='height:65.00pt;'>
+    <td class="xl65" height="130" style='height:65.00pt;' x:str>【转存金句！习近平这些话，掷地有声】#中华民族伟大复兴势不可挡#、#中国内政用不着任何外部势力指手画脚#...习近平在庆祝澳门回归祖国20周年大会上这些话，掷地有声！收藏学习！​​​​</td>
+    <td class="xl65" x:str>566</td>
+    <td class="xl65" x:str>祖国越来越强大，祝福祖国！</td>
+    <td class="xl65" x:str>中华民族伟大复兴！向前！向前！向前！</td>
+    <td class="xl65" x:str>掷地有声！中国</td>
+    <td class="xl65" x:str>前进步伐势不可挡！！！</td>
+    <td class="xl65" x:str>我们的国会越来越好</td>
+    <td class="xl65" x:str>牢记使命，不忘初心</td>
+    <td class="xl65" x:str>收藏，收藏</td>
+    <td class="xl65" x:str>祖国妈妈muamuamua！！！</td>
+    <td class="xl65" x:str>祖国越来越强大</td>
+    <td class="xl65" x:str>我们绝不允许任何外部势力干预中国一切事务！！！！！！</td>
+    <td class="xl65" x:str>收藏</td>
+    <td class="xl65" x:str>好东西，收藏起来</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>牢记使命，不忘初心</td>
+    <td class="xl65" x:str>掷地有声支持支持祖国越来越好</td>
+    <td class="xl65" x:str>大中华加油</td>
+    <td class="xl65" x:str>收藏啦！！</td>
+    <td class="xl65" x:str>祖国越来越好！</td>
+    <td class="xl65" x:str>果断支持！！</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>两岸三地是一家！！！</td>
+    <td class="xl65" x:str>牢记使命，不忘初心</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>牢记使命，不忘初心！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>希望祖国团结，强大</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>好东西，收藏</td>
+    <td class="xl65" x:str>香港是</td>
+    <td class="xl66" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>收藏收藏</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>郑地有声的中国态度！</td>
+    <td class="xl65" x:str>知道，说给谁的，大家心里都清楚</td>
+    <td class="xl65" x:str>我们自己的国家自己治！</td>
+    <td class="xl65" x:str>祝福祖国繁荣昌盛</td>
+    <td class="xl65" x:str>中国</td>
+    <td class="xl66" colspan="49" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="130" style='height:65.00pt;'>
+    <td class="xl65" height="130" style='height:65.00pt;' x:str>【感动！听#澳门孩子唱出心里话#】今天，澳门回归祖国20周年，一群澳门孩子用两首歌，唱出了“心里的话”。真的爱你！我的澳门，我的中国！#我的中国心#  L人民日报的微博视频​​​​</td>
+    <td class="xl65" x:str>1255</td>
+    <td class="xl65" x:str>和小朋友们祝福澳门祖国明天会更好！</td>
+    <td class="xl65" x:str>真的爱你！我的澳门，我的中国！</td>
+    <td class="xl65" x:str>哇哦！给隔壁HK看看！和平统一，共同致富啊</td>
+    <td class="xl65" x:str>我的澳门，我的中国！</td>
+    <td class="xl65" x:str>好听，好怀念的歌曲，纪念澳门回归祖国20周年，我爱祖国！我爱澳门！</td>
+    <td class="xl65" x:str>祝福澳门加油</td>
+    <td class="xl65" x:str>泪目真正的感动了</td>
+    <td class="xl65" x:str>我的澳门，我的中国！</td>
+    <td class="xl65" x:str>㊗福中國澳門！㊗福祖國！越來越好</td>
+    <td class="xl65" x:str>真的爱你！我的澳门，我的中国！</td>
+    <td class="xl65" x:str>祝澳门越来越好</td>
+    <td class="xl65" x:str>真的爱你，我的澳门，我的中国</td>
+    <td class="xl65" x:str>我又看哭了中国和中国的澳门都会越来越好</td>
+    <td class="xl65" x:str>我爱美国加洲，是中国的，请求收回</td>
+    <td class="xl65" x:str>你们太可爱啦！澳门太可爱啦</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>这代孩子的普通话很标准了</td>
+    <td class="xl65" x:str>感动，哭了，祝福澳门</td>
+    <td class="xl65" x:str>真的爱你</td>
+    <td class="xl65" x:str>祖国好，澳门会更好</td>
+    <td class="xl65" x:str>我的澳门，我的中国！</td>
+    <td class="xl65" x:str>庆祝澳门回归20年！</td>
+    <td class="xl65" x:str>今天的澳门富有，明天的全民富有，坚定走自己的路</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>我的祖国我的澳门</td>
+    <td class="xl65" x:str>我的澳门我的中国</td>
+    <td class="xl65" x:str>我的中国</td>
+    <td class="xl65" x:str>感动</td>
+    <td class="xl65" x:str>泪目我记得我读小学上音乐课的时候老师就教我们唱过这首歌！</td>
+    <td class="xl65" x:str>祖国明天会更好！</td>
+    <td class="xl65" x:str>感动。</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国繁荣昌盛</td>
+    <td class="xl65" x:str>真的爱你，我的澳门，我的中国！我好爱我的祖国</td>
+    <td class="xl65" x:str>二十周年，祝福澳门</td>
+    <td class="xl65" x:str>澳门回归祖国20周年快乐</td>
+    <td class="xl65" x:str>我的眼泪和鸡皮疙瘩都出来了</td>
+    <td class="xl65" x:str>祝福澳门，祝福中国！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>每次听《七子之歌》都会泪目祝福祖国祝福澳门  </td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门！</td>
+    <td class="xl65" x:str>泪目</td>
+    <td class="xl65" x:str>最美中国心</td>
+    <td class="xl65" x:str>这些孩子看上去就和安徽山东江苏河南等等每一个普通省份的每一个普通孩子，因为我们本来就是一家人。</td>
+    <td class="xl65" x:str>中国澳门</td>
+    <td class="xl65" x:str>年纪大了一看就流泪</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>爱中国爱澳门加油中国  加油澳门</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>点赞</td>
+    <td class="xl65" x:str>祝福我们的澳门</td>
+    <td class="xl65" x:str>祝福澳門</td>
+    <td class="xl65" x:str>太感动(ಥ_ಥ)啦！？澳门真的好棒！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>今年8月去了趟澳门，喜欢澳门，祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>澳门</td>
+    <td class="xl65" x:str>心里话</td>
+    <td class="xl65" x:str>我们的中国</td>
+    <td class="xl65" x:str>敬礼</td>
+    <td class="xl65" x:str>“澳门”是“我们”</td>
+    <td class="xl65" x:str>今天吃饭的时候还在想澳门回归有二十周年了，结果就是今天</td>
+    <td class="xl65" x:str>每次看到这样的短视频，除了感动就是老泪纵横，愿祖国更美好，澳门风华正茂，乘风破浪！</td>
+    <td class="xl65" x:str>我的眼泪不值钱</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>我的澳门，我的中国，爱你</td>
+    <td class="xl65" x:str>真的感动！！！  我们幼儿时也合唱过！！！</td>
+    <td class="xl65" x:str>祝福祖国，祝福香港，也祝自己胜利</td>
+    <td class="xl65" x:str>那三百年来梦寐不忘生母啊！</td>
+    <td class="xl65" x:str>童稚的声音唱出《七子之歌》感动心灵，想当年闻一多先生是怀着多么悲愤的心情写下这诗句。祝福中国！祝福澳门！</td>
+    <td class="xl65" x:str>黄家驹的音乐适用于各个场合</td>
+    <td class="xl65" x:str>澳门回归20年我20岁</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>年纪大了，看到这种哭死我了</td>
+    <td class="xl65" x:str>祝福澳门，我爱你❤️祖国母亲！</td>
+    <td class="xl65" x:str>澳门人思想觉悟是高</td>
+    <td class="xl65" x:str>掳(lu)</td>
+    <td class="xl65" x:str>感动哭了中国和中国的澳门都会越来越好</td>
+    <td class="xl65" x:str>赞歌</td>
+    <td class="xl65" x:str>下载下来</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>时隔20年，这首音乐响起，依旧会激动。愿祖国昌盛！</td>
+    <td class="xl65" x:str>祖国会更好</td>
+    <td class="xl65" x:str>含着热泪看完真的爱你</td>
+    <td class="xl66" colspan="5" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="208" style='height:104.00pt;'>
+    <td class="xl65" height="208" style='height:104.00pt;' x:str>【转发祝贺！#中国成功发射一箭九星#】12月20日11时22分，我国在太原卫星发射中心用长征四号乙运载火箭成功发射中巴地球资源卫星04A星。该星是中国和巴西两国合作研制的第6颗卫星，将接替中巴地球资源卫星04星获取全球高、中、低分辨率光学遥感数据。本次任务同时搭载了中国应对气候变化“南南合作”项​​​​...展开全文c</td>
+    <td class="xl65" x:str>662</td>
+    <td class="xl65" x:str>中国航天，星辰大海，我们来啦！</td>
+    <td class="xl65" x:str>祝贺！祝福祖国！为航天事业打call</td>
+    <td class="xl65" x:str>祖国越来越强大，生在华夏很幸福</td>
+    <td class="xl65" x:str>厉害了我的祖国</td>
+    <td class="xl65" x:str>厉害了我的国，都一箭九星了，内心无比自豪！</td>
+    <td class="xl65" x:str>又又又又双叒叕来了，厉害</td>
+    <td class="xl65" x:str>我爱我的祖国</td>
+    <td class="xl65" x:str>我们龙城</td>
+    <td class="xl65" x:str>祝贺祝贺</td>
+    <td class="xl65" x:str>【转发祝贺！】12月20日11时22分，我国在太原卫星发射中心用长征四号乙运载火箭成功发射中巴地球资源卫星04A星。</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>左右大赞，厉害啦我国</td>
+    <td class="xl65" x:str>太棒了，中国航天事业杠杠滴</td>
+    <td class="xl65" x:str>祝贺，祖国越来越强大了</td>
+    <td class="xl65" x:str>想想以前放个卫星还要现场直播，搞得特别隆重，现在一箭九星了都觉得算不上啥大事儿了！这就是发展，厉害了我的国！</td>
+    <td class="xl65" x:str>祝贺！祝福祖国！为航天事业疯狂打call</td>
+    <td class="xl65" x:str>祝福祖国，祖国强大，我长大啊</td>
+    <td class="xl65" x:str>祝贺！</td>
+    <td class="xl65" x:str>为中国航空事业疯狂打call</td>
+    <td class="xl65" x:str>祝贺</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>厉害了</td>
+    <td class="xl65" x:str>祝贺祝贺</td>
+    <td class="xl65" x:str>祖国万岁</td>
+    <td class="xl65" x:str>祝贺合作愉快！</td>
+    <td class="xl65" x:str>愿祖国强大，人民安康。</td>
+    <td class="xl65" x:str>厉害了我的国！</td>
+    <td class="xl65" x:str>好棒啊！</td>
+    <td class="xl65" x:str>祝祖国越来越强大</td>
+    <td class="xl65" x:str>骄傲</td>
+    <td class="xl65" x:str>祝贺</td>
+    <td class="xl65" x:str>祝贺！祝福祖国！为航天事业打call</td>
+    <td class="xl65" x:str>祝贺！祝福祖国！为航天事业打call</td>
+    <td class="xl65" x:str>怎么飞那么慢</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>牛啊！真牛啊</td>
+    <td class="xl65" x:str>厉害了</td>
+    <td class="xl65" x:str>中国的航天力量</td>
+    <td class="xl65" x:str>祝贺</td>
+    <td class="xl65" x:str>中国航天，星辰大海，我们来啦！</td>
+    <td class="xl65" x:str>星辰大海~</td>
+    <td class="xl65" x:str>厉害了我的国</td>
+    <td class="xl65" x:str>厉害了我的国</td>
+    <td class="xl65" x:str>太原岢岚基地</td>
+    <td class="xl65" x:str>祝贺[米奇比心][米奇比心][米奇比心]</td>
+    <td class="xl65" x:str>中国威武，我为你自豪，为你骄傲。</td>
+    <td class="xl65" x:str>火箭发射什么总是撒扑克牌</td>
+    <td class="xl65" x:str>祝贺祝贺！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>庆贺中国加油</td>
+    <td class="xl65" x:str>祝贺</td>
+    <td class="xl65" x:str>卧槽，还能一箭➹九星的吗</td>
+    <td class="xl65" x:str>祝贺</td>
+    <td class="xl65" x:str>在长征四号面前，月亮</td>
+    <td class="xl65" x:str>火箭上掉下来些什么</td>
+    <td class="xl65" x:str>厉害了我的祖国</td>
+    <td class="xl65" x:str>恭喜祖国繁荣昌盛，科技强国！</td>
+    <td class="xl65" x:str>恭喜中国，我们的祖国会越来越棒，我很骄傲身为中国人。。</td>
+    <td class="xl65" x:str>厉害了我的国，都一箭九星了，内心无比自豪！</td>
+    <td class="xl65" x:str>仪征一号！！</td>
+    <td class="xl65" x:str>厉害了</td>
+    <td class="xl65" x:str>厉害了我的国</td>
+    <td class="xl65" x:str>祝福祖国！为航天事业打call</td>
+    <td class="xl65" x:str>愿航天事业未来的发展越来越好^ω^</td>
+    <td class="xl65" x:str>中国越来越好</td>
+    <td class="xl65" x:str>此生无悔入华夏，致敬</td>
+    <td class="xl65" x:str>祝贺</td>
+    <td class="xl65" x:str>祝祖国越来越强大！</td>
+    <td class="xl65" x:str>一发一发又一发，中国发发发！</td>
+    <td class="xl65" x:str>厉害了我的国！！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>厉害了</td>
+    <td class="xl65" x:str>就是这么腻害</td>
+    <td class="xl65" x:str>啊，祖国好棒啊</td>
+    <td class="xl65" x:str>太棒了！！！！</td>
+    <td class="xl65" x:str>向星辰大海，出发!!!祝贺祖国越来越强大♥</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祝贺</td>
+    <td class="xl65" x:str>加油中国</td>
+    <td class="xl65" x:str>历史中到强国，现代依然强盛，这离不开中国人的智慧。</td>
+    <td class="xl65" x:str>祖国越来越强大</td>
+    <td class="xl65" x:str>越来越厉害，火星探测也在倒计时了</td>
+    <td class="xl65" x:str>哇</td>
+    <td class="xl65" x:str>祝贺</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl66" colspan="4" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="104" style='height:52.00pt;'>
+    <td class="xl65" height="104" style='height:52.00pt;' x:str>【转发传递！习近平：#中华民族伟大复兴势不可挡#】中华民族伟大复兴的前进步伐势不可挡，香港、澳门与祖国内地同发展、共繁荣的道路必将越走越宽广！L人民日报的微博视频​​​​</td>
+    <td class="xl65" x:str>793</td>
+    <td class="xl65" x:str>为实现中华民族伟大复兴而努力奋斗！</td>
+    <td class="xl65" x:str>中华民族伟大复兴势不可挡</td>
+    <td class="xl65" x:str>大大辛苦了！！</td>
+    <td class="xl65" x:str>没错，只要我们团结一致</td>
+    <td class="xl65" x:str>祝祖国繁荣昌盛！</td>
+    <td class="xl65" x:str>祝福澳门一个中国祖国明天会更好</td>
+    <td class="xl65" x:str>威武的大大，可爱的大大，我最爱的祖国[米奇比心][米奇比心][米奇比心]</td>
+    <td class="xl65" x:str>祝福祖国繁荣昌盛，越来越强大</td>
+    <td class="xl65" x:str>转发传递中国雄起</td>
+    <td class="xl65" x:str>中华民族伟大复兴势不可挡</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>为实现中华民族伟大复兴而努力奋斗！</td>
+    <td class="xl65" x:str>中国加油，中国必胜</td>
+    <td class="xl65" x:str>中华民族伟大复兴势不可挡.！</td>
+    <td class="xl65" x:str>中华民族伟大复兴的前进步伐势不可挡</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>中华人民伟大复兴势不可挡！</td>
+    <td class="xl65" x:str>这我背过了，肖四第一套</td>
+    <td class="xl65" x:str>祝福祖国！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门，祝愿祖国更加繁荣昌盛</td>
+    <td class="xl65" x:str>我爱我的国中国</td>
+    <td class="xl65" x:str>同发展，共繁荣</td>
+    <td class="xl65" x:str>十四亿中国人跟党走，为中华民族的伟大复兴贡献自己的力量</td>
+    <td class="xl65" x:str>不可阻挡！</td>
+    <td class="xl65" x:str>中华民族伟大复兴的前进步伐势不可挡</td>
+    <td class="xl65" x:str>祝愿伟大祖国繁荣昌盛</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>中华民族伟大复兴势不可挡!!!</td>
+    <td class="xl65" x:str>坚决维护一国两制加油祖国！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>坚决维护一国两制加油祖国！</td>
+    <td class="xl66" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>中华民族伟大复兴势不可挡</td>
+    <td class="xl65" x:str>中华民族伟大复兴的前进步伐势不可挡，繁荣的道路必将越走越宽广！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祖国明天会更好</td>
+    <td class="xl65" x:str>中国自强</td>
+    <td class="xl65" x:str>祝福澳门祝福祖国</td>
+    <td class="xl65" x:str>中华民族伟大复兴势不可挡，无人能阻</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>团结一致</td>
+    <td class="xl65" x:str>我坚信在大大的领导下，中国越来越繁荣昌盛</td>
+    <td class="xl65" x:str>势不可挡</td>
+    <td class="xl65" x:str>愿祖国越来越好</td>
+    <td class="xl65" x:str>直播听到这句，我也跟着鼓起掌来。</td>
+    <td class="xl65" x:str>势不可挡</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>坚决维护一国两制！</td>
+    <td class="xl65" x:str>坚定向前</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祖国加油</td>
+    <td class="xl65" x:str>祝祖国，繁荣昌盛越来越强大</td>
+    <td class="xl65" x:str>祖国繁荣富强</td>
+    <td class="xl65" x:str>中国是一个统一的国家，这一点已牢牢地印在我国的历史意识之中，正是这种意识，才使我们能够作为一个国家而被保存下来，尽管它过去，遇到了许多破坏的力量。</td>
+    <td class="xl65" x:str>势不可挡，不可挡！</td>
+    <td class="xl65" x:str>国家富强，民族振兴，人民幸福势不可挡</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>我爱祖国</td>
+    <td class="xl65" x:str>坚决支持中央的决策部署。</td>
+    <td class="xl65" x:str>坚决维护一个中国原则</td>
+    <td class="xl65" x:str>中华民族伟大复兴的前进步伐势不可挡！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>哇头发都白了谢谢你</td>
+    <td class="xl65" x:str>看哭了</td>
+    <td class="xl65" x:str>祝福祖国中华民族伟大复兴的前进步伐，势不可挡！！！大大</td>
+    <td class="xl65" x:str>中华民族伟大复兴的前进步伐势不可挡</td>
+    <td class="xl65" x:str>愿祖国越来越强</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>加油祖国</td>
+    <td class="xl65" x:str>支持。</td>
+    <td class="xl66" colspan="16" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="104" style='height:52.00pt;'>
+    <td class="xl65" height="104" style='height:52.00pt;' x:str>【转发这段视频！习近平：#中国内政用不着任何外部势力指手画脚#】我们#绝不允许任何外部势力干预港澳事务#！这就是中国态度！L人民日报的微博视频​​​​</td>
+    <td class="xl65" x:str>2533</td>
+    <td class="xl65" x:str>绝不允许任何外部势力指手划脚</td>
+    <td class="xl65" x:str>14亿人民的中国用不着别人指手画脚！</td>
+    <td class="xl65" x:str>大大讲话了，很为威慑力的</td>
+    <td class="xl65" x:str>太燃了！！！！！</td>
+    <td class="xl65" x:str>中国的事情我们自己说了算！</td>
+    <td class="xl65" x:str>看的我眼泪都快掉下来了感觉大大多了几根白头发了，香港赶紧安定下来吧，操碎心了</td>
+    <td class="xl65" x:str>刚，听得我热血沸腾，太震撼了，中国内政，不容任何外部势力指手画脚～</td>
+    <td class="xl65" x:str>中国内政不容干涉</td>
+    <td class="xl65" x:str>铿锵有力！浩然正气！</td>
+    <td class="xl65" x:str>大大发话了</td>
+    <td class="xl65" x:str>钢！这就是我们14亿中国人的态度！</td>
+    <td class="xl65" x:str>中国内政不允许外国势力插手</td>
+    <td class="xl65" x:str>中国威武，主席霸气！</td>
+    <td class="xl65" x:str>中国态度，决不允许任何外部势力影响中国内政</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>中国态度</td>
+    <td class="xl66" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>这就是中国态度</td>
+    <td class="xl65" x:str>我们</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>中国内政用不着任何外部势力指手画脚！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>这就是中国的态度</td>
+    <td class="xl65" x:str>这就是中国的态度。霸气。</td>
+    <td class="xl65" x:str>中国内政不容他国干涉！</td>
+    <td class="xl65" x:str>这就是中国的态度！</td>
+    <td class="xl65" x:str>大大说的好</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>中国态度，义正辞严</td>
+    <td class="xl65" x:str>我们！这就是中国态度！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>中国态度</td>
+    <td class="xl65" x:str>振奋人心的中国力量</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>坚决维护一国两制加油祖国！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>本来就是，有些外部势力真的到处找存在感！谁理你们啊！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>大大最帅</td>
+    <td class="xl65" x:str>硬气</td>
+    <td class="xl65" x:str>中国态度！！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>主席短短几句话，却很燃</td>
+    <td class="xl65" x:str>热烈庆祝澳门已经回归20年祖国内政不容他方干涉</td>
+    <td class="xl65" x:str>我们的态度</td>
+    <td class="xl65" x:str>硬气</td>
+    <td class="xl65" x:str>！！！</td>
+    <td class="xl65" x:str>中国</td>
+    <td class="xl65" x:str>画个重点</td>
+    <td class="xl65" x:str>刚！</td>
+    <td class="xl65" x:str>大气！霸气！</td>
+    <td class="xl65" x:str>硬气！霸气！</td>
+    <td class="xl65" x:str>坚如磐石</td>
+    <td class="xl65" x:str>中国态度</td>
+    <td class="xl65" x:str>中国内政用不着任何外部势力指手画脚！时代最强音！</td>
+    <td class="xl65" x:str>为我的国点赞！阿中最棒！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>刚啊</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>给我冲上热搜第一</td>
+    <td class="xl65" x:str>牛</td>
+    <td class="xl65" x:str>中国是一个统一的国家，这一点已牢牢地印在我国的历史意识之中，正是这种意识，才使我们能够作为一个国家而被保存下来，尽管它过去，遇到了许多破坏的力量。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>帅死了！！！！</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>霸气</td>
+    <td class="xl65" x:str>中国内政不容干涉</td>
+    <td class="xl65" x:str>太燃了</td>
+    <td class="xl65" x:str>中国内政不容侵犯！</td>
+    <td class="xl65" x:str>绝对不允许外部势力干预中国的内政</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>这也是所有中国人的态度</td>
+    <td class="xl65" x:str>铿锵有力！</td>
+    <td class="xl65" x:str>太帅了</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>内部事务不容他国干预</td>
+    <td class="xl65" x:str>中国！使我们底气十足</td>
+    <td class="xl65" x:str>没错！</td>
+    <td class="xl66" colspan="3" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="52" style='height:26.00pt;'>
+    <td class="xl65" height="52" style='height:26.00pt;' x:str>习近平：我们#绝不允许任何外部势力干预港澳事务#！转发，这就是中国态度！​​​​</td>
+    <td class="xl65" x:str>1125</td>
+    <td class="xl65" x:str>对</td>
+    <td class="xl65" x:str>中国态度</td>
+    <td class="xl65" x:str>中国态度</td>
+    <td class="xl65" x:str>绝不允许任何外部势力干预港澳事务！</td>
+    <td class="xl65" x:str>我们</td>
+    <td class="xl65" x:str>这就是中国态度</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>绝不允许</td>
+    <td class="xl65" x:str>这就是中国态度！</td>
+    <td class="xl65" x:str>我们这就是中国态度！​​​</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>我们的态度！</td>
+    <td class="xl65" x:str>这就是中国态度</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>中国态度</td>
+    <td class="xl65" x:str>点赞</td>
+    <td class="xl65" x:str>好</td>
+    <td class="xl65" x:str>中国态度！</td>
+    <td class="xl65" x:str>支持我伟大的祖国。</td>
+    <td class="xl65" x:str>坚如磐石</td>
+    <td class="xl65" x:str>是的！</td>
+    <td class="xl65" x:str>这就是中国态度</td>
+    <td class="xl65" x:str>中国态度！！</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>一个中国！</td>
+    <td class="xl65" x:str>必须有态度！</td>
+    <td class="xl65" x:str>赞</td>
+    <td class="xl65" x:str>这是中国，这就是中国态度</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>这就是中国态度！</td>
+    <td class="xl65" x:str>这就是中国态度</td>
+    <td class="xl65" x:str>中国内政，不容任何外部势力指手画脚</td>
+    <td class="xl65" x:str>真是我们的，只能是我们的</td>
+    <td class="xl65" x:str>中国</td>
+    <td class="xl65" x:str>我们家的事，外人少管</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>我们！这就是中国态度！​​​</td>
+    <td class="xl65" x:str>大大发话了！帅！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>这就是中国态度！</td>
+    <td class="xl65" x:str>我们的态度</td>
+    <td class="xl65" x:str>中国态度！</td>
+    <td class="xl65" x:str>绝不允许外部势力干预港澳事务</td>
+    <td class="xl65" x:str>霸气</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>相信我大中华</td>
+    <td class="xl65" x:str>主权问题绝不让步这就是中国态度！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>支持。</td>
+    <td class="xl65" x:str>绝不允许</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>这就是中国态度</td>
+    <td class="xl65" x:str>这就是中国态度!</td>
+    <td class="xl65" x:str>绝对不允许</td>
+    <td class="xl65" x:str>这就是中国态度</td>
+    <td class="xl65" x:str>我爱你，中国！</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>中国态度</td>
+    <td class="xl65" x:str>转发</td>
+    <td class="xl65" x:str>我们</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>坚持一个中国✊</td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>转发</td>
+    <td class="xl65" x:str>我们的家务事，外人闭嘴</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>不允许！！！</td>
+    <td class="xl65" x:str>中国态度</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>这就是中国态度</td>
+    <td class="xl65" x:str>中国态度</td>
+    <td class="xl65" x:str>绝不允许！！！</td>
+    <td class="xl65" x:str>中国态度</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>中国人民的态度</td>
+    <td class="xl66" colspan="4" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="104" style='height:52.00pt;'>
+    <td class="xl65" height="104" style='height:52.00pt;' x:str>【习近平：#中国内政用不着任何外部势力指手画脚#】我要在此强调的是，香港、澳门回归祖国后，处理这两个特别行政区的事务完全是中国内政，用不着任何外部势力指手画脚。​​​​</td>
+    <td class="xl65" x:str>2460</td>
+    <td class="xl65" x:str>中国内政，不容外人插手</td>
+    <td class="xl65" x:str>这句话由大大来说感觉气势就是不一样！</td>
+    <td class="xl65" x:str>中国内政不需要别的国家指手画脚</td>
+    <td class="xl65" x:str>领袖就领袖，说话就是这么硬气！支持</td>
+    <td class="xl65" x:str>仿佛看到了明年的考研政治真题</td>
+    <td class="xl65" x:str>这才是最强音</td>
+    <td class="xl65" x:str>中国人民历来不信邪，不怕邪！</td>
+    <td class="xl65" x:str>我们家自己的事，外人滚一边去</td>
+    <td class="xl65" x:str>中国内政，不容外部势力指手画脚❤️</td>
+    <td class="xl65" x:str>中国内政，不容插手</td>
+    <td class="xl65" x:str>老子的家事要你管？！</td>
+    <td class="xl65" x:str>澳门是中国的澳门，香港也是中国的香港！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>外国人这是我们想对你们说的话，请放到心里</td>
+    <td class="xl65" x:str>霸气外露！没错！这就是我大中华！</td>
+    <td class="xl65" x:str>中国内政，不容插手</td>
+    <td class="xl65" x:str>是的</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>重庆话就是管你锤子事</td>
+    <td class="xl65" x:str>霸气</td>
+    <td class="xl65" x:str>顶</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>坚决维护国家主权。本国事务容不得你们胡说八道</td>
+    <td class="xl65" x:str>太正气了，就等这句话。</td>
+    <td class="xl65" x:str>中国内政，不容插手</td>
+    <td class="xl65" x:str>用南宁话说就是～关你黑事</td>
+    <td class="xl65" x:str>就是说啊</td>
+    <td class="xl65" x:str>中国内政不容外部势力插手！</td>
+    <td class="xl65" x:str>要是早点出，应该可以出分析题</td>
+    <td class="xl65" x:str>湖南话闲哒没事做啊！</td>
+    <td class="xl65" x:str>家务事，不需要外人掺和……</td>
+    <td class="xl65" x:str>国力强，底气足，民心齐，未来胜。</td>
+    <td class="xl65" x:str>男神说的太对了</td>
+    <td class="xl65" x:str>我们一直在一起</td>
+    <td class="xl65" x:str>帅</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>我们不需要别国干预内政</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>霸气</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>这是中国的内政，不需要你的指手画脚！！</td>
+    <td class="xl65" x:str>铿锵有力</td>
+    <td class="xl65" x:str>中国内政，不容插手</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>就是</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>说得对！</td>
+    <td class="xl65" x:str>我大大霸气   大中国更霸气！</td>
+    <td class="xl65" x:str>铿锵有力</td>
+    <td class="xl66" colspan="37" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="104" style='height:52.00pt;'>
+    <td class="xl65" height="104" style='height:52.00pt;' x:str>【习近平谈澳门“一国两制”成功实践】澳门的成功实践告诉我们，只要对“一国两制”坚信而笃行，“一国两制”的生命力和优越性就会充分显现出来。#澳门回归20周年#​​​​</td>
+    <td class="xl65" x:str>305</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>​​​​祝福祖国，祝福澳门！</td>
+    <td class="xl65" x:str>那年今日，回归已是20年，祝澳门越来越好，祝祖国越来越好！</td>
+    <td class="xl65" x:str>坚持一国两制方针，祝福澳门回归祖国20周年</td>
+    <td class="xl65" x:str>坚信而笃行！一国两制！</td>
+    <td class="xl65" x:str>一国两制，坚信而笃行</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门！澳门你好！祝愿祖国更加繁荣昌盛！</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>澳门回归20年</td>
+    <td class="xl65" x:str>祝福澳门越来越好！</td>
+    <td class="xl65" x:str>祝愿祖国越来越好、越来越强大</td>
+    <td class="xl65" x:str>祝福祖国，祝澳门越来越好</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>恭贺澳门回归20周年</td>
+    <td class="xl65" x:str>一国两制</td>
+    <td class="xl65" x:str>加油澳门，加油中国</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>一国两制</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>我们都会更好</td>
+    <td class="xl65" x:str>好的</td>
+    <td class="xl65" x:str>一国两制。</td>
+    <td class="xl65" x:str>笔芯</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>澳门明天更美好!</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门回归20周年。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝祖国繁荣昌盛！点赞祖国，点赞澳门！生日快乐！</td>
+    <td class="xl65" x:str>祝贺澳门回归20周年</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国，都越来越好啦!</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福祖国，</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>坚定不移跟党走</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>坚持“一国两制”，相信澳门会更好！</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>笃信</td>
+    <td class="xl66" colspan="47" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="78" style='height:39.00pt;'>
+    <td class="xl65" height="78" style='height:39.00pt;' x:str>【现场视频！#贺一诚宣誓#】20日上午，由国家主席习近平监誓，澳门特别行政区第五任行政长官贺一诚宣誓就职。L人民日报的微博视频​​​​</td>
+    <td class="xl65" x:str>628</td>
+    <td class="xl65" x:str>那年今日，回家已是20年，祝澳门越来越好</td>
+    <td class="xl65" x:str>祝福[米奇比心][米奇比心]</td>
+    <td class="xl65" x:str>祝贺澳门回归祖国20周年，爱我中华民族，爱我祖国</td>
+    <td class="xl65" x:str>祝福祖国！祝福澳门！</td>
+    <td class="xl65" x:str>澳门将迈入新的纪元，期待未来的澳门，在特区政府带领下，越来越美丽，越来越美好！！！下个十年更辉煌璀璨</td>
+    <td class="xl65" x:str>为一国两制在澳门的成果实践点赞！</td>
+    <td class="xl65" x:str>热烈祝福澳门回归20周年</td>
+    <td class="xl65" x:str>贺先生的普通话说得挺好的呀</td>
+    <td class="xl65" x:str>祝福阿中大家庭新年家和万事兴！</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>祝福！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福我的祖国！祝福祖国的澳门</td>
+    <td class="xl65" x:str>加油加油</td>
+    <td class="xl65" x:str>祝福澳门回归祖国怀抱20周年</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>心潮澎湃！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>时间过得好快，祖国越来越好</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国！</td>
+    <td class="xl65" x:str>澳门加油，愿祖国繁荣昌盛</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>热烈祝贺</td>
+    <td class="xl65" x:str>祝福祖国！祝福澳门！</td>
+    <td class="xl65" x:str>澳门</td>
+    <td class="xl65" x:str>！！！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福[米奇比心]</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门！</td>
+    <td class="xl65" x:str>希望澳门越来越好</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>【现场视频！】</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>辛苦了，满头白发，真心泪目</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年，点赞澳门，祝福祖国！</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>哈哈哈哈，普通话真好</td>
+    <td class="xl65" x:str>祖国好，有国才有家</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>中国会越来越好！爱国的中国人民会越来越好！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门繁荣昌盛</td>
+    <td class="xl65" x:str>国家的强大，民族的自豪</td>
+    <td class="xl65" x:str>祝祖国越来越好</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门，时间真快，二十年过去了。</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门，吾辈当自强，做新时代可靠的接班人</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>祝福澳门！</td>
+    <td class="xl65" x:str>祝福澳门！祝福祖国！</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祝澳门越来越好，祝祖国越来越昌盛</td>
+    <td class="xl65" x:str>好</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>感恩我的祖国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝澳门越来越好</td>
+    <td class="xl65" x:str>好棒</td>
+    <td class="xl65" x:str>转眼20年，回想澳门回归，我才读初一，现在已组建小家庭。祝福祖国和澳门越来越好！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门祝福祖国！</td>
+    <td class="xl65" x:str>祝福澳门，越来越好，祖国繁荣昌盛</td>
+    <td class="xl65" x:str>普通话说的挺好</td>
+    <td class="xl65" x:str>祝福祖国越来越好！！</td>
+    <td class="xl65" x:str>祝澳门明天更美好祖国更繁荣昌盛</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门！</td>
+    <td class="xl65" x:str>祝福澳门！祝福祖国！</td>
+    <td class="xl66" colspan="17" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="130" style='height:65.00pt;'>
+    <td class="xl65" height="130" style='height:65.00pt;' x:str>【庆祝#澳门回归祖国20周年大会#，全场高唱国歌】庆祝澳门回归祖国20周年大会正在举行，全场高唱国歌。转发微博，在你的昵称后点亮国旗区旗icon！祝福澳门，加油中国！#我的中国心#L人民日报的微博视频​​​​</td>
+    <td class="xl65" x:str>899</td>
+    <td class="xl65" x:str>祝福澳门，加油中国！</td>
+    <td class="xl65" x:str>在中央政府的坚强领导下，着力筑牢“一国两制”社会政治基础，香港、澳门与祖国内地同发展、共繁荣的道路必将越走越宽广。</td>
+    <td class="xl65" x:str>祝福澳门祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门，加油祖国</td>
+    <td class="xl65" x:str>一个人的归属感来自于自己的祖国！！！</td>
+    <td class="xl65" x:str>依依濠头情，拳拳中国心。荷花别样红，人民同欢庆！两地齐携手，共圆复兴梦。明天更美好，繁荣更辉煌！</td>
+    <td class="xl65" x:str>祝福澳门，加油中国！</td>
+    <td class="xl65" x:str>我爱你中国</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国永远繁荣昌盛</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年，祝福祖国！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福祖国，祝福祖国</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>中国加油</td>
+    <td class="xl65" x:str>祝福澳门，加油中国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>庆祝澳门回归祖国</td>
+    <td class="xl65" x:str>祝福澳门，加油中国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，加油中国！</td>
+    <td class="xl65" x:str>中国加油，祝福澳门越来越好</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门！祝福中国</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>祝福澳门，加油中国</td>
+    <td class="xl65" x:str>祝福澳门祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门，加油中国</td>
+    <td class="xl65" x:str>20周年刚好我也20岁呢</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年    来看《澳门人家》  好看</td>
+    <td class="xl65" x:str>祝福澳门，祝福中国</td>
+    <td class="xl65" x:str>庆祝澳门回归祖国20周年</td>
+    <td class="xl65" x:str>庆祝澳门回归祖国20周年，祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门祖国加油</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门！！！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门，加油中国</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>你可知Macao不是我真姓</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>依依濠江情，拳拳中国心。祝福祖国！祝福澳门！㊗️澳门越来越好！㊗️祖国繁荣昌盛！</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>CN</td>
+    <td class="xl65" x:str>祝福澳门，加油中国！！！！！</td>
+    <td class="xl65" x:str>祝福中国，祝福澳门。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福美丽澳门越来越好！</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>小澳冲冲冲身后是小中</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>澳门回归20周年，节日快乐！祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>国歌响起内心无比激动！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门!加油祖国!</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>㊗️福祖国，㊗️福澳门</td>
+    <td class="xl65" x:str>愿祖国繁荣昌盛</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>不管任何时候听到国歌，我都是回浑身起鸡皮疙瘩，永远都是激情澎湃</td>
+    <td class="xl65" x:str>祝福祖国！祝福澳门！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳門祝福祖國！！！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>中国是一个统一的国家，这一点已牢牢地印在我国的历史意识之中，正是这种意识，才使我们能够作为一个国家而被保存下来，尽管它过去，遇到了许多破坏的力量。</td>
+    <td class="xl65" x:str>祝福澳门，加油中国</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年！</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门！</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国❤❤❤</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年，点赞澳门，祝福祖国！</td>
+    <td class="xl65" x:str>举国同庆，激动，希望祖国仍旧繁荣昌盛</td>
+    <td class="xl66" colspan="3" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="78" style='height:39.00pt;'>
+    <td class="xl65" height="78" style='height:39.00pt;' x:str>【正在直播！庆祝#澳门回归祖国20周年大会#】习近平主席将发表重要讲话。新任特首贺一诚及特区政府主要官员将宣誓就职。转发关注！</td>
+    <td class="xl65" x:str>183</td>
+    <td class="xl65" x:str>祝福澳门祝福祖国生日快乐明天会更好</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝贺</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福！</td>
+    <td class="xl65" x:str>在中央政府的坚强领导下，着力筑牢“一国两制”社会政治基础，香港、澳门与祖国内地同发展、共繁荣的道路必将越走越宽广。</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>在此热烈庆祝祝福祖国繁荣昌盛国泰民安</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门明天会更好</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国，祝贺澳门</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>澳门再接再厉祖国更加富强！</td>
+    <td class="xl65" x:str>祝福祖国！点赞澳门！</td>
+    <td class="xl65" x:str>祝福我的祖国，国泰民安</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>期待！</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝愿祖国明天更完美，未来更辉煌！繁荣昌盛</td>
+    <td class="xl65" x:str>来看直播！点赞澳门，祝福祖国！</td>
+    <td class="xl65" x:str>祝福祖国！</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福  祝福</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，我大中华人民共和国</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门！</td>
+    <td class="xl65" x:str>祝福澳门祝福祖国生日快乐明天会更好</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl66" colspan="43" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【祝福澳门、表白祖国！#我的中国心手势舞#挑战等你一起来！】并不复杂的动作，希望能表达我们的心声：无论何时，无论何地，不变的，是我们永恒的中国心。敢不敢一起来挑战？带#我的中国心#话题，参与微博故事挑战，让这段手势舞刷屏！#澳门回归20周年#  L人民日报的微博视频​​​​</td>
+    <td class="xl65" x:str>756</td>
+    <td class="xl65" x:str>和热巴一起表白祖国</td>
+    <td class="xl65" x:str>我的中国心手势舞快和热巴一起学起来吧</td>
+    <td class="xl65" x:str>和一起表白祖国</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>和热巴一起表白祖国</td>
+    <td class="xl65" x:str>和热巴一起表白祖国祝福澳门</td>
+    <td class="xl65" x:str>和热巴一起祝福澳门表白祖国</td>
+    <td class="xl65" x:str>和张碧晨一起表白祖国祝福澳门</td>
+    <td class="xl65" x:str>和正能量歌手张碧晨一起祝福表白祖国</td>
+    <td class="xl65" x:str>和一起祝福澳门，表白祖国</td>
+    <td class="xl65" x:str>和张碧晨一起祝福澳门  表白祖国</td>
+    <td class="xl65" x:str>和一起祝福澳门</td>
+    <td class="xl65" x:str>和  一起  表白祖国</td>
+    <td class="xl65" x:str>和一起祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>和  一起祝福澳门  表白祖国</td>
+    <td class="xl65" x:str>和张碧晨一起表白祖国</td>
+    <td class="xl65" x:str>和一起祝福澳门，表白祖国</td>
+    <td class="xl65" x:str>和一起祝福祖国</td>
+    <td class="xl65" x:str>张碧晨</td>
+    <td class="xl65" x:str>丫丫可太美了！！</td>
+    <td class="xl65" x:str>和迪丽热巴一起表白祖国</td>
+    <td class="xl65" x:str>和迪丽热巴一起表白祖国</td>
+    <td class="xl65" x:str>佟丽娅好美</td>
+    <td class="xl65" x:str>丫丫真好看</td>
+    <td class="xl65" x:str>和一起祝福</td>
+    <td class="xl65" x:str>表白祖国祖国的明天会更好！</td>
+    <td class="xl65" x:str>祝福中国澳门</td>
+    <td class="xl65" x:str>和一起祝福澳门表白祖国</td>
+    <td class="xl65" x:str>祝福澳门，20年风风雨雨，愿澳门明天更美丽</td>
+    <td class="xl65" x:str>和一起祝福澳门，表白祖国！</td>
+    <td class="xl65" x:str>娅娅笑的好甜祖国繁荣富强</td>
+    <td class="xl65" x:str>丫丫好漂亮</td>
+    <td class="xl65" x:str>和一起祝福澳门表白祖国</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>和  一起祝福澳门  表白祖国</td>
+    <td class="xl65" x:str>丫丫也太好看了！！</td>
+    <td class="xl65" x:str>和正能量歌手一起祝福澳门</td>
+    <td class="xl65" x:str>和正能量歌手张碧晨一起祝福澳门祝福祖国</td>
+    <td class="xl65" x:str>表白祖国</td>
+    <td class="xl65" x:str>张若昀真的好像一个莫得感情的机器</td>
+    <td class="xl65" x:str>和一起祝福澳门表白祖国</td>
+    <td class="xl65" x:str>和迪丽热巴一起表白祖国</td>
+    <td class="xl65" x:str>跟着迪丽热巴表白祖国~</td>
+    <td class="xl65" x:str>和热巴一起祝福澳门表白祖国</td>
+    <td class="xl65" x:str>和热巴一起表白祖国</td>
+    <td class="xl65" x:str>表白祖国我爱中国</td>
+    <td class="xl65" x:str>和正能量歌手一起祝福澳门，表白祖国</td>
+    <td class="xl65" x:str>和一起表白祖国</td>
+    <td class="xl65" x:str>和  一起祝福澳门  表白祖国</td>
+    <td class="xl65" x:str>和一起祝福澳门表白祖国</td>
+    <td class="xl65" x:str>佟丽娅挺好看的</td>
+    <td class="xl65" x:str>和青年歌手  一起祝福澳门表白祖国繁荣昌盛</td>
+    <td class="xl65" x:str>和  一起祝福澳门  表白祖国</td>
+    <td class="xl65" x:str>和青年歌手张碧晨一起祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>表白祖国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>妈呀  佟丽娅靓到我了，表白阿中哥和丫丫美女</td>
+    <td class="xl65" x:str>和一起表白祖国</td>
+    <td class="xl65" x:str>丫丫好美</td>
+    <td class="xl65" x:str>丫丫太好看了8！！！</td>
+    <td class="xl65" x:str>佟丽娅好好看(｡･ω･｡)ﾉ♡</td>
+    <td class="xl65" x:str>和热巴一起表白祖国</td>
+    <td class="xl65" x:str>和一起表白祖国！</td>
+    <td class="xl65" x:str>和一起祝福伟大的祖国繁荣昌盛祝澳门同胞越来越好</td>
+    <td class="xl65" x:str>和热巴一起表白祖国</td>
+    <td class="xl65" x:str>和张碧晨一起表白祖国</td>
+    <td class="xl65" x:str>和一起祝福澳门、表白祖国</td>
+    <td class="xl65" x:str>和张碧晨一起祝福澳门，表白祖国</td>
+    <td class="xl65" x:str>和  一起祝福澳门  表白祖国</td>
+    <td class="xl65" x:str>YY好好看呀</td>
+    <td class="xl65" x:str>和一起祝福澳门  表白祖国</td>
+    <td class="xl65" x:str>和张碧晨一起送上祝福</td>
+    <td class="xl65" x:str>和张碧晨一起祝福</td>
+    <td class="xl65" x:str>佟丽娅好美</td>
+    <td class="xl65" x:str>佟丽娅好看</td>
+    <td class="xl65" x:str>丫丫好像老师哦哈哈哈好康~</td>
+    <td class="xl65" x:str>佟丽娅姐姐好看，和她一起表白祖国</td>
+    <td class="xl65" x:str>佟丽娅真的好看</td>
+    <td class="xl65" x:str>佟丽娅好看死了</td>
+    <td class="xl65" x:str>佟丽娅真好看</td>
+    <td class="xl65" x:str>丫丫好漂亮</td>
+    <td class="xl65" x:str>哇，佟丽娅好看</td>
+    <td class="xl65" x:str>和丫丫一起祝福祖国</td>
+    <td class="xl66" colspan="5" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="156" style='height:78.00pt;'>
+    <td class="xl65" height="156" style='height:78.00pt;' x:str>【正在直播！庆祝#澳门回归祖国20周年大会#今天举行】庆祝澳门回归祖国20周年大会暨澳门特别行政区第五届政府就职典礼今天举行，国家主席习近平出席。@人民日报正在直播↓↓转发还能点亮国旗区旗icon！一起来看！#我的中国心#O人民日报的微博直播.​​​​</td>
+    <td class="xl65" x:str>1280</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国！！！</td>
+    <td class="xl65" x:str>祝福澳门，祝福中国！​</td>
+    <td class="xl65" x:str>庆祝暨澳门特别行政区第五届政府就职典礼今天举行，国家主席习近平出席。转发关注！</td>
+    <td class="xl65" x:str>庆祝澳门回归祖国20周年！祝福澳门！</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国！</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国，明天会更好</td>
+    <td class="xl65" x:str>庆祝澳门回归二十周年祝福祖国！祝福澳门，明天会更好</td>
+    <td class="xl65" x:str>引以为澳！祝福澳门</td>
+    <td class="xl65" x:str>庆祝澳门回归二十周年，祝福祖国繁荣昌盛</td>
+    <td class="xl65" x:str>正在直播！</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>中国越来越好</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国！</td>
+    <td class="xl65" x:str>祝福澳门祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>祝祖国繁荣昌盛</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>祝愿我们的祖国繁荣昌盛</td>
+    <td class="xl65" x:str>祝福祖国越来越好</td>
+    <td class="xl65" x:str>中国富强，民族永旺，祝澳门回归快乐！！</td>
+    <td class="xl65" x:str>庆祝澳门回归！！永远热爱我的祖国！！</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年，祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>祝福祖国  祝福澳门</td>
+    <td class="xl65" x:str>20啦</td>
+    <td class="xl65" x:str>祝福澳门！加油中国！！</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年！祝福祖国繁荣富强！</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门祝福祖国</td>
+    <td class="xl65" x:str>庆祝澳门回归二十周年</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>庆祝澳门回归，愿祖国越来越好，繁荣昌盛</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门祝福祖国明天会更好</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，祝愿祖国繁荣昌盛</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年</td>
+    <td class="xl65" x:str>祝福祖国！祝福奥门！我祖国自豪！</td>
+    <td class="xl65" x:str>澳门回归20周年祝福祖国越来越繁荣</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年，祝福澳门，祝福祖国❤</td>
+    <td class="xl65" x:str>庆祝澳门回归二十周年祝福澳门，明天会更好</td>
+    <td class="xl65" x:str>你可知Macau，不是我真姓。</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门祝福祖国</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>庆祝澳门回归祖国20周年快乐明天会更好</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年，祝福祖国！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>热烈庆祝</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年，点赞澳门，祝福祖国！</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>祝福祖国！祝福澳门！</td>
+    <td class="xl65" x:str>庆祝澳门回归祖国20周年</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>庆祝澳门回归祖国20周年！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>【正在直播！庆祝今天举行】</td>
+    <td class="xl65" x:str>祝福祖国繁荣昌盛。明天会更好！</td>
+    <td class="xl65" x:str>祝福澳门  祝祖国未来越来越好</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国，我以祖国自豪</td>
+    <td class="xl65" x:str>祝福澳门！祝福祖国！！</td>
+    <td class="xl65" x:str>祝福祖国！祝福澳门！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门祝福祖国</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门祝福祖国生日快乐明天会更好</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>庆祝澳门回归二十周年，祝福澳门，明天会更好</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门祝福祖国</td>
+    <td class="xl65" x:str>庆祝澳门回归二十周年！祝愿祖国繁荣昌盛</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门繁荣昌盛，欣欣向荣！</td>
+    <td class="xl65" x:str>祝贺</td>
+    <td class="xl65" x:str>祝福澳门，明天会更美好ヾ^_^♪</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="208" style='height:104.00pt;'>
+    <td class="xl65" height="208" style='height:104.00pt;' x:str>#我的中国心#【那一年，#我的澳门回归记忆#】“我是那天出生的，因为澳门回归仪式，名叫澳仪”“驻澳部队从拱北口岸驶入澳门，我就在路旁献花”“当时我还是个小孩，不懂爸爸为什么哭了”“《七子之歌》一听就会流泪，一开口就是泣音”…#澳门回归20周年#，网友关于1999年12月20日的回忆↓一起说说你的​​​​...展开全文c</td>
+    <td class="xl65" x:str>609</td>
+    <td class="xl65" x:str>澳门回家20年了</td>
+    <td class="xl65" x:str>我20，你20，我们一同成长！</td>
+    <td class="xl65" x:str>出生在99年12月20日，于是我爸爸给我取名&quot;澳环&quot;，&quot;环&quot;是&quot;归还‘’中的&quot;还&quot;的同音字</td>
+    <td class="xl65" x:str>我是1999年出生的    澳门那时候我才三个月</td>
+    <td class="xl65" x:str>尼可芝麻开是这首吗？</td>
+    <td class="xl65" x:str>1997年，香港回归，那年我出生；1999年12月20日，澳门回归，第二天是我两岁生日；2019年，明天，12月21日，我的生日，我将踏上考研的战场，愿我一站成硕，愿香港澳门繁荣稳定</td>
+    <td class="xl65" x:str>回家的孩子就是幸福！我們回家二十年了！</td>
+    <td class="xl65" x:str>1999年12月20日我还没出生呢</td>
+    <td class="xl65" x:str>七子之歌小时候学的！！</td>
+    <td class="xl65" x:str>祝福澳门，20年风风雨雨，愿澳门明天更美丽</td>
+    <td class="xl65" x:str>比澳门回归早两天出生，可能就是为了和全国人民一起迎接澳门叭</td>
+    <td class="xl65" x:str>澳门和香港的区别就是教育</td>
+    <td class="xl65" x:str>从小就感觉和澳门有着特别的缘分，今年看到澳门回归二十周年的每一条新闻都感觉好像自己经历过一样，对啊，我也是和澳门一起成长起来的姑娘啊。澳凯澳凯，澳门凯旋。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>我是1999.12.19澳门回归前一天出生的妈妈说医院的小护士们都想赶着去看回归仪式我就出来啦</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>庆祝澳门回归祖国20周年</td>
+    <td class="xl65" x:str>记得当年澳门回归市里举行中小学舞蹈比赛，教师的比赛节目里我那时演的的是澳门。</td>
+    <td class="xl65" x:str>喜大普奔啊</td>
+    <td class="xl65" x:str>我也很幸运澳门回归这天出生，本来打算叫“澳琳”可是我爸又怕我小时候名字太难写就叫了“菲”。从小我也对澳门这个城市有着别样的情感，今天是它回归的第二十年也是我出生的第二十年，一起生日快乐这座城市和我都越来越好，加油！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>99年的报到</td>
+    <td class="xl65" x:str>澳门回家20年了</td>
+    <td class="xl65" x:str>那时候小学一年级吧，学校举办各种活动庆祝澳门回归，我参加了写字比赛哈哈</td>
+    <td class="xl65" x:str>99年还是小学生的我根本不懂这个回归的含义，慢慢长大知晓一切后百般思绪已经无以言喻祝福</td>
+    <td class="xl65" x:str>中国心❤</td>
+    <td class="xl65" x:str>1997年12月出生的澳门回归时候我2岁没什么记忆不过后来上小学还是初中学的七子之歌到现在还记忆犹新“你可知Macau不是我真姓我离开你太久了母亲但是他们掳去的是我的肉体你依然保管我内心的灵魂那三百年来梦寐不忘的生母啊请叫儿的乳名叫我一声澳门&quot;</td>
+    <td class="xl65" x:str>我刚好一个月啦！</td>
+    <td class="xl65" x:str>七子之歌开口跪！</td>
+    <td class="xl65" x:str>非常让人感动的一首歌，特别是让所有的中国人为之感动，</td>
+    <td class="xl65" x:str>1999.12.20我出生2019.12.20我二十岁啦祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>那年我在小学，参加学校组织的合唱比赛，大部分队伍都不约而同地选了《七子之歌》～</td>
+    <td class="xl65" x:str>那一天全校师生在操场一起合唱《七子之歌》</td>
+    <td class="xl65" x:str>那年的我读初一，跟着爷爷在家一起看完了典礼，从解放军入奥开始，一直到回归仪式，那时候的我还不太懂什么叫回归，后来学了中国近现代史，才知道回归对于澳门对于中国的含义！！！</td>
+    <td class="xl65" x:str>澳门回归那年我9岁，懂事了，却不懂什么叫“回归”，只记得整个冬天都被《七子之歌》环绕着，不知道macau的意思，但不影响我听会了这首歌。二十年了，好快明天会更好！</td>
+    <td class="xl65" x:str>时光荏苒，澳门回家都已经20年了，真快！祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>七子之歌从小就听，每次听到都莫名热泪</td>
+    <td class="xl65" x:str>那时的我还小没记事</td>
+    <td class="xl65" x:str>从第一段话开始哭着读完了所有</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>第一次听《七子之歌》哭了，时隔20年，再听，依旧泪目</td>
+    <td class="xl65" x:str>想起了以前学的那首歌</td>
+    <td class="xl65" x:str>感觉是记忆中那个甜甜的小女孩的歌声</td>
+    <td class="xl65" x:str>我家对门的弟弟是99年出生，名字叫迎澳，欢迎澳门回归的意思。</td>
+    <td class="xl65" x:str>澳门你好</td>
+    <td class="xl65" x:str>乖乖的多好</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门祝福中国</td>
+    <td class="xl65" x:str>1999年我两岁啦</td>
+    <td class="xl65" x:str>那時我才8岁，上幼儿园大班。七岁才上幼儿园，現在4～5岁就上了。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>我是99年出生的旧历生日的话就是12.20</td>
+    <td class="xl65" x:str>我4岁了</td>
+    <td class="xl65" x:str>那时我八岁老师教唱七子之歌那时听到这首歌好喜欢啊</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>澳门回家20年了</td>
+    <td class="xl65" x:str>我的中国心</td>
+    <td class="xl65" x:str>看这个看哭了</td>
+    <td class="xl65" x:str>千万次表白依旧热泪盈眶</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>祝福澳门，愿澳门的明天更好</td>
+    <td class="xl65" x:str>那年我上小学二年级，什么都不懂，但是听见七子之歌就觉得特别好听，特别感动，喜欢领唱的童声</td>
+    <td class="xl65" x:str>生日快乐</td>
+    <td class="xl65" x:str>七子之歌，上小学就学过，但是那时候不太懂得这首歌的含义，现在想想，每一句歌词，都让人心酸落泪</td>
+    <td class="xl65" x:str>会越来越好的！</td>
+    <td class="xl65" x:str>七子之歌，从小就会唱</td>
+    <td class="xl65" x:str>小学学过的七子之歌，祝福祖国，祝福澳门❤️❤️</td>
+    <td class="xl65" x:str>祝福祖国！祝福澳门！</td>
+    <td class="xl65" x:str>回家20年了</td>
+    <td class="xl65" x:str>1999年12月20日我出生啦</td>
+    <td class="xl65" x:str>2001.12.20，我出生了，今天我迎来了十八岁生日，也是澳门回归二十周年，如此荣幸，感谢母亲在十八年前的今天将我生下。祝愿澳门繁荣稳定，祖国越来越好，我们共同成长。</td>
+    <td class="xl65" x:str>我们都是20岁的青春小伙，一起加油为盛世中华礼赞</td>
+    <td class="xl65" x:str>父母澳门回归那天结婚的，10个月以后有了我</td>
+    <td class="xl65" x:str>祝福澳门明天更好。</td>
+    <td class="xl65" x:str>我想问澳门人是真的爱国吧，可别像中国香港人一样假装的，我很担心</td>
+    <td class="xl65" x:str>我叫梁澳，第一次上人民日报版页，很幸福。祝福澳门祝福祖国</td>
+    <td class="xl65" x:str>那一年，我在学校元旦晚会是上进行澳门七子之歌的演讲，台上很多师生都流下了激动的泪水。</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>对于澳门的回忆啊就是七子之歌，耳熟能详，从小就在唱20周年回归</td>
+    <td class="xl65" x:str>广州湾也是七子之一</td>
+    <td class="xl65" x:str>祝祖国繁荣昌盛</td>
+    <td class="xl65" x:str>第一次听到是在品德课上   老师第一次给唱的     当时还不能明白   现在想起来都这么长时间了</td>
+    <td class="xl65" x:str>我还没出生祝福澳门，表白祖国</td>
+    <td class="xl65" x:str>我还没出生</td>
+    <td class="xl66" colspan="3" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="156" style='height:78.00pt;'>
+    <td class="xl65" height="156" style='height:78.00pt;' x:str>【#澳门金莲花广场升旗仪式#，转发微博，一起升旗！】为庆祝澳门特别行政区成立20周年，今早8点，澳门特区政府在金莲花广场举行升旗仪式。转发微博，你的昵称后也将点亮国旗区旗icon！今天，祝福澳门，祝福中国！#我的中国心#  L人民日报的微博视频​​​​</td>
+    <td class="xl65" x:str>3811</td>
+    <td class="xl65" x:str>祝福澳门祝福中国20周年快乐</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国。</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门！祝福祖国！祝福所有人！</td>
+    <td class="xl65" x:str>澳门回归20周年！祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国！未来会更好！</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门！澳门你好！祝愿祖国更加繁荣昌盛！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>​​​​祝福祖国，祝福澳门！</td>
+    <td class="xl65" x:str>祝福祖国！祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>澳门，我很中意你</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳門</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门回归20周年祝福祖国！</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>亮国旗有什么用</td>
+    <td class="xl65" x:str>祝祖国繁荣昌盛</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>天耀中华，祝福澳门</td>
+    <td class="xl65" x:str>♥️</td>
+    <td class="xl65" x:str>我在重庆祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门！祝福中国</td>
+    <td class="xl65" x:str>祝福澳门！祝福祖国！！！</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>Wowo</td>
+    <td class="xl65" x:str>金莲花</td>
+    <td class="xl65" x:str>Icon</td>
+    <td class="xl65" x:str>祝福中国，祝福澳门。</td>
+    <td class="xl65" x:str>祝福澳门！祝福祖国！中国人民团结一致，祖国越来越强！</td>
+    <td class="xl65" x:str>赞赞赞赞赞赞赞</td>
+    <td class="xl65" x:str>祝福澳门，愿祖国更加强大</td>
+    <td class="xl65" x:str>澳门回归20周年祝福我们的祖国</td>
+    <td class="xl65" x:str>没有天安门有气势</td>
+    <td class="xl65" x:str>祝福澳门，祝福中国</td>
+    <td class="xl65" x:str>祝福澳门！祝福祖国！祝福我们！</td>
+    <td class="xl65" x:str>某港学着点</td>
+    <td class="xl65" x:str>看看澳门再看看香港</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>澳门是祖国的小棉袄</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国！祝福澳门！20周年快乐</td>
+    <td class="xl65" x:str>祝福祖国  祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国、祝福澳门❤️</td>
+    <td class="xl65" x:str>祝福祖国！祝福澳门！</td>
+    <td class="xl65" x:str>祝福中国</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>澳門加油</td>
+    <td class="xl65" x:str>鼻子好酸眼泪又流下来了！澳门给我们太多的感动！香港给我们太多的伤痛！</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>庆祝澳门</td>
+    <td class="xl65" x:str>祖国明天更美好！祝福澳门！祝福祖国！</td>
+    <td class="xl65" x:str>祝福澳门！祝福祖国繁荣昌盛！我爱你中国</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门！</td>
+    <td class="xl65" x:str>越来越好</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>一起升旗，祝福祖国！祝福澳门！</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门！祝福祖国！</td>
+    <td class="xl65" x:str>祝福澳门愿祖国更加繁荣更加美丽此生不悔入华夏来世愿做种花人</td>
+    <td class="xl65" x:str>刚看完，阳台上还有人挂国旗</td>
+    <td class="xl65" x:str>祝福我上次去玩正好遇见升旗拍的还有视频</td>
+    <td class="xl65" x:str>澳门回归20周年！祝福澳门！还有今天与天同庆你生日快乐！</td>
+    <td class="xl65" x:str>那个男同学怎么样了啊？</td>
+    <td class="xl65" x:str>澳门五日游，澳门的老人很朴实真诚！</td>
+    <td class="xl65" x:str>建议隔壁好好看好好学</td>
+    <td class="xl65" x:str>当国旗区旗icon点亮！今天请让我们祝福澳门，祝福中国</td>
+    <td class="xl65" x:str>祝愿祖国繁荣昌盛越来越好</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝澳门回家20周年快乐99年生的我和您一同长大，名字里也有祝您归来的寓意，祝福祖国繁荣昌盛</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国！</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳門</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【一念廿年！一段视频，感受#镜头里的澳门20年#】从1999到2019，一个生机勃勃的澳门以崭新姿态屹立在南海之滨。30多平方公里土地上，上演了数百年来最辉煌的巨变。今天，#澳门回归20周年#，跟随这段视频，感受日新月异的濠江故事↓↓转发祝福，澳门，正青春！  L人民日报的微博视频​​​​</td>
+    <td class="xl65" x:str>1181</td>
+    <td class="xl65" x:str>这首歌真的是耳濡目染，也没有刻意学过，那时候还很小，后来的日子里总能脱口而出，祝福</td>
+    <td class="xl65" x:str>“一国两制”是解决历史遗留的澳门问题的最佳方案，也是澳门回归后保持长期繁荣稳定的最佳制度，祝福澳门，祝福祖国越来越繁荣昌盛，国泰民安</td>
+    <td class="xl65" x:str>1999年，在我们那个偏僻的小山村，破旧的学校，小小的操场上，我们全校师生，站在五星红旗底下，唱响了《七子之歌》，用最嘹亮的歌声，庆祝澳门回归。如今，学校已经荒废，我已经三十多岁了，现在就到微博祝贺澳门回归20年吧！</td>
+    <td class="xl65" x:str>你可知Ma-cau，不是我真姓。我离开你太久了母亲！但是他们掳去的是我的肉体，你依然保管我内心的灵魂。</td>
+    <td class="xl65" x:str>听的我有点儿想哭，我爱中国</td>
+    <td class="xl65" x:str>澳门，正青春，和祖国一起腾飞！</td>
+    <td class="xl65" x:str>祝福澳门！正青春</td>
+    <td class="xl65" x:str>这首歌无论过了多少年听都会瞬间泪目！！当年澳门回归时还是小学，第一次听到哭成了泪人。祝福澳门！！祝澳门的明天更加美好！！！</td>
+    <td class="xl65" x:str>澳门人是真正有爱国情怀的中国人。上次去澳门乘出租车到了目的地付完钱发现错了。自认倒霉准备下车。结果司机大叔说小姑娘你不用下车了。我大概可以猜你要去的那个位置离这边有一公里多我正好掉头经过那里。开你过去。。。。。。澳门人就是这么温暖。人与人之间呀就该这样。</td>
+    <td class="xl65" x:str>唱着那三百年来梦寐不忘的生母啊，眼泪就止不住了，祝福你，澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>澳门的明天会更好，祝福澳门</td>
+    <td class="xl65" x:str>澳门正当时！祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>澳门，我中意你！祖国，我爱您！</td>
+    <td class="xl65" x:str>澳门，正青春！</td>
+    <td class="xl65" x:str>20年的变化真的挺大的！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门，祝福中国</td>
+    <td class="xl65" x:str>明天会更好</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>祝福澳门！</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门！</td>
+    <td class="xl65" x:str>明天会更好</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>澳门回归20周年啦</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>澳门</td>
+    <td class="xl65" x:str>祝福澳门！和祖国一起腾飞！</td>
+    <td class="xl65" x:str>我们真是见证历史的一代</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>感动的哭了</td>
+    <td class="xl65" x:str>听到这首歌瞬间泪目，感恩祖国繁荣昌盛感恩祖国带给我的一切</td>
+    <td class="xl65" x:str>梨可汁马考，不系窝挣心像极了普通话三甲的我，同根同源，庆祝澳门回归二十年！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>听到这首歌还是那么激动祝福澳门</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门，明天会更美好</td>
+    <td class="xl65" x:str>祝福澳门，爱我中华</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>澳门正当时！祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>澳门</td>
+    <td class="xl65" x:str>好感动澳门棒棒哒</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>不知道为什么，七子之歌总是让我听了之后比国歌还让人激动</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门♡祝福祖国</td>
+    <td class="xl65" x:str>唱着那三百年来梦寐不忘的生母啊，眼泪就止不住了，祝福你，澳门</td>
+    <td class="xl65" x:str>澳门</td>
+    <td class="xl65" x:str>祝福澳门❤  澳门，正青春！</td>
+    <td class="xl65" x:str>我会唱这个</td>
+    <td class="xl65" x:str>祝福澳门祝福祖国</td>
+    <td class="xl65" x:str>千玺的演唱会选在今天也是为了祝福澳门</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门  祖国万岁</td>
+    <td class="xl65" x:str>20年见证澳门的稳定繁荣，祖国强为人民安康心连心</td>
+    <td class="xl65" x:str>一声母亲，听到仍泪流满面</td>
+    <td class="xl65" x:str>我记得我幼儿园的时候是跟着电视学七子之歌然后老师问谁会唱啊我就举手说我会我会结果让我参加小合唱领头</td>
+    <td class="xl65" x:str>祝福澳门，表白祖国！</td>
+    <td class="xl65" x:str>每次听《七子之歌》都好感动~会热泪盈眶！我爱你，祖国！！</td>
+    <td class="xl65" x:str>隔壁的香港快看看吧</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国！</td>
+    <td class="xl65" x:str>澳门生生不息。以前总是听香港看香港，总觉得珠三角只有香港，现在看看隔江的澳门，或许未来它所爆发出来的生命力是香港不能及的。作为一个高中生，希望能多了解澳门，了解澳门的城市建设，人文美丽和怀揣着爱国热血的澳门同胞，澳门不是宝宝，澳门人和大陆每个人都同样平等，心系中华，生生不息!</td>
+    <td class="xl65" x:str>澳门回归的一系列纪念活动针对性极强！对，就是手把手教香港什么是一国两制！</td>
+    <td class="xl65" x:str>手动艾特香港！你瞅瞅你瞅瞅人家，一起养的俩儿子咋差距这么大呢</td>
+    <td class="xl65" x:str>祝福澳门，正青春，和祖国一起腾飞！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>20年澳门变化蛮大的，愿澳门的明天会更好</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门回归20周年！</td>
+    <td class="xl65" x:str>小时候小姨还教过我用竖笛吹这首歌！！！</td>
+    <td class="xl65" x:str>有趣</td>
+    <td class="xl65" x:str>有趣</td>
+    <td class="xl65" x:str>看</td>
+    <td class="xl65" x:str>这视频做的真好，角度切换的真准确。</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>至今老家的墙壁上还有99年澳门回归的报纸，标题是&quot;澳门回家了，举国齐欢腾&quot;忘了是哪家报了。那是小时候我姑姑开始教我认字时指着报纸念给我的第一句话。过年回家有机会再上图</td>
+    <td class="xl65" x:str>考研会考吗</td>
+    <td class="xl65" x:str>祝福澳门，明天会更好！</td>
+    <td class="xl65" x:str>小时候的必修曲！以前学的时候好多同学都会笑笑口改词成“一个芝麻糕，不是我真心”，但之后每次认真唱、认真听，都会泪目感动</td>
+    <td class="xl65" x:str>我就是澳门回归那天出生的，觉得很幸运，祝福澳门和祖国越来越好</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>濠江风云，想起了这部电影</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国更加繁荣昌盛</td>
+    <td class="xl65" x:str>为什么这次没有容韵琳好遗憾</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="52" style='height:26.00pt;'>
+    <td class="xl65" height="52" style='height:26.00pt;' x:str>20年！祝福澳门！#澳门回归20周年#​​​​</td>
+    <td class="xl65" x:str>9235</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门ﾉ☀，跨年我要去玩</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>澳门你好祝福</td>
+    <td class="xl65" x:str>​​​祝福澳门！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门！</td>
+    <td class="xl65" x:str>祝福澳门！</td>
+    <td class="xl65" x:str>祝福澳门回归</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>愿祖国越来越昌盛</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，愿望祖国繁荣昌盛</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>每次配图都很漂亮！！！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门！祝福祖国❤！</td>
+    <td class="xl65" x:str>祝福澳门。</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>为澳门宝宝转发，要茁壮成长哟</td>
+    <td class="xl65" x:str>我的中国心❤️祝福祖国❤️祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门回归20周年，愿澳门和祖国越来越好，共同成长</td>
+    <td class="xl65" x:str>祝賀澳門，祝福澳門！</td>
+    <td class="xl65" x:str>祝福！</td>
+    <td class="xl65" x:str>​​​祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门祝福祖国</td>
+    <td class="xl65" x:str>祝福祖国越来越强大，祝福澳门明天会更好！</td>
+    <td class="xl65" x:str>一国两制的实践让我们活在更加完善的大中国！！中国加油！！澳门加油</td>
+    <td class="xl65" x:str>在祖國</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门！祝福祖国！</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门回归20周年</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祖国昌盛</td>
+    <td class="xl65" x:str>祖国越来越好，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>澳门</td>
+    <td class="xl65" x:str>20年！祝福澳门！​​​</td>
+    <td class="xl65" x:str>祝福澳门！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年！祝福澳门！祝福祖国！</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>祝福祖国！祝福澳门！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国点赞澳门明天更美好</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>出生那年刚好澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，加油！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>​​​祝福澳门！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+   </tr>
+   <tr height="208" style='height:104.00pt;'>
+    <td class="xl65" height="208" style='height:104.00pt;' x:str>【人民日报社论：续写“一国两制”成功实践新篇章】#澳门回归20周年#，实践雄辩地证明，“一国两制”是解决历史遗留的澳门问题的最佳方案，也是澳门回归后保持长期繁荣稳定的最佳制度，是行得通、办得到、得人心的！今天，澳门站在了新的历史起点上。有“一国两制”的制度保障，有伟大祖国作坚强后盾，​​​​...展开全文c</td>
+    <td class="xl65" x:str>362</td>
+    <td class="xl65" x:str>澳门日新月异之辉煌发展，真正诠释了一国两制典范！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国。“一国两制”将使澳门会越来越好</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门！</td>
+    <td class="xl65" x:str>一国两制！澳门越来越好！祖国越来越好！</td>
+    <td class="xl65" x:str>欢乐共享完美力量海阔天空风雨与共风雨兼程共筑中国梦风雨无阻众志成城</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝贺澳门回归二十周年。</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>澳门</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>澳门的明天更美好，越来越强大!</td>
+    <td class="xl65" x:str>繁荣富强</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祖国更加繁荣昌盛</td>
+    <td class="xl65" x:str>庆祝澳门回归20周年</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>加油中国！</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门！</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，天佑中华</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>强我中华！</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门，祖国越来越繁荣富强</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国。“一国两制”将使澳门会越来越好。</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>永远不变我们的中国心</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>中华人民共和国澳门特别行政区</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>人民一心共进为民</td>
+    <td class="xl65" x:str>希望祖国和澳门越来越好</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>欢乐共享完美力量海阔天空风雨与共风雨兼程共筑中国梦风雨无阻众志成城</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>永远不变我们的中国心</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>中华人民共和国澳门特别行政区</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>人民一心共进为民</td>
+    <td class="xl65" x:str>一国两制，伟大的建设！庆祝</td>
+    <td class="xl65" x:str>祝福澳门！</td>
+    <td class="xl66" colspan="34" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【今天，#澳门回归20周年#，转发说声“澳门你好”！】20载岁月为证，见证“一国两制”成功实践；20载情系濠江，体会“爱国爱澳”血浓于水。“澳门好，祖国好；祖国好，澳门会更好。”五星红旗与澳门特区区旗始终在金莲花广场高高飘扬。这一刻，转发祝福，为澳门，为#我的中国心#！​​​​</td>
+    <td class="xl65" x:str>2312</td>
+    <td class="xl65" x:str>祝福！澳门你好～</td>
+    <td class="xl65" x:str>早安！20年，血浓于水，澳门你好！</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国越来越好。</td>
+    <td class="xl65" x:str>我爱我的祖国</td>
+    <td class="xl65" x:str>中国加油，澳门加油。祝福祖国越来越好，澳门越来越好。</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祝福伟大祖国，澳门好祖国好，祖国好，澳门会更好❤早安</td>
+    <td class="xl65" x:str>澳门，你好</td>
+    <td class="xl65" x:str>澳门你好祝福</td>
+    <td class="xl65" x:str>祝福澳门，向祖国表白</td>
+    <td class="xl65" x:str>祝福澳门！祝福祖国！</td>
+    <td class="xl65" x:str>早安，澳门，早安，祖国，早安，自己。</td>
+    <td class="xl65" x:str>祝福祖国！澳门—我们的兄弟姐妹！</td>
+    <td class="xl65" x:str>澳门你好❤️</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>澳门你好，中国加油</td>
+    <td class="xl65" x:str>澳门你好！而且会越来越好！</td>
+    <td class="xl65" x:str>澳门  你好</td>
+    <td class="xl65" x:str>谁也不能改变我的中国心</td>
+    <td class="xl65" x:str>祝福澳门，祝愿中国越来越好，中国加油↖(^ω^)↗</td>
+    <td class="xl65" x:str>祝福澳门，祝福阿中</td>
+    <td class="xl65" x:str>祝福！澳门</td>
+    <td class="xl65" x:str>中国澳门</td>
+    <td class="xl65" x:str>洋装虽然穿在身我心依然是中国心我的祖先早已把我的一切烙上中国印</td>
+    <td class="xl65" x:str>澳门你好！</td>
+    <td class="xl65" x:str>澳门你好</td>
+    <td class="xl65" x:str>澳门你好！</td>
+    <td class="xl65" x:str>澳门你好祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>澳门，我中意你</td>
+    <td class="xl65" x:str>澳门你好，早安</td>
+    <td class="xl65" x:str>澳门你好！</td>
+    <td class="xl65" x:str>早安</td>
+    <td class="xl65" x:str>澳门你好！</td>
+    <td class="xl65" x:str>澳门好，祖国好！</td>
+    <td class="xl65" x:str>祝福——澳门你好❤</td>
+    <td class="xl65" x:str>爱中国爱澳门，祝福！澳门你好b（￣▽￣）d  </td>
+    <td class="xl65" x:str>祝福祖国澳门你好</td>
+    <td class="xl65" x:str>祝福祖国越来越好。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>归家廿年，心心相“莲”~岁月见证，澳门你好！</td>
+    <td class="xl65" x:str>祝福，澳门您好。</td>
+    <td class="xl65" x:str>祝福澳门！</td>
+    <td class="xl65" x:str>祝福❤澳门你好！</td>
+    <td class="xl65" x:str>祝福</td>
+    <td class="xl65" x:str>祖国和澳门，越来越好！</td>
+    <td class="xl65" x:str>我的中国心❤️祝福祖国❤️祝福澳门</td>
+    <td class="xl65" x:str>早安，澳门您好</td>
+    <td class="xl65" x:str>澳门</td>
+    <td class="xl65" x:str>澳门</td>
+    <td class="xl65" x:str>澳门你好，祖国会越来越好！</td>
+    <td class="xl65" x:str>澳门，你好！</td>
+    <td class="xl65" x:str>澳门，你好</td>
+    <td class="xl65" x:str>澳门，你好</td>
+    <td class="xl65" x:str>澳门我稀罕你</td>
+    <td class="xl65" x:str>澳门，你好</td>
+    <td class="xl65" x:str>澳门你好</td>
+    <td class="xl65" x:str>澳门，你好</td>
+    <td class="xl65" x:str>“澳门你好”！</td>
+    <td class="xl65" x:str>祝福澳门，祖国好，澳门会更好！</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>澳门你好！</td>
+    <td class="xl65" x:str>中央霸霸一样是被拐走几百年才回家没多久的崽，这崽崽表现超好的，夸夸夸夸夸！隔壁那个崽，你自己康康！都是一样的崽，差距咋就辣么大呢</td>
+    <td class="xl65" x:str>早安！澳门你好！</td>
+    <td class="xl65" x:str>澳门你好</td>
+    <td class="xl65" x:str>澳门，你好</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>早安祖国你好澳门</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>澳门，你好</td>
+    <td class="xl65" x:str>祖国你好！澳门你好！</td>
+    <td class="xl65" x:str>澳门，你好</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>澳门你好，转发祝福</td>
+    <td class="xl65" x:str>今天，，20载岁月，我们一同见证，一同祝福，为澳门，为！</td>
+    <td class="xl65" x:str>今天，深情道一声澳门，你好！</td>
+    <td class="xl65" x:str>祝福祖国澳门你好</td>
+    <td class="xl65" x:str>祝福澳门！和伟大的祖国一起腾飞！</td>
+    <td class="xl65" x:str>澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福，澳门你好</td>
+    <td class="xl65" x:str>澳门你好</td>
+    <td class="xl65" x:str>当年一曲七子之歌，让人泪流满面，一晃20年啦好棒，幸福</td>
+    <td class="xl65" x:str>祝福祖国！祝福澳门！</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl66" colspan="3" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="156" style='height:78.00pt;'>
+    <td class="xl65" height="156" style='height:78.00pt;' x:str>【此刻，转发微博，祝福澳门】20年前的今天，0点0分，五星红旗和澳门特别行政区区旗在澳门升起。漂泊在外的游子，回家了！转发这条微博，传递#我的中国心#，就能点亮国旗区旗icon。转发祝福，澳门的明天会更好！#澳门回归20周年#​​​​</td>
+    <td class="xl65" x:str>7703</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>澳门回归二十年，今年刚好20岁，又在澳门上大学，幸运</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>，，祝福祖国！</td>
+    <td class="xl65" x:str>祝福中国澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门～</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门！</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，澳门的明天会更好</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门❤</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门，明天会更好</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门～</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门明天会更好</td>
+    <td class="xl65" x:str>，，祝福祖国，祝福澳门！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>脑海中突然想起了“你可知Macao不是我真姓，我离开你太久了母亲，……”</td>
+    <td class="xl65" x:str>祝福澳门回归二十周年！澳门的明天会更好</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>澳门回归20周年，祝福澳门</td>
+    <td class="xl65" x:str>【此刻，转发微博，祝福澳门】20年前的今天，0点0分，五星红旗和澳门特别行政区区旗在澳门升起。漂泊在外的游子，回家了！转发这条微博，传递，就能点亮国旗区旗icon。转发祝福，澳门的明天会更好！晚安</td>
+    <td class="xl65" x:str>祝福澳门祝福祖国</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>澳门的明天会更好，加油</td>
+    <td class="xl65" x:str>祝福澳门，爱我祖国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门回归20周年，也祝我20周岁生日快乐呀</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福祖国祝福澳门</td>
+    <td class="xl65" x:str>让我们越来越好！祝福祖国！</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>“你可知Macau，不是我真姓，我离开你太久了，母亲……请叫儿的乳名，叫我一声澳门。</td>
+    <td class="xl65" x:str>澳门的明天更美好</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>明天会更好</td>
+    <td class="xl65" x:str>祝福澳门！祝福我们的祖国！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，祝福祖国</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>越来越好祝福</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>澳门明天会更好</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>澳门明天会更好！同一天生日！特别激动！</td>
+    <td class="xl65" x:str>祝福祖国，祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>澳门明天更美好</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>点赞澳门，祝福祖国！</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>【此刻，转发微博，祝福澳门】</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祝福澳门❤️❤️❤️</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国！祝福澳门</td>
+    <td class="xl65" x:str>祝福祖国！祝福澳门明天会更好！</td>
+    <td class="xl65" x:str>祝福祖国祝福澳门越来越强大</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门，明天会更好</td>
+    <td class="xl65" x:str>祝福澳门</td>
+    <td class="xl65" x:str>祝福澳门</td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="432" style='width:216;'></td>
+     <td width="97" style='width:48;'></td>
+     <td width="432" style='width:216;'></td>
+     <td width="361" style='width:180;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>

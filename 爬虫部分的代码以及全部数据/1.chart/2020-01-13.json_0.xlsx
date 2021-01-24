@@ -1,0 +1,3586 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="ProgId" content="Excel.Sheet"/>
+  <meta name="Generator" content="WPS Office ET"/>
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2021-01-21T11:58:39</o:Created>
+     <o:LastAuthor>罗々殿</o:LastAuthor>
+     <o:LastSaved>2021-01-21T11:59:18</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:KSOProductBuildVer dt:dt="string">2052-11.1.0.10314</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:1.00in 0.75in 1.00in 0.75in;
+	mso-header-margin:0.50in;
+	mso-footer-margin:0.50in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font3
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font4
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font5
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font6
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font7
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font8
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font9
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font10
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font11
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font12
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font13
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font14
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font15
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font16
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font17
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font18
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font20
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"常规";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0_ \;_ \0022\00A5\0022* \\-\#\,\#\#0_ \;_ \0022\00A5\0022* \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"货币[0]";
+	mso-style-id:7;}
+.style17
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 3";}
+.style18
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"输入";}
+.style19
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0\.00_ \;_ \0022\00A5\0022* \\-\#\,\#\#0\.00_ \;_ \0022\00A5\0022* \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"货币";
+	mso-style-id:4;}
+.style20
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"千位分隔[0]";
+	mso-style-id:6;}
+.style21
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 3";}
+.style22
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"差";}
+.style23
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"千位分隔";
+	mso-style-id:3;}
+.style24
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 3";}
+.style25
+	{color:#0000FF;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"超链接";
+	mso-style-id:8;}
+.style26
+	{mso-number-format:"0%";
+	mso-style-name:"百分比";
+	mso-style-id:5;}
+.style27
+	{color:#800080;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"已访问的超链接";
+	mso-style-id:9;}
+.style28
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"注释";}
+.style29
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 2";}
+.style30
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"标题 4";}
+.style31
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"警告文本";}
+.style32
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"标题";}
+.style33
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"解释性文本";}
+.style34
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 1";}
+.style35
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 2";}
+.style36
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 1";}
+.style37
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"标题 3";}
+.style38
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 4";}
+.style39
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"输出";}
+.style40
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"计算";}
+.style41
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"检查单元格";}
+.style42
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 6";}
+.style43
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 2";}
+.style44
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"链接单元格";}
+.style45
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"汇总";}
+.style46
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"好";}
+.style47
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"适中";}
+.style48
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 5";}
+.style49
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 1";}
+.style50
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 1";}
+.style51
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 1";}
+.style52
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 2";}
+.style53
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 2";}
+.style54
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 3";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 4";}
+.style56
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 4";}
+.style57
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 4";}
+.style58
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 5";}
+.style59
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 5";}
+.style60
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 5";}
+.style61
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	white-space:normal;
+	font-size:10.0pt;
+	font-family:Arial Unicode MS;
+	mso-font-charset:134;}
+.xl66
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-font-charset:134;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>{worksheet}</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>280</x:DefaultRowHeight>
+        <x:StandardWidth>2234</x:StandardWidth>
+        <x:Selected/>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>0</x:ActiveCol>
+          <x:ActiveRow>0</x:ActiveRow>
+          <x:RangeSelection>A1:CM33</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>True</x:ProtectObjects>
+        <x:ProtectScenarios>True</x:ProtectScenarios>
+        <x:PageBreakZoom>100</x:PageBreakZoom>
+        <x:Print>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>7130</x:WindowHeight>
+     <x:WindowWidth>18530</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple">
+  <table width="38700" border="0" cellpadding="0" cellspacing="0" style='width:19350.00pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="432" style='mso-width-source:userset;mso-width-alt:10532;'/>
+   <col width="96.50" style='mso-width-source:userset;mso-width-alt:2352;'/>
+   <col width="432" span="86" style='mso-width-source:userset;mso-width-alt:10532;'/>
+   <col width="360.50" style='mso-width-source:userset;mso-width-alt:8788;'/>
+   <col width="227" style='mso-width-source:userset;mso-width-alt:5534;'/>
+   <col width="432" style='mso-width-source:userset;mso-width-alt:10532;'/>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" width="432" style='height:91.00pt;width:216.00pt;' x:str>【#你好，明天#】一篇大谈“老师崇高感与师娘优美感”的论文，在七年后被撤稿。堂而皇之作奇葩谄媚，不仅有损核心期刊严肃性，也在极大浪费学术资源、挫伤学界公信力。此等论文畅行无阻，一句“审核不严”“定位不符”显然难以服众。只有深刻反思学术垄断与裙带关系，才能避免让学术纠偏沦为哈哈一笑。​​​​</td>
+    <td class="xl65" width="96.50" style='width:48.25pt;' x:str>620</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>论文作者还死不认错呢</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>这篇文章是反讽导师的</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>现在的有的学术会议也是公费的交友会。学术圈子其实很窄，资源很集中。。</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>学术需严肃严谨严格！</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>配图里的钢笔:  MP——马屁</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，我始终坚信，星星之火可以燎</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，我始终坚信，星星之火可以燎原，麻烦帮忙顶一下。</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>仔细查一查，我们的学术科研经费都到哪去了？</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>早点睡，明天又是精力充沛努力奋斗的一天</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>学术还是应该应严谨规范晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>这是学术不正吗？各位看到晚安，梦里见</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>现在不是扒出来作者是在反讽嘛？！</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>轻描淡写，未敢触及要害此文获得的200万奖金咋不追究呢？</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>文明、和谐，自由、平等、公正、法治，爱国、敬业、诚信、友善​​​。富强、民主、文明、和谐，是我国社会主义现代化国家的建设目标，也是从价值目标层面对社会主义核心价值观基本理念的凝练，对其他层次的价值理念具有统领作用。​</td>
+    <td class="xl66" width="432" style='width:216.00pt;'></td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>你打字能不能严谨点，到底是“导师”还是“老师”？</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安了</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>主要是受听，谁不爱听奉承话。</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>这可是学术啊……</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>看看我铁了吗</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>唉</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>这就是所谓的核心和学术圈的裙带关系，真让人哭笑不得</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>七年人家不爆出来你也不会点评，事后诸葛亮少做吧。</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>唉</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>无所不能的网友</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>舆论监督不能止步于发发议论，这对那些厚脸皮、耍光棍的人丝毫没用。舆论监督还要能督促有关纪检监察部门积极履职尽责！对这种浪费公共资源激起民愤的行为严厉惩罚，以儆效尤！</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>人民日报的这个评价太有正义了，非常准确</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>这种权威垄断的导师制度才是我们应该重视的。姑且作者好歹还活着还能发出核心来，但因为导师死的人是还不够多吗？为什么我们的导师制还没有改变和限制呢？</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>只有深刻反思学术垄断与裙带关系，才能避免让学术纠偏沦为哈哈一笑。​​​​</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>厚颜无耻</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>严谨</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>。</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>深入查查，这篇论文网所在项目的资金花到哪里去了？就发这鬼论文？光撤稿就完了？深挖啊</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>论文啊</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>，</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>马屁拍出新高度</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>作为国家最大最有公信力媒体之一，希望你们能够基于事实基于调查发表言论，而不是带节奏，请为你自己说的每句话负责任！伟人说过，没有调查就有发言权，作为媒体更该如此！</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>用心研究方得始终</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>此帖要好好看！</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>有点无语。。。</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>由来已久，值得深思</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>专注做学问太重要了</td>
+    <td class="xl66" width="432" style='width:216.00pt;'></td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl66" width="432" style='width:216.00pt;'></td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>不要让“娱乐”成为学术之“精髓”！此乃学术之悲哀！</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>学术应严谨规范，晚安大家</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>真是奇闻怪谈</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>冲！</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>科研积极是怎么过审的？过审后没有监督？</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>。。。。。。。。。</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>七年之后被撤稿？？</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>连带的审稿的那批人，请一个都不要放过。顺便找到了帮忙问一句，到底是太瞎还是太坏。</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>一个小偷一次偷了1万可能被抓，如果十个小偷每人偷1千，也许没事！</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>点评精辟</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>看师娘比搞科研可享受多了呢！想想政府每年下拨多少科研经费，有多少是被用在刀刃上的呀？又有多少是被用来请客吃饭拍马屁谋求个人前途的呀？？？</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>公然谄媚，情商感人呐</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>我都没有看过这样的P文</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>唉乱七八糟</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>2020开年大作——《论师娘优美感的致命性》</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安咯</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>一篇论文发表要一审二审，同行评阅这么多坎，不知道咋就给过了</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安！晚安！</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>学术场不是某些人的私人“菜园子”必须严查!</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>晚安</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>评论千万条，落实第一条。</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>学术界是该好好管管了</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>学术还是单纯点好</td>
+    <td class="xl66" width="432" style='width:216.00pt;'></td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>确实。有时现实就是如此。尤其学术圈子小呀，大腿人人眼馋</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>这位现在正在中科院当博导呢</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>光撤稿吗？经费不退？</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>他所说的优美和崇高是美学上的用词吧不过无论拍马屁还是反讽他那论文写的还是狗屁不通事实上知网上也有很多比较水的文章想不出怎么发出来的..</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>明天你好。</td>
+    <td class="xl65" width="360.50" style='width:180.25pt;' x:str>轉發微博</td>
+    <td class="xl65" width="227" style='width:113.50pt;' x:str>学术严谨不能妥协</td>
+    <td class="xl66" width="432" style='width:216.00pt;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【调查显示：#44%父母晚上回家还要加班#】据BBC报道《2020现代家庭指数》报告显示，44%父母晚上在家需要加班，包括查看工作邮件等，其中四分之三表示别无选择。近一半受访者认为科技产品，如笔记本电脑和智能手机模糊了工作和生活界限。#工作和生活该不该有界限#，对此你怎么看？L老板联播的微博视频​​​​</td>
+    <td class="xl65" x:str>995</td>
+    <td class="xl65" x:str>不说父母，我一个没结婚的回家也还要加班</td>
+    <td class="xl65" x:str>公司希望能把工作和生活分开，却不能保证生活和工作分开</td>
+    <td class="xl65" x:str>真的很多时候下班回家只是换了个更温馨的地方办公</td>
+    <td class="xl65" x:str>我也觉得不该，但有时候不加班活不了</td>
+    <td class="xl65" x:str>不是想加班，是活不干完就不让你下班，要么加班，要么换工作</td>
+    <td class="xl65" x:str>开始怀念以前不通网的生活</td>
+    <td class="xl65" x:str>总比在单位加班好</td>
+    <td class="xl65" x:str>哎不工作哪有生活…唉</td>
+    <td class="xl65" x:str>谁也不想加班，现实不允许啊</td>
+    <td class="xl65" x:str>我以前单位要求24小时待机，经常夜里睡着觉被喊起来工作，洗澡的时候都得把手机装防水袋里挂浴室！没有加班费！只有任务额！</td>
+    <td class="xl65" x:str>那有什么岁月静好只不过是有人替你负重前行</td>
+    <td class="xl65" x:str>工作和生活不可能完全分开</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮忙顶一</td>
+    <td class="xl65" x:str>我天天加班，没事干就摸着手机加班到一两点，给报报空瓶</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮忙顶一下</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮忙顶一</td>
+    <td class="xl65" x:str>工作时间无处不在，而生活时间却很拮据，这正常。</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，</td>
+    <td class="xl65" x:str>我现在正在.......</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，</td>
+    <td class="xl65" x:str>还是社会主义好</td>
+    <td class="xl65" x:str>现如今的生活都快被工作挤没了</td>
+    <td class="xl65" x:str>哎不工作哪有生活…</td>
+    <td class="xl65" x:str>非工作时间接到工作骚扰电话时候特别想把手机扔了</td>
+    <td class="xl65" x:str>单位给的工作量是否符合劳动法？</td>
+    <td class="xl65" x:str>生活不易特别是年底了天天都要加班</td>
+    <td class="xl65" x:str>本来就是，搞一些七七八八工作群。</td>
+    <td class="xl65" x:str>所以………猝死越来越多</td>
+    <td class="xl65" x:str>我也觉得不该，但有时候不加班活不了</td>
+    <td class="xl65" x:str>哪有什么岁月静好，只不过有人负重前行。</td>
+    <td class="xl65" x:str>工作和生活还是要区分开来</td>
+    <td class="xl65" x:str>九零后见发白～八零后秃一片</td>
+    <td class="xl65" x:str>生活离不开工作因为什么都需要花钱所以必须工作加班熬夜</td>
+    <td class="xl65" x:str>现在加班成为了一种常态，已经无法保证周末休息，更别说平时的加班。有时候领导对员工评价也变成了加班就是好员工，每天忙到十一二点，可知工作辛苦啊！</td>
+    <td class="xl65" x:str>是的，卖身一样卖给公司，人家随叫随到，无论你在做什么。</td>
+    <td class="xl65" x:str>工作即生活,生活即工作.</td>
+    <td class="xl65" x:str>有我离开公司还想叫我工作的都给爷爬</td>
+    <td class="xl65" x:str>都加班呀，工作，娃，家务。。。都算吧</td>
+    <td class="xl65" x:str>还是要微笑面对生活</td>
+    <td class="xl65" x:str>单身狗也要加班</td>
+    <td class="xl65" x:str>可怜天下父母心</td>
+    <td class="xl65" x:str>基本上所有在職下班後，仍是流動工作室吧！</td>
+    <td class="xl65" x:str>老板希望员工把个人生活与工作分开，下了班老板又希望你要敬业，利用你个人时间也要想着工作，把工作做好……</td>
+    <td class="xl65" x:str>野狼制，百分之二十能吃饱，不得不工作，工作也为了更好的生活</td>
+    <td class="xl65" x:str>以前的我们是相对自由的，离开了台式电脑，我们就暂时抽离了网络，抽离了被监控的生活，然而现在科技越来越发达，我们精神上被控制了，静下心来做一件事变得越来越难</td>
+    <td class="xl65" x:str>也许就是因为加班的越来越多，失业率也逐步上升了</td>
+    <td class="xl65" x:str>没生活哪来工作。</td>
+    <td class="xl65" x:str>为了梦想而工作，问题是我的梦想就是不上班</td>
+    <td class="xl65" x:str>太难了</td>
+    <td class="xl65" x:str>现代人活得确实累要多爱护自己的宝贵时间。</td>
+    <td class="xl65" x:str>那小编怎么看谁不想不加班呀能怎么办无奈呗</td>
+    <td class="xl65" x:str>无奈，无奈，无奈</td>
+    <td class="xl65" x:str>太难了</td>
+    <td class="xl65" x:str>人们需要工作和生活的平衡</td>
+    <td class="xl65" x:str>当生活从个人满意到让别人满意的时候，人生就失去了意义</td>
+    <td class="xl65" x:str>要看什么工作性质，如果这个人的工作性质不是那种机械式的，是很要靠大脑决策知识，等等一系列的技能来为公司创造价值的，那么它很可能会是在最需要的时刻才工作，那就分不清楚是白天还是黑夜了，这个无可厚非。另外一件事，这原本就是在说国外的事情，他们原本就是弹性工作制的呀</td>
+    <td class="xl65" x:str>唉，</td>
+    <td class="xl65" x:str>我们根本没有机会回家加班，我们是加班不能回家</td>
+    <td class="xl65" x:str>全社会都加班吧我一个高中生还996不止</td>
+    <td class="xl65" x:str>成年人的世界没有容易二字，当了父母的成年人更是如此</td>
+    <td class="xl65" x:str>唉工作哪能不加班</td>
+    <td class="xl65" x:str>单身狗也要加班</td>
+    <td class="xl65" x:str>确实是这样的，还要看工作群里信息，不能落下！</td>
+    <td class="xl65" x:str>对于要求界限分明的天秤来说，这是必须要的。但我所认为的界限分明并不是说不能加班。一天24小时，即使生活只能有1小时也可以，只是希望在那一小时内能放松自己归于生活状态，而不是一天24小时都要不断工作。工作的最终目的也是为了更好的生活</td>
+    <td class="xl65" x:str>能怎么办？目前无法避免呀。无奈…</td>
+    <td class="xl65" x:str>这个比例应该很大。啥也不说了，看看大家的评论就明白了。</td>
+    <td class="xl65" x:str>工作和生活不可能完全分开</td>
+    <td class="xl65" x:str>每个人都不容易啊</td>
+    <td class="xl65" x:str>还能怎么看，用手机看呗</td>
+    <td class="xl65" x:str>生病发烧，头痛欲裂，晚上10点下班，次日上午去医院，领导打电话说年底了，站好最后一班岗，请问您自己怎么不在单位站岗？只能坚信善恶终有报才能缓解一下</td>
+    <td class="xl65" x:str>刨除掉农民，工薪阶级应该有90%以上了吧。</td>
+    <td class="xl65" x:str>公司不允许工作谈生活，却要我们生活谈工作</td>
+    <td class="xl65" x:str>下班以后，公司的事就算了，你打电话来问我可以简单和你说说，什么邮件回复改填，明天再说。工作不是一天完成的。</td>
+    <td class="xl65" x:str>这还用问吗</td>
+    <td class="xl65" x:str>智能科技让我们少了很多，和家人在一起的沟通交流</td>
+    <td class="xl65" x:str>我单身狗也要加班。</td>
+    <td class="xl65" x:str>没结婚的被加班吓得不敢成家。</td>
+    <td class="xl65" x:str>我们老板已经知道我们村断网啦</td>
+    <td class="xl65" x:str>我躺着看……</td>
+    <td class="xl65" x:str>是的，手机及某常用聊天工具真的让你对工作无处可躲。以前，邮件和座机是工作沟通方式，这意味着下了班关了电脑离开办公室，工作就可以告一段落了；但是自从有了手机，移动办公软件和聊天工具盛行，你会发现没有办法让工作远离你，已经任何人都可以在聊天工具中找到你，科技使人进步，科技也使人疲惫。</td>
+    <td class="xl65" x:str>生活压力大。加班也成常态了吧</td>
+    <td class="xl66" colspan="8" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【人民微评：让正义来得更快一些】经再审被判无罪，重获自由，终能和家人过上团圆年。惜乎这一天来得太迟。大好年华在囚禁中流逝，青春梦想在冤屈中破碎，实属人间悲剧。如果不被错抓错判，张志超将拥有美好人生。走出深牢，愿张志超的新生活开启顺利。请汲取教训，这样的冤案不再发生。</td>
+    <td class="xl65" x:str>859</td>
+    <td class="xl65" x:str>迟到的就别叫正义了</td>
+    <td class="xl65" x:str>办案警察追责吗</td>
+    <td class="xl65" x:str>不要再迟到了，十几年的青春谁来赔？</td>
+    <td class="xl65" x:str>最好的青春年华都在牢里度过了，13年里心中的委屈谁又能体会</td>
+    <td class="xl65" x:str>追究的相关责任人</td>
+    <td class="xl65" x:str>如今已过而立之年，以后该怎么过呢？</td>
+    <td class="xl65" x:str>迟到的正义即是非正义！</td>
+    <td class="xl65" x:str>人世间最大悲剧就是冤枉一个好人的背后一定放掉一个坏人！盼望真正实现民主法治依法治国！</td>
+    <td class="xl65" x:str>13年啊，一个人的青春。。。。</td>
+    <td class="xl65" x:str>遇害女孩与男孩都是受害者，希望凶手能尽快归案！</td>
+    <td class="xl65" x:str>希望下一次正义既不要缺席也不要迟到</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，我始终坚信，星星之火可以燎原，帮忙顶一下。</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，#检举揭发没有得到实质效应，反被判决赔偿26500</td>
+    <td class="xl65" x:str>我们的正义在哪？？？？？</td>
+    <td class="xl65" x:str>迟到的正义他不叫正义</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，</td>
+    <td class="xl65" x:str>正义？真凶呢？？？</td>
+    <td class="xl65" x:str>太久了，早已与世界脱轨，而且现在即便平反了所有流言蜚语也不会离开他了</td>
+    <td class="xl65" x:str>我就是想骂人！！！！！太揪心</td>
+    <td class="xl65" x:str>出来读初中，高中，考大学？？</td>
+    <td class="xl65" x:str>所以他的前途谁来赔?</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，麻烦帮忙顶一下。</td>
+    <td class="xl65" x:str>真正的凶手找到没？</td>
+    <td class="xl65" x:str>之前看新闻   国外类似的   赔了近亿人民币</td>
+    <td class="xl65" x:str>[冰雪奇缘雪宝]13年啊，一个人的青春。。。。</td>
+    <td class="xl65" x:str>为何当事警察哪怕刑讯逼供，也一定要找一个替罪羊？对谁有好处？</td>
+    <td class="xl65" x:str>怎么赔偿</td>
+    <td class="xl65" x:str>那些让正义迟到的人怎么处置</td>
+    <td class="xl65" x:str>哎！希望国家能贯彻依法治国的思想，建设出一个自上而下的光明的法制国家。公平正义在任何国家、任何历史时期都是人们不懈追求的，人活一口气啊。</td>
+    <td class="xl65" x:str>只能说让真相来得更快一些。所谓的正义没有到来。</td>
+    <td class="xl65" x:str>迟了这么久就别正义了吧，说公检法失职不行么？</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>想起之前看的电影</td>
+    <td class="xl65" x:str>愿你走出半生，归来仍是少年</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>追究相关人员责任！</td>
+    <td class="xl65" x:str>感谢能够自由回家过年</td>
+    <td class="xl65" x:str>唉//:【人民微评让正义来得更快一些】经再审被判无罪，重获自由，终能和家人过上团圆年。惜乎这一天来得太迟。大好年华在囚禁中流逝，青春梦想在冤屈中破碎，实属人间悲剧。如果不被错抓错判，张志超将拥有美好人生。走出深牢，愿张志超的新生活开启顺利。请汲取教训，这样的冤案不再发生。</td>
+    <td class="xl65" x:str>虽然正义来了，但最美好的年花没有了，人被毁了，希望下次能来的更快一点</td>
+    <td class="xl65" x:str>这是平反，不是正义！！</td>
+    <td class="xl65" x:str>人家十几年的青春毁了，错了就是错了，以后的日子见人总不能每个人都解释自己无罪，还是毁了人家半辈子。</td>
+    <td class="xl65" x:str>这些媒体就喜欢瞎带节奏，冤案改判也能叫正义？会有冤案是司法制度的耻辱！</td>
+    <td class="xl65" x:str>我想知道杨文医生那件事咋样了</td>
+    <td class="xl65" x:str>遇事公平，不要偷换概念的抨击，什么真正民主，依法治国，这些和冤案没有关系，冤案很多国家都会存在。不过有人说追究责任人确实应该。</td>
+    <td class="xl65" x:str>这样的事儿，还少吗！</td>
+    <td class="xl65" x:str>迟到的正义，哎，希望慢慢改进吧</td>
+    <td class="xl65" x:str>天呐迟到的正义真的没有意义人生只有一次二十几岁全都葬送在黑警手里了</td>
+    <td class="xl65" x:str>认了吧，一个人是干不过一个团体的</td>
+    <td class="xl65" x:str>案子破了吗？当年的真凶抓了吗？</td>
+    <td class="xl65" x:str>也要尽快找到真正的凶手</td>
+    <td class="xl65" x:str>说实话中国社会变化快他要做好准备适应社会</td>
+    <td class="xl65" x:str>当年谁办的案？真凶呢？这些都不重要么？？？</td>
+    <td class="xl65" x:str>不知道该说什么，13年青春年华，再多金钱也买不到的</td>
+    <td class="xl65" x:str>追责当年办案人员，要求重罚！</td>
+    <td class="xl65" x:str>这能是所谓的正义嘛？</td>
+    <td class="xl65" x:str>我们想听的不是这个</td>
+    <td class="xl65" x:str>一个男孩子最好的年华！很难想象他这些年心里受到的创伤。</td>
+    <td class="xl65" x:str>迟到的不是正义。</td>
+    <td class="xl65" x:str>为啥说要正义来得更快一些，怎么不说严格规范司法杜绝类似情况发生！！</td>
+    <td class="xl65" x:str>可他失去的还有青春啊</td>
+    <td class="xl65" x:str>让正义来得更快些</td>
+    <td class="xl65" x:str>青春啊</td>
+    <td class="xl65" x:str>正义依旧在</td>
+    <td class="xl65" x:str>正义可能会晚</td>
+    <td class="xl65" x:str>让正义来得更快一些吧//:【人民微评让正义来得更快一些】经再审被判无罪，重获自由，终能和家人过上团圆年。惜乎这一天来得太迟。大好年华在囚禁中流逝，青春梦想在冤屈中破碎，实属人间悲剧。如果不被错抓错判，张志超将拥有美好人生。走出深牢，愿张志超的新生活开启顺利</td>
+    <td class="xl65" x:str>当年处理这个案件的人不用被追究责任？</td>
+    <td class="xl65" x:str>让谁汲取教训？？</td>
+    <td class="xl65" x:str>迟到的正义不叫正义</td>
+    <td class="xl65" x:str>真凶呢？证据呢？DNA?</td>
+    <td class="xl65" x:str>哎，心寒</td>
+    <td class="xl65" x:str>唉，被冤枉那么久，还好还他清白</td>
+    <td class="xl65" x:str>错了这么多年谁负责？</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>十三年的青春呢……</td>
+    <td class="xl65" x:str>真是悲哀</td>
+    <td class="xl65" x:str>说了一大顿的废话谁不知道大好青春没了有什么用</td>
+    <td class="xl65" x:str>讲真，是我出来我一定报复社会，整个人生都毁了妈的</td>
+    <td class="xl65" x:str>呵呵</td>
+    <td class="xl66" colspan="10" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="208" style='height:104.00pt;'>
+    <td class="xl65" height="208" style='height:104.00pt;' x:str>【夜读：换头像、删朋友圈、撤回消息，你的情绪都藏在这里】#一个人频繁换头像是什么心理#？最高赞的回答是：脾气不能随便发，头像可以随便换。“我还好，我没事。”什么时候开始，我们连表露情绪都要小心翼翼？其实，有时候你不必一个人承担，因为总有人在背后默默关心着你。心中有爱，便无惧孤独。  ​​​​...展开全文c</td>
+    <td class="xl65" x:str>1109</td>
+    <td class="xl65" x:str>现代人的崩溃是一种默不作声的崩溃。看起来很正常，会说笑、会打闹、会社交，表面平静，实际上心里的糟心事已经积累到一定程度了。不会摔门砸东西，不会流眼泪或歇斯底里，但可能某一秒突然就积累到极致了，也不说话，也不真的崩溃，也不太想活，也不敢去si</td>
+    <td class="xl65" x:str>遇到喜欢就换，好像从来没有考虑那么多</td>
+    <td class="xl65" x:str>现代人的快乐好像都是碎片化的快乐，非常单纯直接，但持续不了多久。买了心仪了很久的包包可以开心半天，吃到了心心念念的板栗可以开心三十分钟，亦或是下班后晚上和好朋友约了电影可以开心两个小时。然后继续不开心。​​</td>
+    <td class="xl65" x:str>微博是自己世界的最后防线</td>
+    <td class="xl65" x:str>我有时候心情不好就删朋友圈，后来又后悔啊</td>
+    <td class="xl65" x:str>换头像还需要理由嘛，看到好看、喜欢的图片就换</td>
+    <td class="xl65" x:str>还喜欢删除好友</td>
+    <td class="xl65" x:str>心中有爱，便无惧孤独。</td>
+    <td class="xl65" x:str>可能只是因为偶像出了新的好看的图…</td>
+    <td class="xl65" x:str>崩溃到趴被窝里门头大哭，却不敢发出声音让别人察觉。心里甚至想去si一si，天亮了却还是要默默收拾好自己继续嬉皮笑脸继续负重前行。</td>
+    <td class="xl65" x:str>愿都能活得像自己</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮忙顶一</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，</td>
+    <td class="xl65" x:str>多愁善感，无病呻吟的人太多</td>
+    <td class="xl65" x:str>我现在都不想换头像了  想换都觉得要思考很久</td>
+    <td class="xl65" x:str>很多删掉的东西还是会觉得后悔，既然是经历，那些人那些事回不去，也忘不掉，就留在记忆里……</td>
+    <td class="xl65" x:str>喜欢就换了</td>
+    <td class="xl65" x:str>我没有我不是</td>
+    <td class="xl65" x:str>太压抑</td>
+    <td class="xl65" x:str>不想自己的情绪影响他人，自己一个人默默消化就好了。换头像删朋友圈撤回消息也是一种发泄情绪的方式挺好～晚安</td>
+    <td class="xl65" x:str>我好像没想得那么深</td>
+    <td class="xl65" x:str>有时候的确是控制不好脾气</td>
+    <td class="xl65" x:str>无特殊情况一个头像可以一直用</td>
+    <td class="xl65" x:str>人民日报咋这么矫情</td>
+    <td class="xl65" x:str>遇到喜欢就换，没想过其他的</td>
+    <td class="xl65" x:str>鸡汤日报说到了心里</td>
+    <td class="xl65" x:str>不要被情绪左右。</td>
+    <td class="xl65" x:str>朋友圈不敢发东西</td>
+    <td class="xl65" x:str>曾经也被人默默关心着现在那个人被我弄丢了</td>
+    <td class="xl65" x:str>朋友圈一定都是定期清理的！～～把一些加了不说话的和一些无所谓的人通通删掉！</td>
+    <td class="xl65" x:str>喜欢换头像是因为想换一个更好看的，就如穿衣服吃饭一样平常，就想要好看一点的头像，毕竟天天看着一个喜欢的头像心情更好！</td>
+    <td class="xl65" x:str>好久不换了</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>那可能是我和别人不太一样，我遇到好看的想换就换了呀。</td>
+    <td class="xl65" x:str>失眠的时候在想什么？想睡觉</td>
+    <td class="xl65" x:str>心中有爱，便无惧孤独</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>朋友圈早已经不能想发啥就发啥了，微博和绿洲才是心里那块清净地儿</td>
+    <td class="xl65" x:str>都沒有，所以活該我沒情緒?</td>
+    <td class="xl65" x:str>哈哈，有意思呢。</td>
+    <td class="xl65" x:str>心中有爱，便无惧孤独</td>
+    <td class="xl65" x:str>嗯！心中有爱，便无惧孤独。</td>
+    <td class="xl65" x:str>没心没肺，才能过好这一生</td>
+    <td class="xl65" x:str>藏在心里！</td>
+    <td class="xl65" x:str>我怎么就不喜欢换呢</td>
+    <td class="xl65" x:str>我已经划船过来啦，不用上岸没关系，让我瞅瞅你就好。❤</td>
+    <td class="xl65" x:str>换头像么～因为我喜欢的那个人总是赏心悦目，就一直开心一直换，越换越开心</td>
+    <td class="xl65" x:str>不删，不扯回，脸皮厚…要学会想你算啥，谁关注你啊！</td>
+    <td class="xl65" x:str>其实换头像只是为了引起别人的注意，想有人注意到自己，而删朋友圈是知道没人care自己的动态，撤回信息是害怕回答的不是自己所期待那般</td>
+    <td class="xl65" x:str>狗说很喜欢我的性格，我答我人缘好差的，狗接着哭说他人缘好但是人很累，不如我恣意。其实吧，我以前也是个人缘好的人，但是我现在是个爱自己胜过爱别人的人。</td>
+    <td class="xl65" x:str>心情不好就是换头像。</td>
+    <td class="xl65" x:str>从不换头像，从不发朋友圈</td>
+    <td class="xl65" x:str>不是，想换就换还要理由？不想换的理由倒是只有一个纯粹就是懒得换</td>
+    <td class="xl65" x:str>有的人朋友圈更多时候倒是写给别人的，希望得到别人的赞美，同情或许羡慕。有的人是写给自己的，作为记录生活的一部分。所以境由心生，因人而异。</td>
+    <td class="xl65" x:str>不开心的时候换，运气不好的时候换</td>
+    <td class="xl65" x:str>晚安</td>
+    <td class="xl66" colspan="33" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="208" style='height:104.00pt;'>
+    <td class="xl65" height="208" style='height:104.00pt;' x:str>【#西宁路面塌陷致2人失踪13人受伤#】青海省西宁市官方13日20时40分许召开新闻发布会称，该市路面塌陷致公交车陷入大坑事故，目前已有13名伤者送往青海红十字医院进行救治（截至19时40分），伤者伤情稳定，无生命危险。经现场初步判断，目前有两人失踪，搜救工作正在进行中。O青海西宁路面塌陷公交车陷入大坑2人失踪13人...  ​​​​...展开全文c</td>
+    <td class="xl65" x:str>921</td>
+    <td class="xl65" x:str>保佑快点找到那两个人吧</td>
+    <td class="xl65" x:str>希望一切平安</td>
+    <td class="xl65" x:str>西宁的道路情况真的挺差的这几年一直在修路铺路道路安全情况要经常勘察啊！刚好下班放学时间人流大发生这样的事故伤害太大了。</td>
+    <td class="xl65" x:str>南无阿弥陀佛。</td>
+    <td class="xl65" x:str>新年将至，希望平安！！！</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，麻烦帮忙顶一下。</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，麻烦帮忙顶一下。</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，麻烦帮忙顶一下。</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，麻烦帮忙顶一下。</td>
+    <td class="xl65" x:str>希望平安</td>
+    <td class="xl65" x:str>是不是有人，偷矿了。过年了愿平安。</td>
+    <td class="xl65" x:str>心疼死了，找到那两个人吧</td>
+    <td class="xl65" x:str>快找到失踪的那两个姑舅啊快过年了愿我的乡亲们平平安安啊</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祈祷平安</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>希望受伤的人都平安无事，希望失踪的能快些找到</td>
+    <td class="xl65" x:str>我牙好吓人最后那个深坑</td>
+    <td class="xl65" x:str>可怕</td>
+    <td class="xl65" x:str>愿那两个人早日找到，平平安安</td>
+    <td class="xl65" x:str>一切平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>❤！愿平安</td>
+    <td class="xl65" x:str>希望大家都平平安安</td>
+    <td class="xl65" x:str>快过年了，愿平安</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>一定要平安啊</td>
+    <td class="xl65" x:str>(´◔‸◔`)</td>
+    <td class="xl65" x:str>平安</td>
+    <td class="xl65" x:str>愿失踪者能够生还！受伤者能无大碍！</td>
+    <td class="xl65" x:str>最近看的最多的就是年关将近，愿平安</td>
+    <td class="xl65" x:str>平安！！</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>希望一切平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>祈祷平安！</td>
+    <td class="xl65" x:str>祈祷平安</td>
+    <td class="xl65" x:str>西宁的路真该好好修修了</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>希望一切平安</td>
+    <td class="xl65" x:str>工程质量问题！！？？</td>
+    <td class="xl65" x:str>希望一切平安，希望加快救援，所有人都平平安安的</td>
+    <td class="xl65" x:str>关注一天了。。失踪的能去哪啊，细思极恐？</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安！！！</td>
+    <td class="xl65" x:str>一切平安！</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>祈祷都要平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>新年将至，希望平安！！！</td>
+    <td class="xl65" x:str>希望一切平安</td>
+    <td class="xl65" x:str>希望平安！！！</td>
+    <td class="xl65" x:str>得多深的坑掉进去才能叫失踪啊</td>
+    <td class="xl65" x:str>平平安安就好。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>一个坑？还能两人失踪</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>难受</td>
+    <td class="xl65" x:str>愿平安！！</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>接二连三出现地面塌陷事故，真的要好好反思一下了。快过年了，希望快点找到那两个人，保佑平安</td>
+    <td class="xl65" x:str>希望平安</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>多事之秋啊！ST盐城暴雷,这地面又塌陷,还有人失踪！加油青海！</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>抽取地下水的问题该改善一下供水问题</td>
+    <td class="xl65" x:str>怎么还会出现失踪人口呢？难道路面塌陷底下不只是一个洞那么简单？</td>
+    <td class="xl65" x:str>怎么还能失踪呢……</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>失踪去哪里了呢</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>平安啊</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>想起gy…</td>
+    <td class="xl65" x:str>失踪的是什么情况？</td>
+    <td class="xl65" x:str>可怕</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>平平安安啊</td>
+    <td class="xl65" x:str>怎么到处都在塌陷</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="208" style='height:104.00pt;'>
+    <td class="xl65" height="208" style='height:104.00pt;' x:str>【习近平：一以贯之、坚定不移全面从严治党】中共中央总书记、国家主席、中央军委主席习近平13日上午在中国共产党第十九届中央纪律检查委员会第四次全体会议上发表重要讲话。他强调，要以新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、三中、四中全会精神，一以贯之、坚定不移全​​​​...展开全文c</td>
+    <td class="xl65" x:str>375</td>
+    <td class="xl65" x:str>听党指挥，能打胜仗，作风优良</td>
+    <td class="xl65" x:str>从严治党</td>
+    <td class="xl65" x:str>牢记使命，不忘初心</td>
+    <td class="xl65" x:str>不忘初心，牢记使命</td>
+    <td class="xl65" x:str>坚决跟党走</td>
+    <td class="xl65" x:str>牢记使命</td>
+    <td class="xl65" x:str>从严治党</td>
+    <td class="xl65" x:str>牢记使命，不忘初心</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>打铁还需自身硬</td>
+    <td class="xl65" x:str>永远跟党走！</td>
+    <td class="xl65" x:str>一以贯之，坚定不移全面从严治党！</td>
+    <td class="xl66" colspan="77" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="104" style='height:52.00pt;'>
+    <td class="xl65" height="104" style='height:52.00pt;' x:str>【#武警版火红的萨日朗#来了，喜欢吗】“草原最美的花，火红的萨日朗，一梦到天涯遍地是花香”，来，跟着兵哥哥跳起来！戳↓L第一军视的微博视频​​​​</td>
+    <td class="xl65" x:str>1490</td>
+    <td class="xl65" x:str>莫名的觉得很可爱</td>
+    <td class="xl65" x:str>来康康</td>
+    <td class="xl65" x:str>兵哥哥最帅跳的超棒能文能武啊</td>
+    <td class="xl65" x:str>脑海里不自觉蹦起迪</td>
+    <td class="xl65" x:str>该说不说跳的属实得给个赞</td>
+    <td class="xl65" x:str>分配一个给我吧</td>
+    <td class="xl65" x:str>兵哥哥真好看，帅帅哒！</td>
+    <td class="xl65" x:str>一梦到天涯遍地是花香，感谢守卫者</td>
+    <td class="xl65" x:str>这也太可爱了吧。外能铁骨铮铮，内里也是可可爱爱的大男孩儿哇</td>
+    <td class="xl65" x:str>各行各业各种制服都来了</td>
+    <td class="xl65" x:str>给我分配一个兵哥哥可以吗</td>
+    <td class="xl65" x:str>有点萌的硬汉兵哥哥~</td>
+    <td class="xl65" x:str>军人真的很优秀</td>
+    <td class="xl65" x:str>现在的兵哥哥都好可爱啊</td>
+    <td class="xl65" x:str>太可爱啦</td>
+    <td class="xl65" x:str>请分我一个男朋友</td>
+    <td class="xl65" x:str>莫名蠢萌蠢萌的，哈哈。可爱</td>
+    <td class="xl65" x:str>我一定要夸！！！！</td>
+    <td class="xl65" x:str>太可爱了！！！！！！！</td>
+    <td class="xl65" x:str>好可爱啊！！！！！</td>
+    <td class="xl65" x:str>都是可爱的人！祝大家新年快乐</td>
+    <td class="xl65" x:str>现在听到这首歌就想到了班主任……。</td>
+    <td class="xl65" x:str>好可爱啊哈哈哈哈嗝</td>
+    <td class="xl65" x:str>一群可爱的人</td>
+    <td class="xl65" x:str>我老公也是武jing呀</td>
+    <td class="xl65" x:str>哈哈哈好可爱</td>
+    <td class="xl65" x:str>我也不知道为什么笑出了声</td>
+    <td class="xl65" x:str>哈哈哈哈比我跳的好太多了</td>
+    <td class="xl65" x:str>可爱兵哥哥</td>
+    <td class="xl65" x:str>可萌可酷、文武兼备！最可爱的人非兵哥哥莫属！</td>
+    <td class="xl65" x:str>可爱</td>
+    <td class="xl65" x:str>好可愛呀</td>
+    <td class="xl65" x:str>太可爱了！</td>
+    <td class="xl65" x:str>好可愛</td>
+    <td class="xl65" x:str>哈哈哈哈哈哈哈好可爱的兵哥哥[米奇比心][米奇比心][米奇比心]</td>
+    <td class="xl65" x:str>哈哈可爱就是太短了，有完整版吗？</td>
+    <td class="xl65" x:str>太可爱了吧，我得兵哥哥</td>
+    <td class="xl65" x:str>跳的不错</td>
+    <td class="xl65" x:str>最可爱的人！</td>
+    <td class="xl65" x:str>太帅了</td>
+    <td class="xl65" x:str>C位小哥舞姿优美</td>
+    <td class="xl65" x:str>哈哈哈哈哈默默点赞</td>
+    <td class="xl65" x:str>真可爱啊</td>
+    <td class="xl65" x:str>想我男朋友了</td>
+    <td class="xl65" x:str>这曲子上头</td>
+    <td class="xl65" x:str>好看！要经常看这种节目噢</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>好可爱</td>
+    <td class="xl65" x:str>戴最帅的盔穿最男人的制服背最刚得枪跳最沙雕的舞</td>
+    <td class="xl65" x:str>不好了，这歌太</td>
+    <td class="xl65" x:str>跳得可可爱爱</td>
+    <td class="xl65" x:str>不错</td>
+    <td class="xl65" x:str>可爱</td>
+    <td class="xl65" x:str>最可爱的人!</td>
+    <td class="xl65" x:str>爱了爱了</td>
+    <td class="xl65" x:str>同意看着真是可爱☺//:莫名的觉得很可爱</td>
+    <td class="xl65" x:str>帅！</td>
+    <td class="xl65" x:str>这舞蹈真可爱，由可爱的人跳，更可爱了</td>
+    <td class="xl65" x:str>多才多艺的兵哥哥</td>
+    <td class="xl65" x:str>可爱</td>
+    <td class="xl65" x:str>想要一个兵哥哥</td>
+    <td class="xl65" x:str>哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈(ಡωಡ)hiahiahia</td>
+    <td class="xl65" x:str>哈哈哈</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>爱了爱了</td>
+    <td class="xl65" x:str>新年快乐</td>
+    <td class="xl65" x:str>站C位是有原因的</td>
+    <td class="xl65" x:str>能文能武能歌善舞萌萌哒我们大中国的军人超棒的</td>
+    <td class="xl65" x:str>跳的太可以了</td>
+    <td class="xl65" x:str>没看够啊</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>又帅又可爱</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>报报你也来一段</td>
+    <td class="xl65" x:str>现在的都好接地气啊哈哈哈哈哈哈，真可爱</td>
+    <td class="xl65" x:str>莫名可爱</td>
+    <td class="xl65" x:str>无所不能的兵哥哥，爱了爱了</td>
+    <td class="xl65" x:str>有趣</td>
+    <td class="xl65" x:str>能文能武的兵哥哥</td>
+    <td class="xl65" x:str>是最可爱的人</td>
+    <td class="xl65" x:str>想嫁，请留下联系方式吧亲</td>
+    <td class="xl65" x:str>最可爱的人</td>
+    <td class="xl65" x:str>哈哈哈哈。可爱从内而外发出的萌感</td>
+    <td class="xl65" x:str>最美的你们</td>
+    <td class="xl65" x:str>叫哥哥</td>
+    <td class="xl65" x:str>真的是最可爱的人儿啊</td>
+    <td class="xl65" x:str>搞得我也想跳这个了</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="208" style='height:104.00pt;'>
+    <td class="xl65" height="208" style='height:104.00pt;' x:str>【武汉卫健委通报：#武汉市无新增新型冠状病毒感染肺炎病例#】2020年1月12日0—24时，武汉市无新增新型冠状病毒感染的肺炎病例，治愈出院1例，无新增死亡病例报告。截至目前，武汉市累计报告新型冠状病毒感染的肺炎病例41例，已治愈出院7例，在治重症6例，死亡1例，其余患者病情稳定，患者均在武汉市定​​​​...展开全文c</td>
+    <td class="xl65" x:str>250</td>
+    <td class="xl65" x:str>祝愿患者早日康复，回家过年</td>
+    <td class="xl65" x:str>早日康复，快快快回家过年啦！[冰雪奇缘雪宝][冰雪奇缘雪宝][冰雪奇缘雪宝]</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关，我始终坚信，星星之火可以燎原，麻烦帮忙顶一下。</td>
+    <td class="xl65" x:str>马上就过年了，愿大家都平安健康</td>
+    <td class="xl65" x:str>新年了希望大家都没事我武汉人当初还是有点慌的但是看到现在状况越来越好了就放心多了</td>
+    <td class="xl65" x:str>希望患者早日康复，对于谣言的也玩严惩</td>
+    <td class="xl65" x:str>平平安安过大年</td>
+    <td class="xl65" x:str>平安就好</td>
+    <td class="xl65" x:str>现在的病毒怎么这么厉害？？？？</td>
+    <td class="xl65" x:str>早日康复，快快快回家过年啦！[冰雪奇缘雪宝][冰雪奇缘雪宝][冰雪奇缘雪宝]</td>
+    <td class="xl65" x:str>这次控制和官方公布真的好及时</td>
+    <td class="xl65" x:str>平安</td>
+    <td class="xl65" x:str>愿早日康复</td>
+    <td class="xl65" x:str>早日康复</td>
+    <td class="xl65" x:str>早日康复</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>希望患者早日康复</td>
+    <td class="xl65" x:str>祝愿者早日康复</td>
+    <td class="xl65" x:str>愿大家健康平安！</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>愿患者早日康复</td>
+    <td class="xl65" x:str>平安是福，开开心心过大年</td>
+    <td class="xl65" x:str>回家过年啦～</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>希望早日康复</td>
+    <td class="xl65" x:str>早日康复</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>踏实</td>
+    <td class="xl65" x:str>希望早日康复，回家过年</td>
+    <td class="xl65" x:str>之前说48</td>
+    <td class="xl65" x:str>平安是福</td>
+    <td class="xl65" x:str>总是会带入自己</td>
+    <td class="xl65" x:str>祝早日康复</td>
+    <td class="xl65" x:str>平安无事最好</td>
+    <td class="xl65" x:str>平安就好</td>
+    <td class="xl65" x:str>早日康复</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>好现象</td>
+    <td class="xl65" x:str>久病成欢，喜你成隐，从此你是我的药</td>
+    <td class="xl65" x:str>早日康复</td>
+    <td class="xl65" x:str>早日康复</td>
+    <td class="xl65" x:str>愿早日康复</td>
+    <td class="xl65" x:str>这次的反应能力和处理方式真的非常快速有效//:自从经过了2003年的现在检测病毒越来越高效了。</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>挺好的，一直都报道</td>
+    <td class="xl65" x:str>已经逃离武汉</td>
+    <td class="xl65" x:str>愿平安！</td>
+    <td class="xl65" x:str>愿早日康复</td>
+    <td class="xl65" x:str>如果过了一个月还没有新增个案，基本就安全了，一定要定期公布病情！</td>
+    <td class="xl65" x:str>马上就过年了，愿大家都平安健康</td>
+    <td class="xl65" x:str>这次流感真的很严重，祝患者早日康复！</td>
+    <td class="xl65" x:str>祝大家新的一年健健康康</td>
+    <td class="xl65" x:str>仍然担忧，治愈出院病人目前是个什么情况，有没有后遗症啥的呢</td>
+    <td class="xl65" x:str>早日康复</td>
+    <td class="xl65" x:str>好事希望之前的患者早日康复，回家团圆。大家平安无事。</td>
+    <td class="xl65" x:str>希望患者早日康复，对于谣言的也玩严惩</td>
+    <td class="xl65" x:str>保佑2020年平平安安，事事顺利</td>
+    <td class="xl65" x:str>持续关注</td>
+    <td class="xl65" x:str>希望大家平平安安顺顺利利过新年！</td>
+    <td class="xl65" x:str>哎，再回来看，真是难受</td>
+    <td class="xl65" x:str>快好起来</td>
+    <td class="xl65" x:str>了解</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>快快好了回家过年，我就是病了四五天然后回家之后好了</td>
+    <td class="xl65" x:str>一切都会好起来的</td>
+    <td class="xl65" x:str>早点康复，回家过年</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>住院患者早日康复</td>
+    <td class="xl65" x:str>祝愿平安</td>
+    <td class="xl65" x:str>什么原因得的病知道原因吗？</td>
+    <td class="xl65" x:str>早起康复</td>
+    <td class="xl65" x:str>祝早日出院</td>
+    <td class="xl65" x:str>这处理态度赞。祝福病患者早日康复，好好过年！</td>
+    <td class="xl65" x:str>平安健康</td>
+    <td class="xl65" x:str>持续关注，整挺好</td>
+    <td class="xl66" colspan="10" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="130" style='height:65.00pt;'>
+    <td class="xl65" height="130" style='height:65.00pt;' x:str>【超简单的新春小灯笼】快过年了，教你做一个手工小灯笼，应景又好玩~放在家里特喜庆！马住，跟小朋友一起试试吧！#家在中国#L全球创意搜罗的微博视频​​​​</td>
+    <td class="xl65" x:str>878</td>
+    <td class="xl65" x:str>一个冷知识下周五就要过年了。</td>
+    <td class="xl65" x:str>转了等于会了</td>
+    <td class="xl65" x:str>哈哈哈，也就只有看看的能力</td>
+    <td class="xl65" x:str>可以可以试试</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮忙顶一下</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后我始终坚信，星星之火可以燎原，麻烦帮忙顶一下。</td>
+    <td class="xl65" x:str>新的一年就要红红火火，不要恍恍惚惚</td>
+    <td class="xl65" x:str>眼睛会了  手没有</td>
+    <td class="xl65" x:str>红红火火恍恍惚惚</td>
+    <td class="xl65" x:str>这灯笼好精致</td>
+    <td class="xl65" x:str>不是发过一次了吗？</td>
+    <td class="xl65" x:str>这个可以，有功夫做</td>
+    <td class="xl65" x:str>一看就会一做就废</td>
+    <td class="xl65" x:str>简单，应景，做起来~</td>
+    <td class="xl65" x:str>转了＝会了</td>
+    <td class="xl65" x:str>好看，我也学学</td>
+    <td class="xl65" x:str>新年快乐，红红火火</td>
+    <td class="xl65" x:str>试试</td>
+    <td class="xl65" x:str>好害怕。</td>
+    <td class="xl65" x:str>挺有趣的</td>
+    <td class="xl65" x:str>马！</td>
+    <td class="xl65" x:str>马住，试试做一个</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>哇</td>
+    <td class="xl65" x:str>马</td>
+    <td class="xl65" x:str>有意思，转存</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>超简单？！！？！</td>
+    <td class="xl65" x:str>收藏</td>
+    <td class="xl65" x:str>感觉可以试一试～(啊!没有手工纸)</td>
+    <td class="xl65" x:str>红红火火，迎新年</td>
+    <td class="xl65" x:str>这个挺好，回头让孩子试试</td>
+    <td class="xl65" x:str>待我先去找几张纸</td>
+    <td class="xl65" x:str>哈哈整挺好</td>
+    <td class="xl65" x:str>脑子我会了眼睛我会了手不，你们都不会</td>
+    <td class="xl65" x:str>好可爱！过年越来越近了</td>
+    <td class="xl65" x:str>这个可以试试</td>
+    <td class="xl65" x:str>这不是我去年帮我表妹做的吗kkk</td>
+    <td class="xl65" x:str>手永远废系列</td>
+    <td class="xl65" x:str>赞一个，礼拜天试一试</td>
+    <td class="xl65" x:str>手艺不错</td>
+    <td class="xl65" x:str>竟然又教手工了，你就说有啥是你不会吧</td>
+    <td class="xl65" x:str>手:我会了</td>
+    <td class="xl65" x:str>好棒啊！</td>
+    <td class="xl65" x:str>哇，明天我也做。</td>
+    <td class="xl65" x:str>试试</td>
+    <td class="xl65" x:str>新春快乐</td>
+    <td class="xl65" x:str>留着</td>
+    <td class="xl65" x:str>先码住，等我一会试试，我要打破我一直以来的一看就会一做就废这个铁律</td>
+    <td class="xl65" x:str>不错，回家试试</td>
+    <td class="xl65" x:str>好实用，快学起来[米奇比心]</td>
+    <td class="xl65" x:str>红红火火过大年</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>OK</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>厲害</td>
+    <td class="xl65" x:str>新年快乐呀！</td>
+    <td class="xl65" x:str>好像可以试试</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>首先，日常手拙学不会，其次，天呐下周过年了</td>
+    <td class="xl65" x:str>跃跃欲试</td>
+    <td class="xl65" x:str>哎，这个好玩</td>
+    <td class="xl65" x:str>马走试试</td>
+    <td class="xl65" x:str>这个好玩</td>
+    <td class="xl65" x:str>码住</td>
+    <td class="xl65" x:str>红红火火迎新年</td>
+    <td class="xl65" x:str>码住</td>
+    <td class="xl65" x:str>试试看</td>
+    <td class="xl65" x:str>新年快乐！</td>
+    <td class="xl65" x:str>红红火火新年快乐</td>
+    <td class="xl65" x:str>又是转了不会做的</td>
+    <td class="xl65" x:str>喜庆中国红，</td>
+    <td class="xl65" x:str>学起来</td>
+    <td class="xl65" x:str>马住  带儿子搞一个</td>
+    <td class="xl65" x:str>好可爱的小灯笼</td>
+    <td class="xl65" x:str>我看看就好</td>
+    <td class="xl65" x:str>先码</td>
+    <td class="xl65" x:str>哈哈哈，我手不巧</td>
+    <td class="xl65" x:str>可爱哎！</td>
+    <td class="xl65" x:str>闻到浓浓的年味气息</td>
+    <td class="xl65" x:str>弟弟的寒假作业有希望了</td>
+    <td class="xl65" x:str>脑子还是不会</td>
+    <td class="xl65" x:str>可以试试</td>
+    <td class="xl65" x:str>看着容易做起来难</td>
+    <td class="xl65" x:str>试试</td>
+    <td class="xl65" x:str>收了</td>
+    <td class="xl65" x:str>可以试试</td>
+    <td class="xl65" x:str>试试</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="208" style='height:104.00pt;'>
+    <td class="xl65" height="208" style='height:104.00pt;' x:str>【习近平在十九届中央纪委四次全会上发表重要讲话】中共中央总书记、国家主席、中央军委主席习近平13日上午在中国共产党第十九届中央纪律检查委员会第四次全体会议上发表重要讲话。他强调，要以新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、三中、四中全会精神，一以贯之、坚定​​​​...展开全文c</td>
+    <td class="xl65" x:str>345</td>
+    <td class="xl65" x:str>相信党，相信祖国。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>支持国家政策</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>前排听课</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl66" colspan="79" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="130" style='height:65.00pt;'>
+    <td class="xl65" height="130" style='height:65.00pt;' x:str>【#武警执勤间隙趴桌休息#】#2020春运#期间，北京西站执勤的武警官兵在紧张的执勤间隙，抓紧时间休息，确保再次上勤时精神抖擞。谢谢你们的付出，转发致敬！L中国武警的微博视频​​​​</td>
+    <td class="xl65" x:str>2953</td>
+    <td class="xl65" x:str>BGM出大问题</td>
+    <td class="xl65" x:str>逼哥的歌</td>
+    <td class="xl65" x:str>李志！</td>
+    <td class="xl65" x:str>南京市民李先生</td>
+    <td class="xl65" x:str>背景音乐我哭了。</td>
+    <td class="xl65" x:str>首先，致敬军人。然后，怎么感觉这么像高中时代的我们</td>
+    <td class="xl65" x:str>一家不圆万家圆BGM也太好哭了想念南京市民李先生</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>BGM是理智！！！！！！！没听错吧</td>
+    <td class="xl65" x:str>我最喜欢的军人——我最喜欢的歌      忽然就流出泪来，忽然想要听到她的声音，而我却什么话都说不出来，是谁在温暖你，有谁会让我觉得这夜晚还有期盼，我就会跟着它去远行，可是你在哪里</td>
+    <td class="xl65" x:str>忽然想要听到他的声音</td>
+    <td class="xl65" x:str>忽然就流出泪来。njlz</td>
+    <td class="xl65" x:str>想念南京李先生</td>
+    <td class="xl65" x:str>致敬！幸苦了</td>
+    <td class="xl65" x:str>是谁在温暖你  忽然致敬军人怀恋南京李先生</td>
+    <td class="xl65" x:str>让李志回来吧，人民子弟兵需要他的音乐，人民更需要他的音乐！</td>
+    <td class="xl65" x:str>不是，睡觉都特么这么整齐的吗？</td>
+    <td class="xl65" x:str>  致敬人民子弟兵！你们辛苦了  视频快看哭了</td>
+    <td class="xl65" x:str>334</td>
+    <td class="xl65" x:str>BGM……这是要解禁了吗？</td>
+    <td class="xl65" x:str>什么BGM啊</td>
+    <td class="xl65" x:str>BB  辛苦啊</td>
+    <td class="xl65" x:str>南京李志</td>
+    <td class="xl65" x:str>李先生“这把稳了”</td>
+    <td class="xl65" x:str>卧槽！熟悉的BGM！</td>
+    <td class="xl65" x:str>像极了高中课间十分钟</td>
+    <td class="xl65" x:str>我们高三的时候也这样课间十分钟直接趴了</td>
+    <td class="xl65" x:str>致敬最可爱的人！你们辛苦了</td>
+    <td class="xl65" x:str>辛苦了</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>致敬！</td>
+    <td class="xl65" x:str>辛苦了</td>
+    <td class="xl65" x:str>bb复出有望呐</td>
+    <td class="xl65" x:str>好起来了兄弟们</td>
+    <td class="xl65" x:str>我的天</td>
+    <td class="xl65" x:str>忽然就流出泪来</td>
+    <td class="xl65" x:str>这个BGM真的用心了！</td>
+    <td class="xl65" x:str>李志在人民日报响起</td>
+    <td class="xl65" x:str>忽然就流出泪来</td>
+    <td class="xl65" x:str>我哭了这bgm</td>
+    <td class="xl65" x:str>致敬兵哥哥，你没辛苦了</td>
+    <td class="xl65" x:str>加油保持机智</td>
+    <td class="xl65" x:str>忽然眼泪就流下来给小编加鸡腿</td>
+    <td class="xl65" x:str>外国人看到又要模仿我们睡觉了</td>
+    <td class="xl65" x:str>呼唤阿滚</td>
+    <td class="xl65" x:str>辛苦了！致敬！</td>
+    <td class="xl65" x:str>感恩，致敬，辛苦了</td>
+    <td class="xl65" x:str>趴趴枕配一个呗</td>
+    <td class="xl65" x:str>致敬最可爱的人！辛苦了，给你们点赞。</td>
+    <td class="xl65" x:str>致敬，辛苦了</td>
+    <td class="xl65" x:str>听说趴着睡，脸会变形</td>
+    <td class="xl65" x:str>辛苦，兵哥哥们</td>
+    <td class="xl65" x:str>谢谢你们的付出！向你们致敬！</td>
+    <td class="xl65" x:str>你们是最可敬最可爱的人！</td>
+    <td class="xl65" x:str>听听背景音乐</td>
+    <td class="xl65" x:str>忽然</td>
+    <td class="xl65" x:str>致敬！你们辛苦了</td>
+    <td class="xl65" x:str>听BGM，人民日报官宣了吗？</td>
+    <td class="xl65" x:str>春节来临，最辛苦的是站岗执勤的军人和消防员致敬</td>
+    <td class="xl65" x:str>致敬！谢谢你们！</td>
+    <td class="xl65" x:str>致敬！！！以及某些憨批粉丝来看看</td>
+    <td class="xl65" x:str>男朋友听到李志的歌瞬间跳起来了</td>
+    <td class="xl65" x:str>注意下版权，老板有点严格</td>
+    <td class="xl65" x:str>给小编加鸡腿！！！！！！</td>
+    <td class="xl65" x:str>是谁在温暖你</td>
+    <td class="xl65" x:str>忽然就流出泪来，忽然想要听到他的声音</td>
+    <td class="xl65" x:str>我爱人民日报我爱李志</td>
+    <td class="xl65" x:str>带给我们如此感动的音乐人，为什么说没就没了。。</td>
+    <td class="xl65" x:str>  别怂别光删我们的视频有种删人民日报的  这bgm可违反规定啊</td>
+    <td class="xl65" x:str>听到逼哥前来评论</td>
+    <td class="xl65" x:str>忽然就流出泪来</td>
+    <td class="xl65" x:str>我考研时也这样</td>
+    <td class="xl65" x:str>看到这个衣服就想到了前男友</td>
+    <td class="xl65" x:str>辛苦您们了，向您们致敬</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>李志</td>
+    <td class="xl65" x:str>这个世界会好的</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>那个战友，你火了</td>
+    <td class="xl65" x:str>这个bgm真的忽然就流出泪来</td>
+    <td class="xl65" x:str>第一次感觉到人民日报的bgm火了保持理智相信未来！！！</td>
+    <td class="xl65" x:str>李先生</td>
+    <td class="xl65" x:str>保持理智</td>
+    <td class="xl65" x:str>都给我哭保持理智</td>
+    <td class="xl66" colspan="5" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="130" style='height:65.00pt;'>
+    <td class="xl65" height="130" style='height:65.00pt;' x:str>【#菲律宾火山喷发现场画面#：闪电在火山灰中穿梭，犹如灾难大片】1月12日，菲律宾塔尔火山喷发后，天空出现耀眼闪电，在火山灰中“穿梭”。当日火山灰冲至千米高，附近数千居民被要求紧急撤离。L世面的秒拍视频​​​​</td>
+    <td class="xl65" x:str>679</td>
+    <td class="xl65" x:str>这是什么原理?</td>
+    <td class="xl65" x:str>佩服这个敢拍的</td>
+    <td class="xl65" x:str>哇哦</td>
+    <td class="xl65" x:str>有点像科幻片啊</td>
+    <td class="xl65" x:str>大自然开始报复了</td>
+    <td class="xl65" x:str>【哇惊叹</td>
+    <td class="xl65" x:str>祝願當地人和僑胞一切平安</td>
+    <td class="xl65" x:str>始于天灾，陷于人祸。</td>
+    <td class="xl65" x:str>雷神和苏尔特尔打架呢</td>
+    <td class="xl65" x:str>道友？坐！</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>哇塞我能说很壮观吗</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>何方道友在此渡劫？</td>
+    <td class="xl65" x:str>这是什么原理?</td>
+    <td class="xl65" x:str>佩服这个敢拍的</td>
+    <td class="xl65" x:str>哇哦</td>
+    <td class="xl65" x:str>有点像科幻片啊</td>
+    <td class="xl65" x:str>大自然开始报复了</td>
+    <td class="xl65" x:str>【哇惊叹</td>
+    <td class="xl65" x:str>祝願當地人和僑胞一切平安</td>
+    <td class="xl65" x:str>始于天灾，陷于人祸。</td>
+    <td class="xl65" x:str>雷神和苏尔特尔打架呢</td>
+    <td class="xl65" x:str>道友？坐！</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>哇塞我能说很壮观吗</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>何方道友在此渡劫？</td>
+    <td class="xl65" x:str>基多拉</td>
+    <td class="xl65" x:str>一切平安一切平安</td>
+    <td class="xl65" x:str>开始那一幕像一个侧面的人脸</td>
+    <td class="xl65" x:str>渡劫！</td>
+    <td class="xl65" x:str>从下往上打的闪电地底也有巨大的能量。</td>
+    <td class="xl65" x:str>可怕</td>
+    <td class="xl65" x:str>火遁朝天，雷遁降世？二柱子又搞事</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>天啊，好恐怖</td>
+    <td class="xl65" x:str>闪电怎么从地上上去的？</td>
+    <td class="xl65" x:str>好壮观，好吓人</td>
+    <td class="xl65" x:str>咦，看着好吓人呀</td>
+    <td class="xl65" x:str>太可怕了</td>
+    <td class="xl65" x:str>为啥火山爆发会有闪电？</td>
+    <td class="xl65" x:str>快看，有道友渡劫</td>
+    <td class="xl65" x:str>太可怕了真的……是哪位上仙在渡劫呢希望大家都能平安</td>
+    <td class="xl65" x:str>太可怕恐怖了</td>
+    <td class="xl65" x:str>好可怕</td>
+    <td class="xl65" x:str>基多拉</td>
+    <td class="xl65" x:str>引力射线</td>
+    <td class="xl65" x:str>这样“爆炸”了？会不会夷为平地？？？太可怕了，但求人员平安</td>
+    <td class="xl65" x:str>人说happy2020,地球motherfxcker</td>
+    <td class="xl65" x:str>是哪位道友在此渡劫</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>敬畏大自然</td>
+    <td class="xl65" x:str>好像血管</td>
+    <td class="xl65" x:str>这是什么原理？好奇</td>
+    <td class="xl65" x:str>祈祷平安</td>
+    <td class="xl65" x:str>大自然开始报复人类</td>
+    <td class="xl65" x:str>觉得漂亮是不是该打，真的漂亮。</td>
+    <td class="xl65" x:str>真实的特效片</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>这个封面太帅了！！！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>它怎么反着？不应该是从上到下吗？</td>
+    <td class="xl65" x:str>我是该说美～呢还是该说，唉～单指画面挺酷炫，像神话剧里的神魔大战！</td>
+    <td class="xl65" x:str>我的妈呀，这个闪电</td>
+    <td class="xl65" x:str>可怕，</td>
+    <td class="xl65" x:str>哇哦！是个人脸耶</td>
+    <td class="xl65" x:str>好壮观</td>
+    <td class="xl65" x:str>好吓人，愿平安</td>
+    <td class="xl65" x:str>人类在大自然面前真的太渺小了</td>
+    <td class="xl65" x:str>为什么火山刚好会有闪电，这么可怕</td>
+    <td class="xl65" x:str>我去！愿平安</td>
+    <td class="xl65" x:str>感谢拍摄者，感谢编辑，令我们有这样美妙的视觉效果。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>估计有人在渡劫飞升成上仙</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>第一次看到火山爆发时还产生雷电光，好奇的去百度了一下，大自然真神奇。</td>
+    <td class="xl65" x:str>好可怕</td>
+    <td class="xl65" x:str>平安</td>
+    <td class="xl65" x:str>愿平安。</td>
+    <td class="xl65" x:str>有点吓人</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>卧槽！这真是飞升了</td>
+    <td class="xl66"></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【#驻港部队军犬川普版自白#这口川普你打几分】具有欧洲血统，却“说”一口标准四川普通话，军犬战林是@驻香港部队昂船洲军营“第一帅哥”，它搞笑技能满点，还苦练一身本领。和战林一样优秀的，还有红颜知己奴娜，漂亮的“幺妹儿”是军中“霸王花”，也是战林的好搭档。L央视军事的微博视频​​​​</td>
+    <td class="xl65" x:str>603</td>
+    <td class="xl65" x:str>川普？</td>
+    <td class="xl65" x:str>川普叫几声听听</td>
+    <td class="xl65" x:str>优秀</td>
+    <td class="xl65" x:str>川普具有欧洲血统</td>
+    <td class="xl65" x:str>川普哪里有狗狗可爱！！！！！！</td>
+    <td class="xl65" x:str>川普几分不敢打几枚导弹倒是敢打</td>
+    <td class="xl65" x:str>我们的狗狗棒不棒</td>
+    <td class="xl65" x:str>好俊的犬啊</td>
+    <td class="xl65" x:str>四川普通话就是川普</td>
+    <td class="xl65" x:str>川普？美国那个吗</td>
+    <td class="xl65" x:str>狗生赢家</td>
+    <td class="xl65" x:str>瓜娃子</td>
+    <td class="xl65" x:str>狗子都在努力工作，你呢</td>
+    <td class="xl65" x:str>上坡坡下坎坎是灵魂</td>
+    <td class="xl65" x:str>优秀的军人，连带军犬都优秀了！</td>
+    <td class="xl65" x:str>100分！</td>
+    <td class="xl65" x:str>川普狗生赢家</td>
+    <td class="xl65" x:str>101分多的一分给川普＝川建国</td>
+    <td class="xl65" x:str>狗生赢家</td>
+    <td class="xl65" x:str>要不得，川普不靠谱，咱们的军犬可不许不靠谱</td>
+    <td class="xl65" x:str>我和中国人处的老好了，特别好，不骗你。我太有才了，有些人会说我非常、非常、非常有才。</td>
+    <td class="xl65" x:str>川普哈哈哈哈哈哈看来某某是旺了</td>
+    <td class="xl65" x:str>哦吼川普</td>
+    <td class="xl65" x:str>可爱，哈哈哈</td>
+    <td class="xl65" x:str>川普牛逼哄哄</td>
+    <td class="xl65" x:str>我以为是</td>
+    <td class="xl65" x:str>川普想打人！</td>
+    <td class="xl65" x:str>快来听听！在线教学</td>
+    <td class="xl65" x:str>总的来说，港独不如狗</td>
+    <td class="xl65" x:str>富强民主文明和谐自由平等公正法治爱国敬业诚信友善以热爱祖国为荣，以危害祖国为耻；以服务人民为荣，以背离人民为耻；以崇尚科学为荣，以愚昧无知为耻；以辛勤劳动为荣，以好逸恶劳为耻；以团结互助为荣，以损人利己为耻；以城市守信为荣，以见利忘义为耻；以遵纪守法为荣。</td>
+    <td class="xl65" x:str>川普它在自白？哦，是这个川普，不是那个川普啊</td>
+    <td class="xl65" x:str>川普没人比我更懂</td>
+    <td class="xl65" x:str>猛一看吓一跳。以为川普又搞什么幺蛾子</td>
+    <td class="xl65" x:str>哈哈哈哈方言满分！</td>
+    <td class="xl65" x:str>可爱</td>
+    <td class="xl65" x:str>哈哈，好可爱</td>
+    <td class="xl65" x:str>优秀</td>
+    <td class="xl65" x:str>优秀</td>
+    <td class="xl65" x:str>我怀疑你想搞事情</td>
+    <td class="xl66" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>两个乖宝宝</td>
+    <td class="xl65" x:str>优秀优秀</td>
+    <td class="xl65" x:str>啊哈哈哈，这个川普好地道哦，怕是一般外地的朋友听不懂哦！</td>
+    <td class="xl65" x:str>哈哈哈哈可爱</td>
+    <td class="xl65" x:str>儿豁？66666我儿豁牛逼牛皮了</td>
+    <td class="xl65" x:str>最服川普</td>
+    <td class="xl65" x:str>为什么不是港普</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>满分</td>
+    <td class="xl65" x:str>如果有博主本人的照片就完美啦</td>
+    <td class="xl65" x:str>洋装虽然穿在身，但我心是中国心？</td>
+    <td class="xl65" x:str>噗，我还以为。。。</td>
+    <td class="xl65" x:str>川普☞川建国</td>
+    <td class="xl65" x:str>好可爱，工作的你最棒，爱你</td>
+    <td class="xl65" x:str>帅锅够</td>
+    <td class="xl65" x:str>川普？</td>
+    <td class="xl65" x:str>可可爱爱</td>
+    <td class="xl65" x:str>像极了爱情哈哈哈哈哈</td>
+    <td class="xl65" x:str>关注</td>
+    <td class="xl65" x:str>很棒哟</td>
+    <td class="xl65" x:str>我们是为了维护香港繁荣稳定而生的～黑靓妞与黄帅哥！谁敢违法犯罪！我们一起向前冲！绝不放过一个坏人！！哈哈哈，可爱(๑•.•๑)！！</td>
+    <td class="xl65" x:str>教资没报上名，人民日报都看的没意思了</td>
+    <td class="xl65" x:str>Iam锁弱儿……这句真的绝了</td>
+    <td class="xl65" x:str>川普</td>
+    <td class="xl65" x:str>这两个字绝对是在暗示什么，或是比喻什么，难道是说</td>
+    <td class="xl65" x:str>好娃娃，撸起爪子加油干！</td>
+    <td class="xl65" x:str>混血</td>
+    <td class="xl65" x:str>好可爱的四川狗子咯</td>
+    <td class="xl65" x:str>那个“儿豁”注入了灵魂</td>
+    <td class="xl65" x:str>川普跪了</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>就真狗粮呗</td>
+    <td class="xl65" x:str>两只狗狗看的我满脸姨母笑</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>哈哈哈哈优秀</td>
+    <td class="xl65" x:str>特朗普</td>
+    <td class="xl65" x:str>点赞！</td>
+    <td class="xl65" x:str>好可爱</td>
+    <td class="xl65" x:str>川普具有欧洲血统</td>
+    <td class="xl65" x:str>真牛的狗狗！</td>
+    <td class="xl65" x:str>我还以为Trump</td>
+    <td class="xl65" x:str>川普叫几声</td>
+    <td class="xl65" x:str>川普？</td>
+    <td class="xl66" colspan="4" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【好消息！#我国养老服务第一项强制性国家标准#发布】近日，市场监管总局、国家标准委发布《养老机构服务安全基本规范》强制性国家标准，明确提出①养老护理员应经培训合格后上岗；②#防止在养老机构内兜售保健品#；③制定老年人个人信息和监控内容保密制度。详戳↓O网页链接转发关注！​​​​</td>
+    <td class="xl65" x:str>355</td>
+    <td class="xl65" x:str>制度有了，希望监管能跟得上，确保各项制度落实到位。</td>
+    <td class="xl65" x:str>真好，我们的明天有保障了</td>
+    <td class="xl65" x:str>这安排好啊，让我觉得后半生有了保障…</td>
+    <td class="xl65" x:str>不折不扣落地见效</td>
+    <td class="xl65" x:str>爷爷奶奶能更好好得养老了</td>
+    <td class="xl65" x:str>我说今天养老股都涨了</td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>这真的是80后未来需要面对的核心问题，等80后基本60岁时，我国老龄化迎来高峰，届时60岁以上人口将近人口总数的三分之一。</td>
+    <td class="xl65" x:str>问题是护理员的任务坚实又耗费精气神，待遇各方面能不能跟上是否有人愿意去做</td>
+    <td class="xl65" x:str>农民工有什么保障呢</td>
+    <td class="xl65" x:str>普天同庆</td>
+    <td class="xl65" x:str>落到实处才行</td>
+    <td class="xl65" x:str>如果完全符合标准的话就想问一下老年机构每年需要负担多少的支出，这些支出项是由国家给予一定补贴享受某些优惠政策还是分摊到每个老人的入住费用？这些标准又由哪个部门负责考核？是不是不达标准的老年相关机构都需要停业修整？</td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>我们这些人是赶在计划生育抓得还不太严的关头出生的，应该算是中国的最后一个人口出生高峰。到我们退休的时候，养老问题会成为社会的难题。我不想依靠孩子养老，毕竟他有自己的人生。养老机构会是我的首选，希望到时候能有比较成熟完备的养老体系。</td>
+    <td class="xl65" x:str>感谢祖国</td>
+    <td class="xl65" x:str>就怕被打我老了可能要住养老院的</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>日本的養老體制以及設施建設值得我們借鑑</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>希望好的制度能落到实处，为老年人提供全方位的保障</td>
+    <td class="xl65" x:str>看着挺好的</td>
+    <td class="xl65" x:str>这个社会任何事都需要有规章制度约束保证！老百姓的生活要求是越来越高了</td>
+    <td class="xl65" x:str>制度加监管才能真正落地</td>
+    <td class="xl65" x:str>能实际到每个私立养老院吗</td>
+    <td class="xl65" x:str>感悟自己老年的生活是啥样的，</td>
+    <td class="xl65" x:str>好!</td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>棒！</td>
+    <td class="xl65" x:str>太棒了，老后有保障了</td>
+    <td class="xl65" x:str>好消息！</td>
+    <td class="xl65" x:str>监管得抓严</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>好的</td>
+    <td class="xl65" x:str>此处应该有掌声</td>
+    <td class="xl65" x:str>支持！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>希望越来越规范，开始存钱吧</td>
+    <td class="xl65" x:str>好消息！发布//:支持好政策！！政策会越来越完善，相信以后养老更加有保障了！</td>
+    <td class="xl65" x:str>奔走相告这样我们就可以放心的再为祖国奋斗几十年</td>
+    <td class="xl65" x:str>中国养老服务需求远远超过供给，市场必定会出现大量不符合标准的企业。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>都不敢想自己老了以后没有经济收入，没有养老保险的情况下怎么养老</td>
+    <td class="xl65" x:str>真好啊，我觉得可能我进不去养老机构</td>
+    <td class="xl65" x:str>以后还得靠机器人</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>好消息！</td>
+    <td class="xl65" x:str>我可能活不到领社保那天</td>
+    <td class="xl65" x:str>老龄化越来越严重了，希望所有人都能老有所依老有所养</td>
+    <td class="xl65" x:str>希望养老护理员工资能提高因为干这个真的累</td>
+    <td class="xl65" x:str>嗯嗯</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>马一个，感觉也是很多年轻人最关心的问题了</td>
+    <td class="xl65" x:str>我努努力，争取活到领退休金的年纪</td>
+    <td class="xl65" x:str>政策是好的希望能尽快落实</td>
+    <td class="xl65" x:str>四十岁左右都开始交养老金了，希望老了可以有基本的保障</td>
+    <td class="xl65" x:str>不许卖保健品真是太贴心了</td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>很棒！</td>
+    <td class="xl65" x:str>很棒</td>
+    <td class="xl65" x:str>真的学老年服务与管理的学生，出社会，养老院大多数都不愿意要，工资低做事效率也不如那些阿姨，或者叔叔，再加上年轻人心性也高想工资高，但是出来的事实是完全不一样的，希望能落实好政策，给学这个专业的人一些保障吧</td>
+    <td class="xl65" x:str>法律够多了，只是从来不落实而已</td>
+    <td class="xl65" x:str>国家管理到位了，养老就可以放心了！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>你知道吗现在的养老机构有的都不允许老年人下床和出门的别问我为什么因为我外公当时就是住的养老医院一个护工六个病人你们想吧。这样也要1800一个月的护理费了</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>好消息</td>
+    <td class="xl65" x:str>如果国家不补贴养老机构的话，那么高质量的养老机构也只是有钱人或者高干们能享用的场所，对于领着普通低级别养老金的老百姓们来说，还是得自生自灭。</td>
+    <td class="xl65" x:str>轉發微博</td>
+    <td class="xl65" x:str>好！眞好</td>
+    <td class="xl65" x:str>这是我们每一个人都将要面临的问题，希望能越来越正规化！！</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>让我们老有所依</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>我们以后可以当邻居了</td>
+    <td class="xl65" x:str>突然觉得社工专业更有价值了</td>
+    <td class="xl65" x:str>制度有了，希望监管能跟得上，确保各项制度落实到位。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>应不断持续推进我国养老服务事业规范发展。</td>
+    <td class="xl65" x:str>很重要很温暖的制度，希望能慢慢落地，不要放卫星，</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>利民大项目，老有所依</td>
+    <td class="xl65" x:str>富强民主文明和谐自由平等公正法治爱国敬业诚信友善以热爱祖国为荣，以危害祖国为耻；以服务人民为荣，以背离人民为耻；以崇尚科学为荣，以愚昧无知为耻；以辛勤劳动为荣，以好逸恶劳为耻；以团结互助为荣，以损人利己为耻；以城市守信为荣，以见利忘义为耻；以遵纪守法为荣。</td>
+    <td class="xl66" colspan="4" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【网络众筹K歌大赛！这个新春一起唱响#我的祖国#】家是最小国，国是千万家。新春佳节来临之际，@人民日报发起“一人一句歌唱我的祖国”网络众筹K歌大赛。录制你的演唱片段，带#一人一句歌唱我的祖国#话题，就可能与你的爱豆一起登上人民日报微博！一人一句，大声唱出你对祖国的爱~   ​​​​...展开全文c</td>
+    <td class="xl65" x:str>1335</td>
+    <td class="xl65" x:str>我也想上电视，兄弟们给我点个赞</td>
+    <td class="xl65" x:str>经常听这首歌，有时眼泪情不自禁流了出来……真心实意希望自己的祖国好起来，在国际上有较高地位，让中国人挺起腰杆做人！</td>
+    <td class="xl65" x:str>我爱我的祖国</td>
+    <td class="xl65" x:str>我很想，但是我没有五音</td>
+    <td class="xl65" x:str>我和我的祖国一刻也不能分割</td>
+    <td class="xl65" x:str>我和我的祖国一个也不能分割</td>
+    <td class="xl65" x:str>我最亲爱的祖国！</td>
+    <td class="xl65" x:str>想要一个兵哥哥，坐等国家分配。</td>
+    <td class="xl65" x:str>我也想参加，可是我怕我唱的不好听！</td>
+    <td class="xl65" x:str>一刻也不能分割，祖国强大</td>
+    <td class="xl65" x:str>这是美丽的祖国，是我生长的地方，爱你，中国</td>
+    <td class="xl65" x:str>此时此刻我想高歌一曲</td>
+    <td class="xl65" x:str>无论何时何地也改变不了我的中国心……</td>
+    <td class="xl65" x:str>不管怎样，最终还是要来源于党的领导，感谢党的带领，我们要坚持中国特色社会主义不动摇，把党的领导落实到国家治理各领域各方面各环节。</td>
+    <td class="xl65" x:str>我和我的祖国</td>
+    <td class="xl65" x:str>我和我的祖国，一刻也不能分割。</td>
+    <td class="xl65" x:str>家是最小国，国是千万家。新春佳节来临之际，发起“一人一句歌唱我的祖国”网络众筹K歌大赛。录制你的演唱片段，带话题，就可能与你的爱豆一起登上人民日报微博！一人一句，大声唱出你对祖国的爱~</td>
+    <td class="xl65" x:str>就是K歌之王</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>我和我的祖国，一刻也不能分隔，无论我走到哪里，都留下一首赞歌</td>
+    <td class="xl65" x:str>中国！</td>
+    <td class="xl65" x:str>这是我心中永远的歌</td>
+    <td class="xl65" x:str>我可以试一试</td>
+    <td class="xl65" x:str>我和我的祖国</td>
+    <td class="xl65" x:str>这个不错哦</td>
+    <td class="xl65" x:str>我爱我的祖国！</td>
+    <td class="xl65" x:str>我爱我的祖国</td>
+    <td class="xl65" x:str>五音不全的人只能表示在线支持加油</td>
+    <td class="xl65" x:str>这也是我最喜欢的歌</td>
+    <td class="xl65" x:str>我爱我的祖国</td>
+    <td class="xl65" x:str>我爱我的祖国</td>
+    <td class="xl65" x:str>我看见了王广允</td>
+    <td class="xl65" x:str>我和我的祖国~一刻也不能分割~</td>
+    <td class="xl65" x:str>我们都是追梦人</td>
+    <td class="xl65" x:str>是我生长的地方！</td>
+    <td class="xl65" x:str>我和我的祖国一刻也不能分割</td>
+    <td class="xl65" x:str>哇  有点想参加呢</td>
+    <td class="xl65" x:str>中国最棒</td>
+    <td class="xl65" x:str>五十六个民族  五十六支花  五十六个兄弟姐妹是一家</td>
+    <td class="xl65" x:str>我和我的祖国我和我的祖国。</td>
+    <td class="xl65" x:str>我和我的祖国心连心</td>
+    <td class="xl65" x:str>我爱你，我的祖国</td>
+    <td class="xl65" x:str>爱祖国爱人民鲜艳的红领巾飘扬在胸前</td>
+    <td class="xl65" x:str>我和我的祖国！</td>
+    <td class="xl65" x:str>铿锵蓝玫瑰</td>
+    <td class="xl65" x:str>我和我的祖国</td>
+    <td class="xl65" x:str>“我和我的祖国”</td>
+    <td class="xl65" x:str>祝福祖国</td>
+    <td class="xl65" x:str>我和我的祖国~</td>
+    <td class="xl65" x:str>家是最小国，国是千万家。</td>
+    <td class="xl65" x:str>家是最小国，国是千万家。</td>
+    <td class="xl65" x:str>这是美丽的祖国❤️</td>
+    <td class="xl65" x:str>一条大河波浪宽～</td>
+    <td class="xl65" x:str>王广允</td>
+    <td class="xl65" x:str>【网络众筹K歌大赛！这个新春一起唱响】</td>
+    <td class="xl65" x:str>与王广允一起歌唱祖国</td>
+    <td class="xl65" x:str>我爱你，祖国❤</td>
+    <td class="xl65" x:str>我爱我的祖国</td>
+    <td class="xl65" x:str>五星红旗你是我的骄傲！</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>我爱您我亲爱的祖国</td>
+    <td class="xl65" x:str>咦，我看到了什么</td>
+    <td class="xl66" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>苏州泰科冲压车里集体盗窃车间生产后铜废料，管理者组织盗窃，每日坐等提成收钱。偷盗者用车往外运送铜废料，甚至有人租车来偷。公司管理层集体包庇隐瞒。</td>
+    <td class="xl65" x:str>我爱你中国</td>
+    <td class="xl65" x:str>我和我的祖国，一刻也不能分割</td>
+    <td class="xl65" x:str>哈哈哈</td>
+    <td class="xl65" x:str>早安</td>
+    <td class="xl65" x:str>我爱我的祖国</td>
+    <td class="xl65" x:str>我和我的祖国～一刻也不能分割～</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>真的有时情不自禁的掉眼泪</td>
+    <td class="xl65" x:str>我和我的祖国</td>
+    <td class="xl65" x:str>我爱你，中国</td>
+    <td class="xl65" x:str>我和我的祖国，一刻也不能分割</td>
+    <td class="xl65" x:str>我爱你中国</td>
+    <td class="xl65" x:str>哇哦(・◇・)</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>我爱中国</td>
+    <td class="xl65" x:str>这歌听了多少遍流了多少次泪，也不知道是我泪太多，还是太爱国了！</td>
+    <td class="xl65" x:str>有意思</td>
+    <td class="xl65" x:str>我和我的祖国，一刻也不能分割</td>
+    <td class="xl65" x:str>不管怎样，最终还是要来源于党的领导，感谢党的带领，我们要坚持中国特色社会主义不动摇，把党的领导落实到国家治理各领域各方面各环节。</td>
+    <td class="xl65" x:str>我爱你祖国！！！</td>
+    <td class="xl65" x:str>这是我们伟大的祖国！</td>
+    <td class="xl65" x:str>我和我的祖国，一刻也不能分割</td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【关于护理假，各地怎么规定？】①福建：≤10天/年；②广西：≤15天/年；③河南：≥20天/年；④湖北：非独生子女≥10天/年，独生子女≥15天/年；⑤黑龙江：非独生子女≤10天/年，独生子女≤20天/年；⑥内蒙古：20天/年；⑦四川：非独生子女≤7天/年，独生子女≤15天/年…更多↓</td>
+    <td class="xl65" x:str>462</td>
+    <td class="xl65" x:str>单位领导不执行也没有办法啊</td>
+    <td class="xl65" x:str>只要有“带薪”俩字，不管是什么假，都难请</td>
+    <td class="xl65" x:str>感觉女性找工作越来越难了</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮忙顶</td>
+    <td class="xl65" x:str>独生子女找工作又增加了难度。</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，我始终坚信，星星之火可以燎</td>
+    <td class="xl65" x:str>还是开放“安乐死”吧，等我老了，就自主决定什么时候死就好了，不给国家添麻烦。最好在火葬场里开设服务。</td>
+    <td class="xl65" x:str>那完了，以后不招独生子女</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮忙顶</td>
+    <td class="xl65" x:str>有这种好政策时候我们山东一向不积极</td>
+    <td class="xl65" x:str>深圳子女不配拥有吗？而且为什么已婚的假期反而偏少？已婚一般普遍年纪比未婚那么大父母年纪也更大难道不应该更多假期才对？</td>
+    <td class="xl65" x:str>推广容易执行难啊</td>
+    <td class="xl65" x:str>那么，非独生子女凭什么不放假？？被指责俩孩子没一个回家的？彰显计划生育的威力？？</td>
+    <td class="xl65" x:str>有正式文件吗……</td>
+    <td class="xl65" x:str>这是什么？</td>
+    <td class="xl65" x:str>休？别做梦了，领导不会批给你的</td>
+    <td class="xl65" x:str>护理假？？？</td>
+    <td class="xl65" x:str>都没听过，更别说休了</td>
+    <td class="xl65" x:str>这是啥</td>
+    <td class="xl65" x:str>这是啥</td>
+    <td class="xl65" x:str>护理假？？</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>别说带薪了，请假的时候不扣钱就行了</td>
+    <td class="xl65" x:str>现实实行有难度</td>
+    <td class="xl65" x:str>唉</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>希望单位领导可以落实</td>
+    <td class="xl65" x:str>如果真的有假，我就在暑假请假，在家带熊孩子，就不用送托管老师那里了，还省钱。</td>
+    <td class="xl65" x:str>请山东看到这条消息</td>
+    <td class="xl65" x:str>到底层就没戏</td>
+    <td class="xl65" x:str>我看成台独子女了</td>
+    <td class="xl65" x:str>有假不敢休</td>
+    <td class="xl65" x:str>闻所未闻见所未见。</td>
+    <td class="xl65" x:str>10天可以，就是能执行吗</td>
+    <td class="xl65" x:str>太难了</td>
+    <td class="xl65" x:str>只有编内可以，我请的事假加公休，加起来才给半个多月</td>
+    <td class="xl65" x:str>北上广深不配拥有</td>
+    <td class="xl65" x:str>公司没有发文，第一次听说还有护理假？</td>
+    <td class="xl65" x:str>都是骗人的//:【关于护理假，各地怎么规定？】①福建≤10天/年；②广西≤15天/年；③河南≥20天/年；④湖北非独生子女≥10天/年，独生子女≥15天/年；⑤黑龙江非独生子女≤10天/年，独生子女≤20天/年；⑥内蒙古20天/年；⑦四川非独生子女≤7天/年，独生子女≤15天/年…更多↓</td>
+    <td class="xl65" x:str>先涨知识，其他的不讨论</td>
+    <td class="xl65" x:str>这玩意为什么是企业买单？企业施行的计划生育么？</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>河北未明确</td>
+    <td class="xl65" x:str>除了公务员能执行，私企那个能执行，不能上班给老板挣钱人家凭什么给你发工资，政府只让人放假，员工放假公司的损失提都不提，就是</td>
+    <td class="xl66" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>太难了</td>
+    <td class="xl65" x:str>得，浙江子女都是石头缝里蹦出来的</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>坐等山东</td>
+    <td class="xl65" x:str>关键是落实啊！</td>
+    <td class="xl65" x:str>感谢人民日报关注民生</td>
+    <td class="xl65" x:str>看政策假挺多的</td>
+    <td class="xl65" x:str>工作快20年，年休假都没休过。</td>
+    <td class="xl65" x:str>这些假都是给公务员的，别想了</td>
+    <td class="xl65" x:str>广西能明确说非独生子女多少天嘛</td>
+    <td class="xl65" x:str>最暖心的假最难休假</td>
+    <td class="xl65" x:str>别说带薪假了，就是国家法定节假日都休不到，还是央企！！上哪里说理去？加班从来没有加班工资，年终奖，十三薪什么都没有</td>
+    <td class="xl65" x:str>想知道能落实吗？</td>
+    <td class="xl65" x:str>呵，小于等于，0也是小于等于</td>
+    <td class="xl65" x:str>想问问北京为啥没有</td>
+    <td class="xl65" x:str>这明明是项好政策，为什么这么多人阴阳怪气?自己没能力找不到好工作，天天找些客观原因。</td>
+    <td class="xl65" x:str>有这个是好，但是难请啊</td>
+    <td class="xl65" x:str>不需要带薪，只要放假就可以</td>
+    <td class="xl65" x:str>:护理假？？</td>
+    <td class="xl65" x:str>除非强制，否则形同虚设</td>
+    <td class="xl65" x:str>月休四天，超过请假扣工资的路过</td>
+    <td class="xl65" x:str>可能只是一个空文件吧，毕竟现在所有单位请假都好难</td>
+    <td class="xl65" x:str>落地是一回事，领导执不执行那就是另外一回事了，我们单位连法定节假日上班的加班费都不发的</td>
+    <td class="xl65" x:str>//:【关于护理假，各地怎么规定？】①福建≤10天/年；②广西≤15天/年；③河南≥20天/年；④湖北非独生子女≥10天/年，独生子女≥15天/年；⑤黑龙江非独生子女≤10天/年，独生子女≤20天/年；⑥内蒙古20天/年；⑦四川非独生子女≤7天/年，独生子女≤15天/年…更多↓</td>
+    <td class="xl65" x:str>我自己住院病假还是调休换来了的落地不现实，空了吹</td>
+    <td class="xl65" x:str>恐怕只有国有企业，大型正规企业自己的员工才有可能享受。除此之外的农民工，普通工人，连年假法定节假日都享受不到。还享受护理假，简直是天方夜谭。</td>
+    <td class="xl65" x:str>计划生育的时候强制执行，计划生育之后的那批出生的人该享有的政策却要等到50岁之后孤独终老才有可能实现，自己慢慢体会</td>
+    <td class="xl65" x:str>企业不执行，除非强制规定</td>
+    <td class="xl65" x:str>非独生子女也需要啊。。。。</td>
+    <td class="xl65" x:str>什麼樣條件的父母才可以休這個假呢？</td>
+    <td class="xl65" x:str>//:【关于护理假，各地怎么规定？】①福建≤10天/年；②广西≤15天/年；③河南≥20天/年；④湖北非独生子女≥10天/年，独生子女≥15天/年；⑤黑龙江非独生子女≤10天/年，独生子女≤20天/年；⑥内蒙古20天/年；⑦四川非独生子女≤7天/年，独生子女≤15天/年…更多↓</td>
+    <td class="xl65" x:str>为什么已婚比未婚休的少？</td>
+    <td class="xl65" x:str>独生子女就业歧视get</td>
+    <td class="xl65" x:str>先落实好带薪休假再说吧！</td>
+    <td class="xl65" x:str>支持有啥用，现在正常的年休想休息都费劲呢</td>
+    <td class="xl65" x:str>而且并没有用</td>
+    <td class="xl65" x:str>工厂干普工的表示没有，算请假没工资</td>
+    <td class="xl66" colspan="5" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【生命最好的延续！#5名器官受捐者组建的乐队#】近日，“一个人的乐队”5名成员公开露面，他们穿着印有“菲利普”的队服。2018年5月9日，澳大利亚小伙菲利普因病去世，父母按照他生前的意愿，将他的器官捐献给5个中国人。为了完成菲利普的音乐梦，他们组建了这个乐队。L新京报我们视频的秒拍视频​​​​</td>
+    <td class="xl65" x:str>384</td>
+    <td class="xl65" x:str>器官捐赠者很伟大，他们的家人很伟大。因为现实生活中遇到过很多家属的不理解，阻挠签署器官捐赠</td>
+    <td class="xl65" x:str>生命最好的延续，致敬！</td>
+    <td class="xl65" x:str>有点触动泪点，全国人民请为他们点点赞</td>
+    <td class="xl65" x:str>以前是不是有一个人的足球队？也是同一个器官捐献者的受捐着组成的。感谢捐献者及家属的无私大爱，受捐者把这份爱传承下去也很好</td>
+    <td class="xl65" x:str>自己生命终结了，可以利用自己健康器官在他人身上延续生命，这是闪烁着人性光辉的科学技术创造的奇迹！我现在郑重做出决定，死后肉躯之身只要有用全部捐献医学或他人！</td>
+    <td class="xl65" x:str>伟大的举动，敬佩！</td>
+    <td class="xl65" x:str>生命最好的延续！感恩感谢！</td>
+    <td class="xl65" x:str>为了完成菲利普的音乐梦，他们组建了这个乐队。赞</td>
+    <td class="xl65" x:str>泪目了，感恩是我们活着的意义</td>
+    <td class="xl65" x:str>仁爱不分国界</td>
+    <td class="xl65" x:str>爱心真的没有界限，这是世界上最美的故事</td>
+    <td class="xl65" x:str>泪目生命最好的延续</td>
+    <td class="xl65" x:str>感谢你们</td>
+    <td class="xl65" x:str>万一哪天我先行而去，有人替我好好活下去</td>
+    <td class="xl65" x:str>伟大</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>❤️</td>
+    <td class="xl65" x:str>我也在支付宝上当了捐赠志愿者</td>
+    <td class="xl65" x:str>好赞</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>真好</td>
+    <td class="xl65" x:str>生命最好的延续！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>这个乐队可以上春晚了</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>生命最好的延续！</td>
+    <td class="xl65" x:str>等我死了我也捐。</td>
+    <td class="xl65" x:str>爱无国界</td>
+    <td class="xl65" x:str>糖尿病原来会致命啊？！我有点害怕</td>
+    <td class="xl65" x:str>这是最美好的延续</td>
+    <td class="xl65" x:str>真的很感动</td>
+    <td class="xl65" x:str>感恩</td>
+    <td class="xl65" x:str>生命的奇妙</td>
+    <td class="xl65" x:str>生命的延续</td>
+    <td class="xl65" x:str>感动</td>
+    <td class="xl65" x:str>为善良的人点赞</td>
+    <td class="xl65" x:str>仁爱无国界，为菲利普点赞</td>
+    <td class="xl65" x:str>我记住他了菲利普</td>
+    <td class="xl65" x:str>这是生命的延续，更是爱的延续。</td>
+    <td class="xl65" x:str>谢谢</td>
+    <td class="xl65" x:str>生命最好的延续</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>你的生命之光，照亮更多的人。</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>最好的延续吧</td>
+    <td class="xl65" x:str>好伟大</td>
+    <td class="xl65" x:str>好伟大</td>
+    <td class="xl65" x:str>敬佩，感恩，感谢。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>他还活着</td>
+    <td class="xl65" x:str>感动</td>
+    <td class="xl65" x:str>大爱无疆</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>一个人的乐队菲利普生命最好的延续</td>
+    <td class="xl65" x:str>又是我们大重庆的故事</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>戳中泪点！死亡有时候是一种生命的延续</td>
+    <td class="xl65" x:str>这是对菲利普最好的纪念。</td>
+    <td class="xl65" x:str>感动</td>
+    <td class="xl65" x:str>转发这个比那个我觉得比拘留吐槽的奶奶个腿好了没那个有意义多了</td>
+    <td class="xl65" x:str>感动</td>
+    <td class="xl65" x:str>这是生命最好的延续！致敬</td>
+    <td class="xl65" x:str>呜呜呜呜被治愈了</td>
+    <td class="xl65" x:str>一个人给了五个人生命的延续！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>生命另外的一种延续</td>
+    <td class="xl65" x:str>好人一生平安</td>
+    <td class="xl65" x:str>值得尊敬</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>感动</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>想起了“一个人的球队”叶沙</td>
+    <td class="xl65" x:str>好感动这是生命的延续，也是爱的传承</td>
+    <td class="xl65" x:str>生命的延续，感动</td>
+    <td class="xl65" x:str>生命最好的延续</td>
+    <td class="xl65" x:str>真好</td>
+    <td class="xl65" x:str>一个人的乐队</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>很伟大</td>
+    <td class="xl65" x:str>哎</td>
+    <td class="xl65" x:str>感恩</td>
+    <td class="xl66" colspan="5" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【#男子朋友圈吐槽交警被拘#警方通报：如发现执法不当将绝不护短】@亳州公安在线通报：近日，《安徽男子朋友圈发文”奶奶的腿“吐槽交警被拘留》引关注。市局已组织督察、法制部门和派驻纪检监察组组成联合调查组，如存发现在执法不当问题，将有错必纠、绝不护短，依法依规进行处理。​​​​</td>
+    <td class="xl65" x:str>2670</td>
+    <td class="xl65" x:str>不是……我觉得他就是吐槽一下自己而已</td>
+    <td class="xl65" x:str>有当年大清文字狱的风范</td>
+    <td class="xl65" x:str>写了一篇文章，里有句“奶奶腿脚不方便“，会不会犯法？</td>
+    <td class="xl65" x:str>这算是辱骂还是吐槽呢？</td>
+    <td class="xl65" x:str>老百姓骂一句，看的真清，立马拘留。老百姓反映民生时，都装聋作哑不回应。</td>
+    <td class="xl65" x:str>普通百姓放个屁立马被刑拘，孙小果强奸、杀人、逃狱要20年后才知晓。</td>
+    <td class="xl65" x:str>官微下面的言论控制的真好啊</td>
+    <td class="xl65" x:str>防民之口……</td>
+    <td class="xl65" x:str>呵呵呵，网上这么多抹黑带风向文章不管，人家吐槽一下就这样，要是觉得有侮辱嫌疑，起诉他啊</td>
+    <td class="xl65" x:str>他奶奶的腿好了吗？</td>
+    <td class="xl65" x:str>警察脸皮好薄</td>
+    <td class="xl65" x:str>感觉这也不太算辱骂吧……</td>
+    <td class="xl65" x:str>什么是辱骂，什么是吐槽？请政府定义清楚</td>
+    <td class="xl65" x:str>这顶多全是吐槽吧～哪里就辱骂了～</td>
+    <td class="xl65" x:str>自己朋友圈吐槽一下还要拘留了？？？</td>
+    <td class="xl65" x:str>执法过当了吧。</td>
+    <td class="xl65" x:str>那政府是真的牛逼！奶奶的腿</td>
+    <td class="xl65" x:str>英雄不问出处   作死不挑坟墓</td>
+    <td class="xl65" x:str>奶奶的腿奶奶的腿奶奶的腿奶奶的腿奶奶的腿奶奶的腿奶奶的腿奶奶的腿奶奶的腿奶奶的腿</td>
+    <td class="xl65" x:str>言论自由，你自由一个试试！</td>
+    <td class="xl65" x:str>太过分了</td>
+    <td class="xl65" x:str>他只是吐槽吧。。这样的事情动用警力。。资源浪费啊</td>
+    <td class="xl65" x:str>法律组织不去打击黑恶组织，维护居民利益，一点鸡毛蒜皮的事反倒动警力伤民风，可笑</td>
+    <td class="xl65" x:str>假如我說了句“我靠，被罰了”這會被拘嗎？</td>
+    <td class="xl65" x:str>这句话我也经常说，以后要小心了</td>
+    <td class="xl65" x:str>……奶奶个腿，这也能被抓……</td>
+    <td class="xl65" x:str>之前有个香港的说大陆没有法治，是人治社会，说大陆没有言论自由，只要觉得你说话不中听就能把你抓起来。之前我还跟他吵，说我们在进步，他说的现象只存在于三四十年前，现在的大陆是法制社会，没人敢随便抓人。现在我TMD觉得脸真疼，Grandma'sthighs！感谢打脸！</td>
+    <td class="xl65" x:str>护短？？？？？？？？？？？谁短？</td>
+    <td class="xl65" x:str>我觉的这个不算骂人   只是在吐槽被罚这件事</td>
+    <td class="xl65" x:str>朋友圈吐槽蛮正常的，这有点太过分了吧</td>
+    <td class="xl65" x:str>交警是不是有点玻璃心啊，人家被罚了款在自己朋友圈吐槽一下耶，都得被拘留。那人家在朋友圈吐槽生活，吐槽老板，吐槽xx也没见被抓起来呀？？有权利就可以这样？</td>
+    <td class="xl65" x:str>这个也算辱骂吗</td>
+    <td class="xl65" x:str>我不敢吐槽，我怕说出来也被警察抓</td>
+    <td class="xl65" x:str>跪着给公知，恨国党，湾湾，乡岗废青送反中素材</td>
+    <td class="xl65" x:str>奶奶的腿，就这就拘留人家？我真庆幸自己没去当警察，不然总有一天自己会瞧不起自己</td>
+    <td class="xl65" x:str>奶奶了个腿了着  怎么还不过年！</td>
+    <td class="xl65" x:str>以后都别乱说话了，文字狱2.0时代快来了</td>
+    <td class="xl65" x:str>奶奶的腿怎么了</td>
+    <td class="xl65" x:str>吐槽奶奶个腿都算辱警，想起来了昨天那个新闻。这是年底了要冲业绩吗</td>
+    <td class="xl65" x:str>老师说小明，你奶奶的腿不好就不要用他来送你上学了。竖日，老师.....</td>
+    <td class="xl65" x:str>又不是停一下接小孩在违章路段停十分钟哎能不能有点法律意识要都停十分钟乱套了那不就</td>
+    <td class="xl65" x:str>人就说被罚了好倒霉，哪里辱骂交警了？咋不直接刑拘？展示地方一霸的权威？</td>
+    <td class="xl65" x:str>这样吐槽都要被抓？我去</td>
+    <td class="xl65" x:str>吐槽和骂人的区别就是带和不带。。。</td>
+    <td class="xl65" x:str>啊哈哈哈，红红火火，恍恍惚惚的</td>
+    <td class="xl65" x:str>这就被刑拘了？</td>
+    <td class="xl65" x:str>？？？？？？？？？</td>
+    <td class="xl65" x:str>抓得好，抓得妙，抓得你呱呱叫</td>
+    <td class="xl65" x:str>这个词屏蔽了吧，容易被拘留</td>
+    <td class="xl65" x:str>这是得罪了pyq的某个人被举报了吧</td>
+    <td class="xl65" x:str>赵丽蓉老师在《包装》小品里有一句台词练你奶奶的嘴！和这个奶奶个腿，有实质上的区别吗？</td>
+    <td class="xl65" x:str>文字狱已经来了，亡wang国还远吗？？？，。？！？。。？</td>
+    <td class="xl65" x:str>这人是美帝国主义的走狗该抓</td>
+    <td class="xl65" x:str>不敢点赞不敢评论，怂怂的路过。。。。。</td>
+    <td class="xl65" x:str>这就是个口头禅，就如同卧槽一样没有任何代指也没任何影射，更没任何辱骂的恶意，拘留就过分了</td>
+    <td class="xl65" x:str>这怕是有点过了。。。</td>
+    <td class="xl65" x:str>你们还是留起辫子吧</td>
+    <td class="xl65" x:str>难道这就是你们说的和谐社会么？</td>
+    <td class="xl65" x:str>不知道是评论区都是阅读满分，还是我自己理解错了，警方通报的情况是，网民吐槽被拘，现在去查情况，有没有执法不当的问题，有的话就改正，不护短，不懂评论区高潮个啥</td>
+    <td class="xl65" x:str>修你先人呢，就是骂你了，来拘留我吧</td>
+    <td class="xl65" x:str>是不是还要有法律来判断是不是辱骂字眼？这么多口头禅、方言和辱骂的这个界限怎么定的呢</td>
+    <td class="xl65" x:str>操奶奶个腿！！</td>
+    <td class="xl65" x:str>文字狱已经来了，亡wang国还远吗？？！。！！。。。？！</td>
+    <td class="xl65" x:str>看来，卧槽也不能说了</td>
+    <td class="xl65" x:str>额，有点那啥……</td>
+    <td class="xl65" x:str>我以为是吐槽奶奶个腿。。</td>
+    <td class="xl66" colspan="23" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="208" style='height:104.00pt;'>
+    <td class="xl65" height="208" style='height:104.00pt;' x:str>【#人民日报评奇葩论文#：科研如何更崇高？学术何以更优美？】一篇发表于2013年的生态经济学论文，引来舆论热议。从发酵到回应，一篇论文引致关于学术研究的讨论，让人们接受了一次规范性与严谨性的教育。不过，很多人同时想知道：这样的论文如何能被录用刊发？期刊的审稿采编规范何在？学术“把关人”​​​​...展开全文c</td>
+    <td class="xl65" x:str>563</td>
+    <td class="xl65" x:str>导师把学生当成廉价劳动力压榨的太多了</td>
+    <td class="xl65" x:str>这不是一个学生的问题，不是一个老师的问题，这反映了整个学术环境人情世故凌驾于科学的乱象</td>
+    <td class="xl65" x:str>面对类似事件，能否从被动回应，变成严格审核、不再出现？逃避？</td>
+    <td class="xl65" x:str>感觉这篇文章是高级黑。</td>
+    <td class="xl65" x:str>还有很多导师根本没有带学生资格的，各种奴隶压榨学生的，骚扰学生的，真心不知道国家什么时候能加大力度审查一下这些妖魔鬼怪</td>
+    <td class="xl65" x:str>院士，杰青终身制，能上不能下，学术寡头，才是造成这个问题的根源，只抓表面没啥用</td>
+    <td class="xl65" x:str>这样的导师不开除留着过年吗？</td>
+    <td class="xl65" x:str>这下全国人民都知道他吹的一手彩虹屁</td>
+    <td class="xl65" x:str>那么多科研经费啊，不追回吗</td>
+    <td class="xl65" x:str>建议教授博士导师取消终身制！接无数课题经费，学生彻夜难眠为其工作。做的好的反而延期不让毕业继续压榨</td>
+    <td class="xl65" x:str>能不再出现歌颂导师师娘的文章还被收录刊登吗？真不能</td>
+    <td class="xl65" x:str>有多少基金本子是学生写的，有多少老师一作的文章实则应该是学生。学生需要在基金项目中得到锻炼，而这种锻炼不是从写本子到结本子。</td>
+    <td class="xl65" x:str>现在的学术太多造假了</td>
+    <td class="xl65" x:str>学术界吹捧之风当止</td>
+    <td class="xl65" x:str>对科研工作的侮辱</td>
+    <td class="xl65" x:str>这应当是中国学术界的“学风”代表。绝不是偶然也不可能是特例。，中国学术界的“学风”之腐败，已经越来越五花八门了。</td>
+    <td class="xl65" x:str>职称论文呢，评职称必备条件，不弄不行啊。有多少期刊是为了某些特殊需求而存在着[皱眉][皱眉]</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮忙顶</td>
+    <td class="xl65" x:str>关键是有200万的钱，你说为啥我国科研起不来，每年还花那么钱，钱都这去了。</td>
+    <td class="xl65" x:str>导师权力过大导致的，你不把他舔舒服了，导师一句话就让你拿不到文凭还延期毕业</td>
+    <td class="xl65" x:str>真应该好好加强启蒙教育，200万给孩子不好吗？</td>
+    <td class="xl65" x:str>希望走在科研前端的前辈们都能好好做研究吧</td>
+    <td class="xl65" x:str>可悲可叹</td>
+    <td class="xl65" x:str>不要用论文来评职称，这潭水估计就清了</td>
+    <td class="xl65" x:str>“板凳坐得十年冷，潜心钻研、不务虚名，越过功利关”。甘坐冷板凳的人太少了</td>
+    <td class="xl65" x:str>今年毕业，求求别搞我了</td>
+    <td class="xl65" x:str>还不是为了骗经费，骗项目而拍马屁……</td>
+    <td class="xl65" x:str>尊重知识，也是对那些认真做科研人员的最好尊重！</td>
+    <td class="xl65" x:str>99%的论文都是没有实际用处的都是拿来混文凭混职称骗基金的学术圈就是这么假</td>
+    <td class="xl65" x:str>这要是都可以的话，我感觉我都能做学术研究了</td>
+    <td class="xl65" x:str>求求不要再出现这种问题了，我们还是要毕业的</td>
+    <td class="xl65" x:str>加强源头审核力度</td>
+    <td class="xl65" x:str>看把关人心情</td>
+    <td class="xl65" x:str>没事，纳税人的钱拿着他不香吗？</td>
+    <td class="xl65" x:str>看看这些院士，在下佩服，在瞧瞧呢些，我想一口吐沫噎死他</td>
+    <td class="xl65" x:str>现在导师压榨学生太多了，同学读研，帮着导师没日没夜地干活，还没什么酬劳。</td>
+    <td class="xl65" x:str>大学教育的水很深啊。</td>
+    <td class="xl65" x:str>应该要严肃的场合你裸奔，学术期刊不是个人的日记本</td>
+    <td class="xl65" x:str>保护学术专利权很重要</td>
+    <td class="xl65" x:str>？？</td>
+    <td class="xl65" x:str>……</td>
+    <td class="xl65" x:str>肃清学术乱像！</td>
+    <td class="xl65" x:str>由于工作原因，毕业后会查一些论文资料，很多论文相关数据，内行一看就是编的，骗人的，真不知道是怎么通过的</td>
+    <td class="xl65" x:str>希望这些人学学孔子，述而不作。</td>
+    <td class="xl65" x:str>遮羞布遮不住了</td>
+    <td class="xl65" x:str>看成奇葩说</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>不懂这咋想的，公认的矫情文字了，还科研论文。。。</td>
+    <td class="xl65" x:str>科研如何更崇高？学术何以更优美？</td>
+    <td class="xl65" x:str>风气不好，总想走捷径。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>“奇葩”二字真就这么用了？</td>
+    <td class="xl65" x:str>奇文共欣赏</td>
+    <td class="xl65" x:str>学术论文就是学术论文，不是诗歌散文学术期刊就是学术期刊，不是报纸副刊，也不是诗歌散文杂志</td>
+    <td class="xl65" x:str>让我们这种老老实实写论文的日子过的一般般的，怎么去相信越努力越幸运？</td>
+    <td class="xl65" x:str>人民日报现在遇到个热点就发言，这样会越来越丧失权威性吧</td>
+    <td class="xl65" x:str>建议研究生都勇敢点，谁要是无缘无故压榨，就用合法途径搞他，如果学校不管就发到网上，他们就怕这玩意</td>
+    <td class="xl65" x:str>说实话真没感觉这是在捧他师傅师娘。</td>
+    <td class="xl65" x:str>唉，难管，在工业为主的今天只要院士想出一个新发明，就能改变成千上万的普通人，这都是宝，能量太强了，想要制裁这些人，难哦，跟网络魔法小说里的魔法师有点像</td>
+    <td class="xl65" x:str>抛开专业，我觉得写的还不错，行文流畅，文辞亦俗亦雅，这么多字我都吹不出来</td>
+    <td class="xl65" x:str>Www.____.com</td>
+    <td class="xl65" x:str>科研生态，一管窥全豹。现在知识分子毫无气节。</td>
+    <td class="xl65" x:str>也是个人才！</td>
+    <td class="xl65" x:str>停刊停刊停刊停刊，这啥期刊这</td>
+    <td class="xl65" x:str>越看越觉得是高级黑，作者在科研圈这么久难道一点都不知道称赞导师的正确方法和边缘在哪里吗？硬是投了导师为主编的期刊，导师还声称不知此事……如果情况属实，这不就是为了拉导师下马吗？以称赞之名行报复之实吧？</td>
+    <td class="xl65" x:str>13年学术界的溜须拍马的事情，希望不要再现。现在社会竞争激烈，希望不要历史再现！落后就被全世界撕咬！</td>
+    <td class="xl65" x:str>加班加班加班·我在加班</td>
+    <td class="xl65" x:str>不只是期刊的问题</td>
+    <td class="xl65" x:str>武汉肺炎第一个感染者失踪之谜？没有报道，和海鲜市场也没有交集，难道是有真相被隐瞒吗？</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>围观</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>浪费钱啊！</td>
+    <td class="xl65" x:str>本科或者是研究生，马上要写论文了，论文就开始上热搜了。</td>
+    <td class="xl65" x:str>13年的论文，为什么现在才看到？论文是不是越来越难了，躲在角落里瑟瑟发抖</td>
+    <td class="xl65" x:str>一顿瞎套，这让康德的面子往哪里摆。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>「私人菜园子」这个词亲民又高级</td>
+    <td class="xl65" x:str>评得太客气。这就是不知耻。。</td>
+    <td class="xl65" x:str>不能这样</td>
+    <td class="xl65" x:str>唉╯﹏╰</td>
+    <td class="xl66" colspan="6" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【#中国女排进死亡之组#网友打气：真正的强者敢于直面强劲的对手】2020#东京奥运会#女排洲际资格赛结束，12支参赛队全部产生。这样一来，奥运女排分组基本确定：A组：日本、塞尔维亚、巴西、韩国、多米尼加、肯尼亚；B组：中国、美国、俄罗斯、意大利、阿根廷、土耳其。转发，为中国女排加油！​​​​</td>
+    <td class="xl65" x:str>10795</td>
+    <td class="xl65" x:str>到底谁进入死亡之组</td>
+    <td class="xl65" x:str>死亡之组指中国女排所在的一组</td>
+    <td class="xl65" x:str>遇强则强，不用怕！女排冲啊。</td>
+    <td class="xl65" x:str>做好一切可能的精神准备，不要一赢就什么都好，一输什么都完。胜败乃兵家常事，眼光须放的开放的远。让女排放松心情毫无顾忌放下负担地去打球！在心里为女排默默祝福祈祷！</td>
+    <td class="xl65" x:str>女排冲鸭</td>
+    <td class="xl65" x:str>我觉得问题不大，我相信中国女排，神挡杀神佛挡杀佛。</td>
+    <td class="xl65" x:str>加油中国好姑娘</td>
+    <td class="xl65" x:str>她们也怕中国女排</td>
+    <td class="xl65" x:str>对于别的队伍来说，只要有中国女排的都是死亡之组。</td>
+    <td class="xl65" x:str>确实会是恶战，不能因为女排前面赢得漂亮就认为下面也一定会如此，对手都是劲敌，每一战都会很辛苦，女排加油，目标不变升国旗、奏国歌！</td>
+    <td class="xl65" x:str>哪次不是死亡之组哪次不是笑到最后！</td>
+    <td class="xl65" x:str>不管什么组，姑娘们加油加油</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>意大利是真的强呀，吃瓜网友们别捧杀女排，不过女排会尽最大努力的！无论什么局势，支持，理解，就好！</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>这分组没啥意义吧我记得奥运的规则是每个小组前四进八强然后在跟另一个小组的四强交叉打争四强，在这个小组中国不可能进不了前四啊，最坏的结果不过就是中国小组第四打另一组小组第一的塞尔维亚但这种可能性非常小</td>
+    <td class="xl65" x:str>女排冲鸭</td>
+    <td class="xl65" x:str>期待杀出一条血路</td>
+    <td class="xl65" x:str>为中国女排精神点赞无论对手是谁，我们都挺你们！加油鸭！</td>
+    <td class="xl65" x:str>对中国女排来说自己在的组就是死亡之组，对男足来说任何组都是死亡之组。</td>
+    <td class="xl65" x:str>郎教练我们只有一个目标，那就是奏国歌，升国旗！</td>
+    <td class="xl65" x:str>女排们加油哦！尽力打我们一直支持喔</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>加油，女排姑娘们，你们背后有无数中国人在为你们加油</td>
+    <td class="xl65" x:str>加油加油加油！中国女排最棒！</td>
+    <td class="xl65" x:str>她们面对我们肯定要成为死亡之组，加油姑娘们！</td>
+    <td class="xl65" x:str>中国女排冲鸭奥利给</td>
+    <td class="xl65" x:str>女排加油！！！！冲鸭</td>
+    <td class="xl65" x:str>中国女排加油！放轻松不管怎样你们都是最棒的！</td>
+    <td class="xl65" x:str>加油吧</td>
+    <td class="xl65" x:str>姑娘们，加油！！</td>
+    <td class="xl65" x:str>我相信女排姑娘，遇强则强，加油加油加油！</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>中国女排冲鸭吼吼吼</td>
+    <td class="xl65" x:str>也就美国队吧。。这家小编真是喜欢，转发关注，转发支持，转发致敬。你倒是多弄点转发抽奖啊</td>
+    <td class="xl65" x:str>冲出小组即冠军女排加油！奥利给！</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>女排姑娘们冲鸭！！！</td>
+    <td class="xl65" x:str>中国女排所向披靡，那些国家的女排确实很不幸到死亡之组了</td>
+    <td class="xl65" x:str>这不叫死亡分组，是提前决赛</td>
+    <td class="xl65" x:str>加油尽人事，听天命</td>
+    <td class="xl65" x:str>女排加油！无论如何，你们最棒！</td>
+    <td class="xl65" x:str>加油呀！！！冲！！！</td>
+    <td class="xl65" x:str>爱拼总会赢，女排雄世界。中国女排虽陷&quot;死亡之组″，不足为虑！相信女排健儿们一定遇强更强、突出重围，拿到奥运金牌！加油！</td>
+    <td class="xl65" x:str>中国女排冲鸭</td>
+    <td class="xl65" x:str>美国俄罗斯意大利阿根廷土耳其进入了死亡之组。。。</td>
+    <td class="xl65" x:str>什么签都是好签中国女排加油！</td>
+    <td class="xl65" x:str>女排冲鸭加油！</td>
+    <td class="xl65" x:str>不要紧，她们也进了死亡之组</td>
+    <td class="xl65" x:str>是别人进了死亡之组吧</td>
+    <td class="xl65" x:str>女排精神</td>
+    <td class="xl65" x:str>其实无论哪一组只要是能进入奥运会阵容了都不会是弱组。也没必要说是死亡之组，不到最后一刻谁也不知道结局，观众能看到精彩绝伦的比赛就好。中国女排加油！！！！</td>
+    <td class="xl65" x:str>加油！冲鸭！</td>
+    <td class="xl65" x:str>女排冲鸭！</td>
+    <td class="xl65" x:str>冲</td>
+    <td class="xl65" x:str>女排加油</td>
+    <td class="xl65" x:str>       遇强则强，实力在何须俱，女排姑娘们，加油！</td>
+    <td class="xl65" x:str>干翻他们！</td>
+    <td class="xl65" x:str>阿根廷我招谁惹谁了？？？</td>
+    <td class="xl65" x:str>女排加油！！姑娘们冲鸭！</td>
+    <td class="xl65" x:str>爱拼总会赢，女排雄世界。中国女排虽陷&quot;死亡之组″，相信一定会遇强更强、突出重围，勇夺奥运金牌，加油！</td>
+    <td class="xl65" x:str>女排加油，菇凉们加油</td>
+    <td class="xl65" x:str>都挺厉害的</td>
+    <td class="xl65" x:str>女排加油，冲鸭</td>
+    <td class="xl65" x:str>别的国家心都凉了，心想我他妈连第一轮都怕过不了，亚军季军都没着落</td>
+    <td class="xl65" x:str>死亡之组难道不是因为中国女排在吗我们不叫进，我们是造了一个死亡之组</td>
+    <td class="xl65" x:str>为其他球队祈祷，你们要回家啦</td>
+    <td class="xl65" x:str>女排姑娘们能行的</td>
+    <td class="xl65" x:str>女排加油！遇强则强</td>
+    <td class="xl65" x:str>加油！冲啊！姑娘们~！！！棒棒棒</td>
+    <td class="xl65" x:str>一场硬仗呀！中国姑娘们加油</td>
+    <td class="xl65" x:str>女排加油</td>
+    <td class="xl65" x:str>中国女排加油！加油！</td>
+    <td class="xl65" x:str>中国女排最强加油！</td>
+    <td class="xl65" x:str>中国女排加油！冲啊！</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>在世界，中国女排都没有对手，哪来什么死亡对手？？？</td>
+    <td class="xl65" x:str>加油加油加油！</td>
+    <td class="xl65" x:str>为中国女排点赞</td>
+    <td class="xl65" x:str>咱女排也不是盖的！管他对手如何！拿出全力打好每一场比赛就完了！不过我相信中国女排世界第一</td>
+    <td class="xl65" x:str>中国女排最强</td>
+    <td class="xl65" x:str>中国女排加油！</td>
+    <td class="xl65" x:str>女排压根没有死亡之组一说</td>
+    <td class="xl65" x:str>一共就俩组</td>
+    <td class="xl65" x:str>女排加油</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>只要有中国女排的组那就是死亡之组</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="156" style='height:78.00pt;'>
+    <td class="xl65" height="156" style='height:78.00pt;' x:str>【2020两次征兵时间已确定，转发周知！】①2020年上半年应征报名时间：1月10日至2月15日。②2020年下半年应征报名时间：男兵为4月1日至8月15日，女兵为6月26日至8月15日。目前，全国征兵网已开启2020征兵报名通道，详戳→O网页链接如果你有军旅梦，千万别错过哦！</td>
+    <td class="xl65" x:str>499</td>
+    <td class="xl65" x:str>给韩国军队运送物资的间谍行为有人管吗？</td>
+    <td class="xl65" x:str>以前挺向往的，直到我的个子不跟随年龄的步伐</td>
+    <td class="xl65" x:str>想当个女兵！！！</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，我始终坚信，星星之火可以燎原</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，我始终坚信，星星之火可以燎原</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮忙顶一</td>
+    <td class="xl65" x:str>我年龄超了一岁啊</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人设陷以无果之后，我始终坚信，星星之火可以燎原，麻烦帮忙顶一下。</td>
+    <td class="xl65" x:str>想去去不了</td>
+    <td class="xl65" x:str>应以军人那样的阳刚外表为国家主要的男性审美。</td>
+    <td class="xl65" x:str>能不能给我分配的兵哥哥</td>
+    <td class="xl65" x:str>这辈子哥想当兵也木有希望啦，太可惜啦</td>
+    <td class="xl65" x:str>年龄太大，不符合要求</td>
+    <td class="xl65" x:str>冲鸭</td>
+    <td class="xl65" x:str>嗯</td>
+    <td class="xl65" x:str>高中在读，没有注册学信网的咋办呢</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>我去年报名没选上，无缘无分</td>
+    <td class="xl65" x:str>为啥女兵显示未到报名时间，明明已经13号了，有没有相同情况的?</td>
+    <td class="xl65" x:str>我朋友要去当女兵啦！</td>
+    <td class="xl65" x:str>如果可以，我想再当一次兵！</td>
+    <td class="xl65" x:str>限韩令千万别解除</td>
+    <td class="xl65" x:str>超级帅，打心里的帅</td>
+    <td class="xl65" x:str>很及时关注这条微博</td>
+    <td class="xl65" x:str>。</td>
+    <td class="xl65" x:str>了解了</td>
+    <td class="xl65" x:str>我想去可是年纪太大</td>
+    <td class="xl65" x:str>这辈子有个遗憾就是没当过兵</td>
+    <td class="xl65" x:str>95后还招吗？</td>
+    <td class="xl65" x:str>咋不招女的</td>
+    <td class="xl65" x:str>我们这女兵都是走关系或者拿钱才行要不然想都别想</td>
+    <td class="xl65" x:str>不够资格</td>
+    <td class="xl65" x:str>//:【2020两次征兵时间已确定，转发周知！】①2020年上半年应征报名时间1月10日至2月15日。②2020年下半年应征报名时间男兵为4月1日至8月15日，女兵为6月26日至8月15日。目前，全国征兵网已开启2020征兵报名通道，详戳→如果你有军旅梦，千万别错过哦！</td>
+    <td class="xl65" x:str>好想哭很暖很可爱</td>
+    <td class="xl65" x:str>//:【2020两次征兵时间已确定，转发周知！】①2020年上半年应征报名时间1月10日至2月15日。②2020年下半年应征报名时间男兵为4月1日至8月15日，女兵为6月26日至8月15日。目前，全国征兵网已开启2020征兵报名通道，详戳→如果你有军旅梦，千万别错过哦！</td>
+    <td class="xl65" x:str>//:【2020两次征兵时间已确定，转发周知！】①2020年上半年应征报名时间1月10日至2月15日。②2020年下半年应征报名时间男兵为4月1日至8月15日，女兵为6月26日至8月15日。目前，全国征兵网已开启2020征兵报名通道，详戳→如果你有军旅梦，千万别错过哦！</td>
+    <td class="xl65" x:str>再年轻几岁的话。</td>
+    <td class="xl65" x:str>愿国之厚始终深厚</td>
+    <td class="xl65" x:str>女兵有年龄要求吗？22了都</td>
+    <td class="xl65" x:str>光荣</td>
+    <td class="xl65" x:str>一人当兵，全家光荣</td>
+    <td class="xl65" x:str>参军吧，少年</td>
+    <td class="xl65" x:str>大学的时候学校里有招的，当时老爸真的劝了我好多次奈何不了我怕自己坚持不下来（但是就是懒），现在想去年龄已经超一岁了</td>
+    <td class="xl65" x:str>30岁了还可以当兵吗</td>
+    <td class="xl65" x:str>为啥女兵报名还没有通知</td>
+    <td class="xl65" x:str>一人当兵，全家光荣</td>
+    <td class="xl65" x:str>生不逢时</td>
+    <td class="xl65" x:str>可惜自己条件不符合，不然挺想当一名军人的。帅气！！！</td>
+    <td class="xl65" x:str>刚回来</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>想问女兵也有两次机会吗</td>
+    <td class="xl65" x:str>没有机会了，太难了，都没有机会了。我好想当兵啊。</td>
+    <td class="xl65" x:str>【2020两次征兵时间已确定，转发周知！】</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>我做梦都想啊，可是喔的近视不允许啊。</td>
+    <td class="xl65" x:str>也啥女兵显示没开始</td>
+    <td class="xl65" x:str>加油！</td>
+    <td class="xl65" x:str>我当不了兵了……年龄大了……</td>
+    <td class="xl65" x:str>最喜欢第一张图</td>
+    <td class="xl65" x:str>最近招兵感觉比以前密集好多</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>望周知</td>
+    <td class="xl65" x:str>最遗憾的是当年没能参加征兵</td>
+    <td class="xl65" x:str>因为视力夏天征兵的时候抱憾而归了其他几项都是前几名的</td>
+    <td class="xl65" x:str>当不成兵，那能分配一个兵哥哥吗</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>不懂就问，15岁可以报名入伍吗？</td>
+    <td class="xl65" x:str>加油！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>女兵呢</td>
+    <td class="xl65" x:str>来了</td>
+    <td class="xl65" x:str>我想当，可是眼睛不行</td>
+    <td class="xl65" x:str>身高不够</td>
+    <td class="xl65" x:str>年龄大了，去不了</td>
+    <td class="xl65" x:str>我国军人是最可爱的人儿～</td>
+    <td class="xl65" x:str>老公曾经是一名军人！无悔的青春！</td>
+    <td class="xl65" x:str>想当兵的加油</td>
+    <td class="xl65" x:str>年龄过了无缘了</td>
+    <td class="xl65" x:str>一切美好如期而至，喜欢的都拥有，失去的都释怀。</td>
+    <td class="xl65" x:str>好想二次入伍，可惜早已超龄了……</td>
+    <td class="xl65" x:str>所受的伤，均会成为胸前的勋章</td>
+    <td class="xl65" x:str>何去何从？</td>
+    <td class="xl65" x:str>超级想当兵，但是被拒收了怎么办每次想起来都超级难受，家里边都不能提这个事，一提我就伤心</td>
+    <td class="xl65" x:str>有趣</td>
+    <td class="xl65" x:str>又到了这个时候</td>
+    <td class="xl66" colspan="4" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【#父亲忙着回微信4岁儿子失踪后不幸身亡#】四川宜宾，黄先生回忆，2019年12月30日，带儿子出门后，正回微信的黄先生一抬头，发现儿子不见了。“我就是低头回了朋友几条微信，时间并不算长。”10天后，1月9日下午，警方在某建筑工地发现孩子的尸体。黄先生说，事发后他进入工地，发现导致儿子死​​​​...展开全文c</td>
+    <td class="xl65" x:str>12622</td>
+    <td class="xl65" x:str>十天后才发现孩子尸体，天呐孩子可能当时还没有死，他该多绝望啊</td>
+    <td class="xl65" x:str>为什么这种监护人不用被判刑？</td>
+    <td class="xl65" x:str>明知附近有个工地，当天一直找不到就不能主动往里面去找吗，说不定当天去找还能挽回</td>
+    <td class="xl65" x:str>工地还补偿</td>
+    <td class="xl65" x:str>要查一下是不是他杀</td>
+    <td class="xl65" x:str>这个父亲可能要后悔一辈子</td>
+    <td class="xl65" x:str>这是第几个因为家长玩手机没看住孩子导致孩子死亡了？！！？唉，反正我觉的不会是最后一个，家长们长点心吧</td>
+    <td class="xl65" x:str>当爸的能不能好好看住孩子……什么叫&quot;时间不算长&quot;啊，这个时候还能推卸自己的责任？时间不算长孩子能找不到？工地三四百米，几秒孩子就能跑过去了？？</td>
+    <td class="xl65" x:str>难道父亲没责任?一个过失就导致悲剧难道不需要负法律责任?</td>
+    <td class="xl65" x:str>平时各种评论都喜欢打趣说“爸爸带孩子活着就好”，“父爱如山一动不动”呵呵，一直不理解为什么这些用在父亲上就可以当做玩笑，要是母亲这样早就被喷成筛子了这种新闻就是个很好的警醒</td>
+    <td class="xl65" x:str>倒霉的孩子和工地。。。想知道工地是什么理由赔钱，人道主义援助还是施工管理不严。孩子父亲不应该坐牢么？他的责任最大吧</td>
+    <td class="xl65" x:str>家长监护不当致死就不可以坐牢吗</td>
+    <td class="xl65" x:str>看到那些给工地洗白的言论……乱带节奏，真是有点可怕！这个事父亲和工地都有责任！父亲作为监护人，确实疏忽！失职！但是工地没有封闭施工，危险隐患未隔离，没有做保护措施，在工地出了人命，责任是免不了，工地向家属进行补偿做的没错，法则划分，怎么就成家属讹诈了呢？</td>
+    <td class="xl65" x:str>太遗憾了小小的生命</td>
+    <td class="xl65" x:str>呵呵这父亲。。当初干嘛要盖子！？</td>
+    <td class="xl65" x:str>这工地老板人不错</td>
+    <td class="xl65" x:str>带孩子就尽量不要玩手机了</td>
+    <td class="xl65" x:str>“问题已经得到了解决。”这他妈是人说的话？这样的父亲请下地狱。</td>
+    <td class="xl65" x:str>阴谋论可能是故意杀死孩子自己并不喜欢孩子正好还能赔一部分钱  最重要的是10天！而且出门在外一个四岁小孩我觉得不大可能会乱跑。</td>
+    <td class="xl65" x:str>“问题已经得到解决”我他妈震惊了</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>手机确实方便了生活，但是作为孩子的监护人，是不是应该把孩子安全放在首位？</td>
+    <td class="xl65" x:str>这父亲态度就很无所谓啊，反正孩子还小自己还年轻再生一个就好了啊，该玩就玩该浪就浪。现在做父母的门槛真的是太低了</td>
+    <td class="xl65" x:str>我如果是他老婆会杀了他</td>
+    <td class="xl65" x:str>如果是妈妈估计就要离婚了吧</td>
+    <td class="xl65" x:str>不能嫁给一个不负责任的男人，自己的孩子也不能有一个不负责任的爸爸</td>
+    <td class="xl65" x:str>不是任何人都有资格做父母十天？？？我上学那会儿   晚回家半个小时以上我爸妈都急的不行，不是给老师打电话，就是去发小家里找我。另外，我自己就在工程上班  我们的工地，外面都是铁门，需要门禁卡才能进去。</td>
+    <td class="xl65" x:str>这种家长不配有孩子</td>
+    <td class="xl65" x:str>太让人难过了</td>
+    <td class="xl65" x:str>讲真，我一个人的时候才会玩手机，只要有一个人和我在一块，就算是有一搭没一搭的聊天，我也不玩手机...</td>
+    <td class="xl65" x:str>年底了遇到这种事情…怎么过年啊…</td>
+    <td class="xl65" x:str>孩子妈怎么活</td>
+    <td class="xl65" x:str>10天后才发现。四五百米的工地。有水的桩孔。无助的孩子。</td>
+    <td class="xl65" x:str>带孩子出门最好不要玩手机</td>
+    <td class="xl65" x:str>不知道说什么好了</td>
+    <td class="xl65" x:str>最大过失责任方，是死亡男童父亲。他首先就该抽自己大耳瓜子！很多有孩子的人都好好看看吧，孩子重要还是手机重要？</td>
+    <td class="xl65" x:str>感觉要是妈妈丢的，会被骂的超惨</td>
+    <td class="xl65" x:str>这人也别再生孩子了，要不然又得害死</td>
+    <td class="xl65" x:str>评论区都是什么</td>
+    <td class="xl65" x:str>手机，隐形毒品，还不犯法，上瘾就终身戒不掉</td>
+    <td class="xl65" x:str>目前的社会现象死到哪，讹到哪</td>
+    <td class="xl65" x:str>卧槽！长点心吧</td>
+    <td class="xl65" x:str>看手机的代价</td>
+    <td class="xl65" x:str>自己跑去工地的，监护人不到位</td>
+    <td class="xl65" x:str>孩子无小事，监护是大事，孩子安全则是天大的事，岂能马虎？可怜不幸身亡的4岁孩子！可恨不称职不尽责的父亲！</td>
+    <td class="xl65" x:str>孩子太可怜了，，为啥要放照片现在已经看不得这种事了，太可怜了</td>
+    <td class="xl65" x:str>难过</td>
+    <td class="xl65" x:str>太可惜，</td>
+    <td class="xl65" x:str>父母家长监护人失职造成小孩伤亡的事情经常发生，应该早日立法严惩这些失职的父母家长监护人！！！</td>
+    <td class="xl65" x:str>带小孩还是需要专心一点特别是带出门</td>
+    <td class="xl65" x:str>这什么魔鬼家长？？？</td>
+    <td class="xl65" x:str>所以说。。手机啊！！！！！回短信比生命重要嘛？？？？不长时间。就不长。小孩走好。</td>
+    <td class="xl65" x:str>太让人心痛了！</td>
+    <td class="xl65" x:str>我带孩子出门，三秒内余光扫不儿子我就已经开始紧张了</td>
+    <td class="xl65" x:str>所以男人付出什么了？女人冒着鬼门关的危险把孩子生下来，就这样被狗男人弄死了，想结婚的女人麻烦把眼睛用石灰擦亮，不结婚的女人去国外买精生个跟自己姓的漂亮娃娃多好</td>
+    <td class="xl65" x:str>如果真是他说出“问题已经解决”这样的话，孩子下辈子投个好人家吧。</td>
+    <td class="xl65" x:str>哦？注意哦“我就是”“并没有多长时间”难道你出门不应该一直看着点孩子么？你还认为你玩手机的时间很短，孩子不应该走是么？</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人齐秋柱张爱玲夫妇设陷以无果之后，，我始终坚信，星星之火可以燎原，顶一下</td>
+    <td class="xl65" x:str>扯，肯定不是仅仅回复了消息</td>
+    <td class="xl65" x:str>所以孩子出事什么情况下才能让监护人负责？监护人有权力也有义务！</td>
+    <td class="xl65" x:str>切～～～，我信你个鬼，还不是忙着吊棒、撩妹，否则怎么会那么投入的。</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人齐秋柱张爱玲夫妇设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮忙顶一</td>
+    <td class="xl65" x:str>评论区让我疑惑</td>
+    <td class="xl65" x:str>带小孩就好好带，玩尼玛手机呢？我们这一奶奶带孙子时候打牌，孙子溺水了都不知道还在麻将桌上，没那个责任心就不要做监护人</td>
+    <td class="xl65" x:str>总是有意外，带小孩一定要多注意啊</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人齐秋柱张爱玲夫妇设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮忙顶一下</td>
+    <td class="xl65" x:str>评论恶意也太大了吧……标题明显有带节奏的倾向，隔着屏幕不了解事情的全貌就去评判别人配不配做父亲，打字之前积点德吧。</td>
+    <td class="xl65" x:str>走路不要玩手机，带孩子不要老是玩手机,血的教训</td>
+    <td class="xl65" x:str>孩子有问题赖学校、赖工地，其实最大的责任人不是父母嘛？！</td>
+    <td class="xl65" x:str>现检查这个男的有没得负债，感觉这个有点邪乎</td>
+    <td class="xl65" x:str>孩子愿你一路走好往永生极乐世界去希望生命尽头只有佛音的感化而没有死亡的恐惧</td>
+    <td class="xl65" x:str>引以为戒…带娃的时候，眼光要随时注意娃的动向…</td>
+    <td class="xl65" x:str>怕是回哪个老婆娘信息，那么投入，现在的男人撩骚那么厉害，活该</td>
+    <td class="xl65" x:str>我表妹六岁了我带她出去都必须一只手扯着她然后另一只手玩手机的这爹真的不配做父母</td>
+    <td class="xl65" x:str>孩子无小事，监护是大事，孩子安全则是天大的事，岂能马虎大意？可怜不幸身亡的4岁孩子！可恨粗心不称职的父亲！</td>
+    <td class="xl65" x:str>快过年了回老家的人多了，一看到在修啥都爱去看热闹，工地围栏也围不完的，总有小洞缝隙啥的，希望大人们都能看护好自己的小孩，平安过年</td>
+    <td class="xl65" x:str>这么多微博法官吗？那被网络暴力逼死的，还要怪死者承压能力太弱呗？</td>
+    <td class="xl65" x:str>爸爸带孩子，活着就行</td>
+    <td class="xl65" x:str>不该追家长责任吗？小孩不管带出门还是在家，这么大点，家长视线就不该离开娃</td>
+    <td class="xl65" x:str>在国外，家长是要被判刑的吧</td>
+    <td class="xl65" x:str>那么小  太让人难过了</td>
+    <td class="xl66" colspan="8" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【为他们点赞！#医生夫妻看升旗抢救心跳骤停老人#】11日早晨，天安门广场上，一位老人突然倒地，陪家人看升旗仪式的一对医生夫妻连忙上前施救，轮流为老人进行心肺复苏，直到救护车赶到。施救的田夏秋是北京安贞医院心外危重症中心的医生，她的丈夫钱小松是北京朝阳医院泌尿外科的医生。@北京日报​​​​</td>
+    <td class="xl65" x:str>1283</td>
+    <td class="xl65" x:str>颜值好高啊！</td>
+    <td class="xl65" x:str>善良暖心的医生夫妇颜值也超级高啊</td>
+    <td class="xl65" x:str>真的是郎才女貌</td>
+    <td class="xl65" x:str>郎才女貌，医者仁心</td>
+    <td class="xl65" x:str>颜值好高，心灵也美，人也优秀</td>
+    <td class="xl65" x:str>郎才女貌</td>
+    <td class="xl65" x:str>全民普及急救知识不是每一次都能恰好遇到医生护士完善施救保障体系建设不是每一次救人都能成为佳话</td>
+    <td class="xl65" x:str>好人一生平安</td>
+    <td class="xl65" x:str>人美心善</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>给他们点赞</td>
+    <td class="xl65" x:str>为这样的医生点赞，也希望多传播一些医生的正能量</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人齐秋柱张爱玲夫妇设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮忙顶一下</td>
+    <td class="xl65" x:str>点赞</td>
+    <td class="xl65" x:str>突然冒出来八个字！郎才女貌！天作之合！</td>
+    <td class="xl65" x:str>真好！</td>
+    <td class="xl65" x:str>人美心善</td>
+    <td class="xl65" x:str>人美心善是真的！</td>
+    <td class="xl65" x:str>人美心更美！</td>
+    <td class="xl65" x:str>建议学校里也教教孩子</td>
+    <td class="xl65" x:str>为你们点赞</td>
+    <td class="xl65" x:str>愿好人一生平安</td>
+    <td class="xl65" x:str>每一个人看到你们的行为都会发自内心的敬佩你们。时时刻刻都没有忘记自己是一名医者，你们读懂了作为一名医者的精髓，时时刻刻都在想把这种精神发扬下去。谢谢你们了祝你们永远幸福快乐</td>
+    <td class="xl65" x:str>人善心美</td>
+    <td class="xl65" x:str>给白衣天使点赞</td>
+    <td class="xl65" x:str>点赞！</td>
+    <td class="xl65" x:str>他们一定是最美的白衣天使</td>
+    <td class="xl65" x:str>为医者仁心的小两口点赞！我爸妈也都是医生，大部分医务工作者都是非常善良并怀有济世之心的，辛苦了</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人齐秋柱张爱玲夫妇设陷以无果之后，，我始终坚信，星星之火可以燎原</td>
+    <td class="xl65" x:str>老人，心肺复苏。希望这次不会再出现被告的情况了，不然真的再没人敢施以援手了</td>
+    <td class="xl65" x:str>医生值得点赞，但是也要注意，现在的这种气候，有心脑血管方面问题的老人，尽量不要自己在外过久停留，天寒很容易突发累死情况</td>
+    <td class="xl65" x:str>白衣天使呀</td>
+    <td class="xl65" x:str>为我们善良暖心的白衣天使点一万个赞，要是高以翔录制节目现场也有这样好的医生在现场那该多好。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>【为他们点赞！】11日早晨，天安门广场上，一位老人突然倒地，陪家人看升旗仪式的一对医生夫妻连忙上前施救，轮流为老人进行心肺复苏，直到救护车赶到。施救的田夏秋是北京安贞医院心外危重症中心的医生，她的丈夫钱小松是北京朝阳医院泌尿外科的医生。</td>
+    <td class="xl65" x:str>郎才女貌</td>
+    <td class="xl65" x:str>郎才女貌医者仁心</td>
+    <td class="xl65" x:str>为他们点赞</td>
+    <td class="xl65" x:str>哇塞塞，好漂亮的姐姐</td>
+    <td class="xl65" x:str>医者仁心！</td>
+    <td class="xl65" x:str>真的是相由心生、天生一对、郎才女貌、祝福你们永远幸福…</td>
+    <td class="xl65" x:str>人美心善！</td>
+    <td class="xl65" x:str>心善人美。</td>
+    <td class="xl65" x:str>太赞了！！</td>
+    <td class="xl65" x:str>郎才女貌，善良温暖，</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>人美心更美</td>
+    <td class="xl65" x:str>赞</td>
+    <td class="xl65" x:str>这什么爱情！！？？？  我</td>
+    <td class="xl65" x:str>倒地老人的家属没有刀吧！</td>
+    <td class="xl65" x:str>图4神仙颜值</td>
+    <td class="xl65" x:str>真好</td>
+    <td class="xl65" x:str>医者仁心。</td>
+    <td class="xl65" x:str>长得跟偶像剧一样</td>
+    <td class="xl65" x:str>两个医生能凑到时间一起看升旗也是不容易</td>
+    <td class="xl65" x:str>年轻又漂亮的一对白衣天使</td>
+    <td class="xl65" x:str>郎才女貌啊</td>
+    <td class="xl65" x:str>每次看到心肺复苏就想到高，善良的人，好人一生平安</td>
+    <td class="xl65" x:str>国旗下的最美救援点赞</td>
+    <td class="xl65" x:str>郎才女貌啊！</td>
+    <td class="xl65" x:str>真好</td>
+    <td class="xl65" x:str>庆幸</td>
+    <td class="xl65" x:str>优秀颜值高</td>
+    <td class="xl65" x:str>好漂亮，有恋爱的感觉</td>
+    <td class="xl65" x:str>我们的社会，我们的年轻人</td>
+    <td class="xl65" x:str>善良的白衣天使</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>善良的人颜值都高</td>
+    <td class="xl65" x:str>人美心更美。</td>
+    <td class="xl65" x:str>颜值好高啊，郎才女貌呐</td>
+    <td class="xl65" x:str>好棒</td>
+    <td class="xl65" x:str>白衣天使</td>
+    <td class="xl65" x:str>人美心善，还颜值这么高，完美完美</td>
+    <td class="xl65" x:str>人美心善</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>好人一生平安</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>棒</td>
+    <td class="xl65" x:str>医者仁心</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>点赞</td>
+    <td class="xl65" x:str>人间自有真情在因为有了你们，这个冬天一点也不冷</td>
+    <td class="xl66" colspan="6" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【这奔跑的身影让人泪目！#民警举盾牌冲进滚石区救人#】1月9日，西藏林芝，受持续雨雪天气影响，滇藏新通道大流沙区域出现大面积滑坡。一辆面包车通过此路段时，不幸被飞石砸中，车上7人被困。3名警察用盾牌为掩体逆行冲进滚石区，成功解救被困群众。L中青网新闻中心的秒拍视频​​​​</td>
+    <td class="xl65" x:str>960</td>
+    <td class="xl65" x:str>救人也不要忘了保护自己啊</td>
+    <td class="xl65" x:str>致敬人民警察</td>
+    <td class="xl65" x:str>感动，民警不畏艰辛，给力</td>
+    <td class="xl65" x:str>在冲锋  救人的这件事情上  他们从来没有犹豫过</td>
+    <td class="xl65" x:str>致敬，辛苦的人民警察</td>
+    <td class="xl65" x:str>在訓練警校是沒有指引教導這類情況怎去處理，但是他們人急生智，冒險去作出救援，這確實是勇敢的表現！感謝上天保佑大家都能平安感謝你們冒上生命危險的英勇行為</td>
+    <td class="xl65" x:str>哪里有什么岁月静好，还不是有人在替我们负重前行。世界因你们而更加美丽，向中国人民警察致敬</td>
+    <td class="xl65" x:str>最美的逆行者！泪目</td>
+    <td class="xl65" x:str>致敬人民警察</td>
+    <td class="xl65" x:str>太感动了哪有什么岁月静好只因有了你们我们才能如此安逸的生活</td>
+    <td class="xl65" x:str>致敬！！感谢人民警察，辛苦</td>
+    <td class="xl65" x:str>所有的逆行都值得致敬，愿每一位逆行英雄都平安喜乐</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人齐秋柱张爱玲夫妇设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮忙顶一下</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人齐秋柱张爱玲夫妇设陷以无果之后，，我始终坚信星星之火可以燎原，麻烦帮忙顶一下</td>
+    <td class="xl65" x:str>感动，民警不畏艰辛，给力大家点点赞</td>
+    <td class="xl65" x:str>致敬人民警察。辛苦了，也请保护好自己，注意安全。</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>心疼，致敬我们的英雄！</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>感动，感觉受到了激励</td>
+    <td class="xl65" x:str>致敬！那些那些逆流而上的人们。</td>
+    <td class="xl65" x:str>哎，也是不惧危险救别人，真的是赌命</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>自己也要注意安全</td>
+    <td class="xl65" x:str>辛苦了</td>
+    <td class="xl65" x:str>感谢你们在背后负重前行</td>
+    <td class="xl65" x:str>冲在最前面是我们最可爱的人！向你们致敬！</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>中国的警察跟外国的警察不像一种职业</td>
+    <td class="xl65" x:str>人民的英雄</td>
+    <td class="xl65" x:str>感动</td>
+    <td class="xl65" x:str>太敬佩了！！！</td>
+    <td class="xl65" x:str>用生命守护国家和人民！</td>
+    <td class="xl65" x:str>所以为什么英雄救美的桥段被用到烂，任何一个人看着那个不畏风雨为你狂奔而来的身影，都会想着私定终身吧</td>
+    <td class="xl65" x:str>生命每个人都只有一次，但是你们比我们多了使命</td>
+    <td class="xl65" x:str>职责所在，致敬战友们</td>
+    <td class="xl65" x:str>人民有危难之际，警察总是出现在那里</td>
+    <td class="xl65" x:str>真心英雄</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>感谢你们用生命去守护！</td>
+    <td class="xl65" x:str>救人一定要保护好自己，这样才能救更多的人</td>
+    <td class="xl65" x:str>小伙伴们请放心，你们的关心，民警已经收到。中国移民管理警察，永远为人民安危奔跑。</td>
+    <td class="xl65" x:str>向最美逆行者、新时代移民警察致敬！向林芝边境管理支队致敬！！</td>
+    <td class="xl65" x:str>最美逆行者，向新时代移民警察致敬！向林芝边境管理支队致敬！</td>
+    <td class="xl65" x:str>警察也应该轮岗，太辛苦了，适当放松一下享受一下生活</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>这才是真正的高危职业，注意安全，每一次任务都要平安归队</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>致敬！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>太危险了</td>
+    <td class="xl65" x:str>致敬人民警察</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>致敬人民警察</td>
+    <td class="xl65" x:str>致敬！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>向人民警察致敬</td>
+    <td class="xl65" x:str>天呐！向伟大的民警致敬！</td>
+    <td class="xl65" x:str>勇士</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>致敬！</td>
+    <td class="xl65" x:str>致敬人民警察</td>
+    <td class="xl65" x:str>保卫人民注意安全，希望他们平安致敬人民警察</td>
+    <td class="xl65" x:str>林芝边境管理支队！</td>
+    <td class="xl65" x:str>我要他们一生平安！</td>
+    <td class="xl65" x:str>致敬人民警察</td>
+    <td class="xl65" x:str>你无意落险，他冒死相救。</td>
+    <td class="xl65" x:str>泪目</td>
+    <td class="xl65" x:str>【这奔跑的身影让人泪目！】</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>致敬！警察蜀黍</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>呼唤升级装备，配直升机</td>
+    <td class="xl65" x:str>辛苦</td>
+    <td class="xl65" x:str>每次看到都泪奔</td>
+    <td class="xl65" x:str>都平平安安的</td>
+    <td class="xl65" x:str>感动</td>
+    <td class="xl65" x:str>保护好自己，加油</td>
+    <td class="xl65" x:str>尊敬</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl66" colspan="7" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="208" style='height:104.00pt;'>
+    <td class="xl65" height="208" style='height:104.00pt;' x:str>【崔愷院士：#中国建筑里家的味道#】春节中国人都要回家，那什么是中国人的家？中国工程院院士崔愷表示，中国传统的大家庭，既是严谨宗族文化的体现，又是促进人们加强情感的空间模式。人民日报客户端即将推出《家在中国》纪录片第一季，精彩片段抢先看↓↓#家在中国#，你家乡有什么特色建筑？   ​​​​...展开全文c</td>
+    <td class="xl65" x:str>401</td>
+    <td class="xl65" x:str>土楼牌面，希望大家有机会来福建土楼看看</td>
+    <td class="xl65" x:str>福建土楼</td>
+    <td class="xl65" x:str>家在中国</td>
+    <td class="xl65" x:str>四合院</td>
+    <td class="xl65" x:str>我们福建的土楼，欢迎全世界各地全中国的朋友来旅游。</td>
+    <td class="xl65" x:str>还有长春的火车站就不多说了</td>
+    <td class="xl65" x:str>过年不想回家</td>
+    <td class="xl65" x:str>家，是幸福的的港湾</td>
+    <td class="xl65" x:str>我们长春的净月潭鸭</td>
+    <td class="xl65" x:str>古色古香客家围龙屋</td>
+    <td class="xl65" x:str>古色古香围龙屋</td>
+    <td class="xl65" x:str>台山「骑楼」＆「碉楼」</td>
+    <td class="xl65" x:str>房子半边盖，面条像裤带</td>
+    <td class="xl65" x:str>太喜欢了，好漂亮啊啊啊</td>
+    <td class="xl65" x:str>永定土楼欢迎大家!</td>
+    <td class="xl65" x:str>哇</td>
+    <td class="xl65" x:str>随着社会越来越发达，在城市里所谓的传统大家庭基本已经渐渐消失了，短短几天年假所以一堆人挤着那几天回家然后又是那几天回城，也就是所谓的春运。禁止燃放烟花爆竹也少了三分之一的年味，回去就聚聚餐大吃大喝几天，其实也没什么意思了。</td>
+    <td class="xl65" x:str>家有大家有小家，就算陌生人，如果你伸出温暖的手，也能让异国他乡的人感觉到家的温暖</td>
+    <td class="xl65" x:str>我的家温暖快乐！</td>
+    <td class="xl65" x:str>客家围屋</td>
+    <td class="xl65" x:str>想回家</td>
+    <td class="xl65" x:str>这个好</td>
+    <td class="xl65" x:str>酷</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>家的味道</td>
+    <td class="xl65" x:str>妈的让我想起了前女友她家福建长汀的</td>
+    <td class="xl65" x:str>美</td>
+    <td class="xl65" x:str>家在中国，我自豪</td>
+    <td class="xl65" x:str>客家围龙屋</td>
+    <td class="xl65" x:str>我家乡的特色和特产就是特别穷</td>
+    <td class="xl65" x:str>山清水秀</td>
+    <td class="xl65" x:str>好美！</td>
+    <td class="xl65" x:str>我的家乡都是山⛰️风景好空气新鲜</td>
+    <td class="xl65" x:str>福建土楼</td>
+    <td class="xl65" x:str>是我们土楼耶</td>
+    <td class="xl65" x:str>有点儿好看</td>
+    <td class="xl65" x:str>有趣</td>
+    <td class="xl65" x:str>家才是最美的风景</td>
+    <td class="xl65" x:str>古厝</td>
+    <td class="xl65" x:str>争你的自由，就是争这个国家的自由！争你的权利，就是争这个国家的权利！因为一个恒久自由、光明、幸福、快乐、成功与伟大的国家，不可能是由一群冥顽蠢钝的奴隶与卑贱自堕的奴才们能够建设得起来的</td>
+    <td class="xl65" x:str>徽派角楼和牌坊</td>
+    <td class="xl65" x:str>又来，还让不让人安心上班了</td>
+    <td class="xl65" x:str>如果有机会一定去看看</td>
+    <td class="xl65" x:str>古建筑中有家的味道，需要保护。</td>
+    <td class="xl65" x:str>贵州的吊脚楼，木板房。</td>
+    <td class="xl65" x:str>三房一照壁，四合五天井</td>
+    <td class="xl65" x:str>崔愷院士</td>
+    <td class="xl65" x:str>❤️</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>家在中国</td>
+    <td class="xl65" x:str>宁夏的沙坡头，烤全羊也可吖欢迎大家来宁夏</td>
+    <td class="xl65" x:str>好有特色。</td>
+    <td class="xl65" x:str>客家人的围龙屋土楼</td>
+    <td class="xl65" x:str>家在中国</td>
+    <td class="xl65" x:str>客家土楼棒！</td>
+    <td class="xl65" x:str>我们福建的土楼</td>
+    <td class="xl65" x:str>//:春节中国人都要回家，那什么是中国人的家？</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>这建设有点眼熟啊</td>
+    <td class="xl65" x:str>中国，我们最大的家</td>
+    <td class="xl65" x:str>早</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>我的家乡山城</td>
+    <td class="xl65" x:str>有家的地方就有温暖</td>
+    <td class="xl65" x:str>家的味道，中国人的情怀。建筑师要有创作，而不是简单抄袭</td>
+    <td class="xl65" x:str>家，最有吸引力的字眼</td>
+    <td class="xl65" x:str>福建土楼</td>
+    <td class="xl65" x:str>家的味道</td>
+    <td class="xl65" x:str>我记得《功夫》拍摄是这样的环境…</td>
+    <td class="xl65" x:str>家在中国</td>
+    <td class="xl65" x:str>转发就给土楼排面关于民居，我倒是一直对老师讲的张谷英村印象深刻</td>
+    <td class="xl65" x:str>我17年买的《福建民居》现在还没看</td>
+    <td class="xl65" x:str>默默的爱渐渐维持</td>
+    <td class="xl65" x:str>//:春节中国人都要回家，那什么是中国人的家？</td>
+    <td class="xl65" x:str>春节中国人都要回家，那什么是中国人的家？</td>
+    <td class="xl65" x:str>收藏期待播出</td>
+    <td class="xl65" x:str>你家乡有什么特色建筑吗？</td>
+    <td class="xl65" x:str>家在中国</td>
+    <td class="xl65" x:str>去过</td>
+    <td class="xl65" x:str>人民日报客户端即将推出《家在中国》纪录片第一季，精彩片段抢先看//:春节中国人都要回家，那什么是中国人的家？</td>
+    <td class="xl65" x:str>客家围屋</td>
+    <td class="xl65" x:str>【崔愷院士】春节中国人都要回家，那什么是中国人的家？中国工程院院士崔愷表示，中国传统的大家庭，既是严谨宗族文化的体现，又是促进人们加强情感的空间模式。</td>
+    <td class="xl65" x:str>土楼，有幸去过一次</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>语文课代表来啦~崔愷，愷音同“凯”，意思是快乐，和乐</td>
+    <td class="xl65" x:str>过年温暖的小窝</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="208" style='height:104.00pt;'>
+    <td class="xl65" height="208" style='height:104.00pt;' x:str>【#张志超涉强奸杀人案再审获无罪#：已入狱13年】2006年3月6日，16岁的张志超被山东省临沂市中级人民法院以强奸罪判处无期徒刑。入狱13年后，经过再审，山东省高级人民法院宣判张志超无罪。      2005年1月10日，山东省临沭县第二中学分校一名女生突然失踪。一个月后，2月11日14时04分，该校一名老师​​​​...展开全文c</td>
+    <td class="xl65" x:str>2035</td>
+    <td class="xl65" x:str>十三年的青春啊……出来后社会都变了</td>
+    <td class="xl65" x:str>申请国家赔偿</td>
+    <td class="xl65" x:str>所以真相是谁害死了女生？</td>
+    <td class="xl65" x:str>迟到的正义毫无意义</td>
+    <td class="xl65" x:str>一个以奸杀罪名在监狱度过十四年的罪犯，这是一般人无法想象得到的苦和难。正义也许会迟到，但永远不会缺席！</td>
+    <td class="xl65" x:str>还有多少个13年</td>
+    <td class="xl65" x:str>我想问下真凶哪去了？乱抓人堵枪眼？</td>
+    <td class="xl65" x:str>16岁的话应该还未成年，为什么那个时候未成年就可以判无期徒刑？</td>
+    <td class="xl65" x:str>还是那句话，既然已经无罪了，那就要说道说道之后的事了，谁该为他的冤屈负责？国家赔偿？能赔多少？他的这辈子又该谁来负责？又有多少渎职的人在里面？当年是否存在刑讯逼供？真正的罪犯在哪？中国的法律，中国的环境，中国的特色社会主义道路任重道远啊</td>
+    <td class="xl65" x:str>执法者应该反思，确保此类事件不再发生</td>
+    <td class="xl65" x:str>？？那凶手到底是谁？？</td>
+    <td class="xl65" x:str>有证词，那证据呢</td>
+    <td class="xl65" x:str>很难说这样迟到的正义有没有意义，但是，我想对于当事人而言，还是有意义的，他以后的人生再怎么样也不会比在监狱里过得差了</td>
+    <td class="xl65" x:str>人的一辈子能有几个十三年？16岁多好的青春出来后脱节社会，别人不会在乎你是否无辜是否冤枉，只会对你怀疑恐惧远离要承受别人异样的目光，这一切谁来负责？真凶找到了吗？是否对该男生有补偿？</td>
+    <td class="xl65" x:str>真凶呢？当面做证的应该抓起来吧</td>
+    <td class="xl65" x:str>？人生最美好的13年</td>
+    <td class="xl65" x:str>？？？冤案？？</td>
+    <td class="xl65" x:str>13年的人生谁来赔偿？</td>
+    <td class="xl65" x:str>人家的大好青春</td>
+    <td class="xl65" x:str>zzc?</td>
+    <td class="xl65" x:str>？？？？？？？</td>
+    <td class="xl65" x:str>？？？</td>
+    <td class="xl65" x:str>当年刑讯逼供非法办案，对存在明显证据视若无睹，甚至明显在制造假证据造成冤假错案的办案人员，必须从严处理！希望国家和山东法院能尽快给全国人民一个交代！公开透明，让我们对自己不会有一天也被刑讯逼供含冤入狱有信心。</td>
+    <td class="xl65" x:str>所以，当年作证的人，说的是真话么？</td>
+    <td class="xl65" x:str>太可悲</td>
+    <td class="xl65" x:str>又出政绩了，两会又有说的了！</td>
+    <td class="xl65" x:str>我始终觉得这句“正义也许会迟到，但绝不会缺席”就是在给司法机关冠冕堂皇办错案的保护伞，如果没有铁证，怎么能就判一个未成年人无期徒刑？当年的公安局检察院法院的相关所有人员都应该被惩处</td>
+    <td class="xl65" x:str>冤假错案毁了人家一生！多少赔偿也无法弥补！执法人员的工作千万别儿戏！一个不负责任的判决不仅会诋毁法律的尊严，也会污辱作为执法者的良心！执法者的小错误有可能会毁掉一个无辜者的人生！</td>
+    <td class="xl65" x:str>青春和名誉都没了</td>
+    <td class="xl65" x:str>我们这里的，希望严查公安系统，保护伞太严重，平民百姓无处申冤，如果当初不刑讯逼供，何至于蹲十几年牢狱，现在尚且如此，更何况十几年前。如果有媒体能来，我们这里肯定会有一大批人跪求伸冤</td>
+    <td class="xl65" x:str>唉13年大好青春大好年华呀被活生生毁掉了想想那个男孩子当时是怎样的痛苦呀……</td>
+    <td class="xl65" x:str>一个男生最好打拼的时间都在里面待着了</td>
+    <td class="xl65" x:str>那两个提供证词的和那群老师都有嫌疑</td>
+    <td class="xl65" x:str>我有一个问题，对于这些冤假错案，重新判决了以后会不会追究之前办案人员的责任？</td>
+    <td class="xl65" x:str>人的一生只有一次谁能赔偿  手握生杀大权的人能够尽职尽责吗</td>
+    <td class="xl65" x:str>国家赔偿是必须的，虽然花的是纳税人的钱，后面的严厉追责才是我们更关心的</td>
+    <td class="xl65" x:str>迟来的正义，好歹是来了</td>
+    <td class="xl65" x:str>迟来的正义毁了一个人</td>
+    <td class="xl65" x:str>赔偿多少</td>
+    <td class="xl65" x:str>呃……13年，一个人的青春啊，国家都是飞速发展的</td>
+    <td class="xl65" x:str>一个以奸杀罪名在监狱度过十四年的罪犯，这是一般人无法想象得到的苦和难……</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人齐秋柱张爱玲夫妇设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮忙顶一下。</td>
+    <td class="xl65" x:str>花有重开日，人无再少年。迟来的正义，毁掉的过去。</td>
+    <td class="xl65" x:str>青春年华里只有一个13年</td>
+    <td class="xl65" x:str>当初办案的人是真的草率。随随便便对一个人的生命生杀予夺，巨大的权利背后是巨大的渎职</td>
+    <td class="xl65" x:str>可怕，那真正的杀人凶手不是一直没找到，当初那2个指证的学生是不是有问题呢</td>
+    <td class="xl65" x:str>一辈子毁了</td>
+    <td class="xl65" x:str>当年参与刑讯逼供的所有人，一个一个找到他们！</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人齐秋柱张爱玲夫妇设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮忙顶一下。</td>
+    <td class="xl65" x:str>关/注河北沧州人大代表造假，质监局保护，超百亿假冒伪劣通信器材流入中/国通信行业长达数年的被封口事件，任丘市伟阔通信器材有限公司相关人齐秋柱张爱玲夫妇设陷以无果之后，，我始终坚信，星星之火可以燎原，麻烦帮忙顶一下。</td>
+    <td class="xl65" x:str>有补偿吗？13年的青春啊</td>
+    <td class="xl65" x:str>那杨某和王某……</td>
+    <td class="xl65" x:str>16岁13年。。。这就奔3了，青春记忆只到16岁。。。</td>
+    <td class="xl65" x:str>那真凶是谁呢？？有人替他入狱13年，他在外边逍遥法外？</td>
+    <td class="xl65" x:str>那真正的凶手是谁？</td>
+    <td class="xl65" x:str>？？？无罪？</td>
+    <td class="xl65" x:str>这孩子的前途就被无辜葬送了，谁来赔</td>
+    <td class="xl65" x:str>逝去的青春无法弥补，未来的日子还长，但是该负责的人不能放过</td>
+    <td class="xl65" x:str>他说当年刑警们刑讯逼供，那几刑讯逼供的警察可以判无期吗？死刑也可。太tm无耻。你们毁了别人的一生知道吗！</td>
+    <td class="xl65" x:str>证据都没有就关13年</td>
+    <td class="xl65" x:str>高一杨某和王某倒是有作案可能，案后诬陷别人</td>
+    <td class="xl65" x:str>如果他不是凶手，真的太冤太冤了！</td>
+    <td class="xl65" x:str>其实这个对受害人本人是极其矛盾的心理，他现在可能会觉得13年呀，蹲在一个大牢里与世隔绝，他美好的青春却换来了与社会脱节。现在突然告诉他，那是tmd判错了，你会不会心中愤愤不平…但他又是幸运的，因为经过13年，能够让他平反出去，而不是冤枉一辈子。</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>16岁犯强奸罪就判无期？？？</td>
+    <td class="xl65" x:str>他出狱了到父亲坟前读自己无罪的判决书</td>
+    <td class="xl65" x:str>一辈子</td>
+    <td class="xl65" x:str>人生最美的十三年。。。為什麽會有這樣的迷惑操作？？？巨大的權力背後眞的是巨大渎职。眞凶又是誰？？？</td>
+    <td class="xl65" x:str>案件的反转，见证着我国法治的进步，也见证了一位母亲坚定不移的执着和付出。为了这一天，他的母亲和律师进行了近9年的努力，坚持为他翻案的法律人，应该受到全社会的尊敬。</td>
+    <td class="xl65" x:str>我在另一条看到的，说有个同学为他提供无罪证词，还被判了包庇罪徒刑三年</td>
+    <td class="xl65" x:str>大好的时光就这样被耗掉了～人生还有多少个13年.试问当初的审判官要如何赔偿弥补当事人的大好青春~13年后的物是人非.</td>
+    <td class="xl65" x:str>一个人有多少个13年！！！！</td>
+    <td class="xl65" x:str>我想知道为啥王某要做这个证！！！为什么！！！诬陷别人很好玩吗！有仇吗？！！！当时警方为什么直接相信了，取证什么的现在才出来取证啊！！！当时干啥了</td>
+    <td class="xl65" x:str>所以真相呢？</td>
+    <td class="xl65" x:str>重点是这杨某和王某的证词从哪来，为什么会有这个证词，谁指使的，目的是什么，这可能是现在唯一的线索了，还有当时的主要办案人员。</td>
+    <td class="xl65" x:str>就凭两个人的证词就判刑了？当年的公检法人员出来挨打</td>
+    <td class="xl65" x:str>这么多年还能翻案难度可想而知。</td>
+    <td class="xl65" x:str>现在强奸的会判无期吗？</td>
+    <td class="xl66" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="208" style='height:104.00pt;'>
+    <td class="xl65" height="208" style='height:104.00pt;' x:str>【转发提醒！#量子+生活产品几乎都是骗人的#】从“量子波动速读”，到各类“量子商品”：量子水、量子项链、量子烟盒、量子眼镜、量子车膜、量子手机贴，以及资本市场打着量子旗号的骗局…专家指出，量子技术暂时还没与日用品扯上关系，所谓“量子+生活”产品几乎都是骗人的。O警惕！“量子＋生活”产品，几乎都是骗人的​​​​</td>
+    <td class="xl65" x:str>771</td>
+    <td class="xl65" x:str>遇事不决，量子力学</td>
+    <td class="xl65" x:str>这是典型智商税</td>
+    <td class="xl65" x:str>我至今忘不了那个什么量子速读。。。。</td>
+    <td class="xl65" x:str>遇事不决，量子力学</td>
+    <td class="xl65" x:str>纳米火完，量子继续</td>
+    <td class="xl65" x:str>嗯咯，说的越高级越厉害，吃了文化亏</td>
+    <td class="xl65" x:str>量子二踢脚</td>
+    <td class="xl65" x:str>量子技术暂时还没与日用品扯上关系，所谓“量子+生活”产品几乎都是骗人的！！！</td>
+    <td class="xl65" x:str>考试之前量子阅读法</td>
+    <td class="xl65" x:str>遇事不决，量子力学</td>
+    <td class="xl65" x:str>难怪我考试前量子波动速读结果还是挂了</td>
+    <td class="xl65" x:str>【转发提醒！】从“量子波动速读”，到各类“量子商品”量子水、量子项链、量子烟盒、量子眼镜、量子车膜、量子手机贴，以及资本市场打着量子旗号的骗局…专家指出，量子技术暂时还没与日用品扯上关系，所谓“量子+生活”产品几乎都是骗人的。</td>
+    <td class="xl65" x:str>量子是啥玩意，搞不懂的词语弄出来听着就高档，好多忽悠人的都这样</td>
+    <td class="xl65" x:str>那么请问该怎么让长辈们看到这个消息或者让这个消息火遍朋友圈</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>磁化水呢？</td>
+    <td class="xl65" x:str>遇事不决，量子力学</td>
+    <td class="xl65" x:str>量子速读</td>
+    <td class="xl65" x:str>。。。</td>
+    <td class="xl65" x:str>祝福博主的微博越做越好·粉丝越来越多。</td>
+    <td class="xl65" x:str>早</td>
+    <td class="xl65" x:str>假的真不了</td>
+    <td class="xl65" x:str>我也不知道那些那孩子送去学量子速读的家长们，年轻的时候也这么傻吗</td>
+    <td class="xl65" x:str>我见过一个人看的书叫《量子佛学》</td>
+    <td class="xl65" x:str>忽悠……都是忽悠！</td>
+    <td class="xl65" x:str>都是搞一堆神奇的东西让你相信</td>
+    <td class="xl65" x:str>梦回里的量子纠缠</td>
+    <td class="xl65" x:str>朋友圈还有什么水离子</td>
+    <td class="xl65" x:str>三趟换成地铁</td>
+    <td class="xl65" x:str>波动速度，波动挺。</td>
+    <td class="xl65" x:str>“量子”就是智商鉴定器</td>
+    <td class="xl65" x:str>智商税</td>
+    <td class="xl65" x:str>收到</td>
+    <td class="xl65" x:str>凡是说得越高级绕得你听不懂的，十之八九骗人，特别是贴进生活方面的</td>
+    <td class="xl65" x:str>转一个</td>
+    <td class="xl65" x:str>我妈上次买了个量子内裤</td>
+    <td class="xl65" x:str>“几乎都是”这不是病句吗？？？</td>
+    <td class="xl65" x:str>麻烦人民日报调查一下速马力燃油催化器，又一量子黑科技，用过的都说好！！</td>
+    <td class="xl65" x:str>别被骗了</td>
+    <td class="xl65" x:str>别被骗了</td>
+    <td class="xl65" x:str>争你的自由，就是争这个国家的自由！争你的权利，就是争这个国家的权利！因为一个恒久自由、光明、幸福、快乐、成功与伟大的国家，不可能是由一群冥顽蠢钝的奴隶与卑贱自堕的奴才们能够建设得起来的。</td>
+    <td class="xl65" x:str>还有远红外和负离子呢？&quot;负离子&quot;产品常见，&quot;远红外&quot;的理疗和膏药也有。有效果吗</td>
+    <td class="xl65" x:str>几乎？那有什么是真的？</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>怎么办？作为一个医生，我却没有办法说服自己的老公他的观点是，你们现在的医学认证不到别人的功效不代表别人不对不知道这个人的智商怎么这么低</td>
+    <td class="xl65" x:str>人一旦迷信某一科技，就会有人用此科技做噱头发广告，骗人捞黑钱，就像某些知名保健品一样。</td>
+    <td class="xl65" x:str>那就奇怪了，那养和水机和量子调频仪，假的？那效果也是假的？人的肉眼也是假的？瞎的？</td>
+    <td class="xl65" x:str>想起各种纳米产品</td>
+    <td class="xl65" x:str>转一个</td>
+    <td class="xl65" x:str>还好我不知道</td>
+    <td class="xl65" x:str>真的要有自己的判断不能啥都信</td>
+    <td class="xl65" x:str>让信的人都看看</td>
+    <td class="xl65" x:str>收到</td>
+    <td class="xl65" x:str>被量子手机贴膜骗了，后面手机屏都花了</td>
+    <td class="xl65" x:str>提高警惕</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>骗子太多了</td>
+    <td class="xl65" x:str>量子生活产品几乎都是骗人的，大家不要上当呀</td>
+    <td class="xl65" x:str>量子波动阅读hhhh</td>
+    <td class="xl65" x:str>提高警惕，以防被骗</td>
+    <td class="xl65" x:str>智商检测器</td>
+    <td class="xl65" x:str>哈哈哈哈哈哈哈</td>
+    <td class="xl65" x:str>自信点，把几乎去掉。</td>
+    <td class="xl65" x:str>智商税</td>
+    <td class="xl65" x:str>遇事不决……</td>
+    <td class="xl65" x:str>我其实没听过</td>
+    <td class="xl65" x:str>这不就是智商税  拿文化概念忽悠消费者</td>
+    <td class="xl65" x:str>骗子套路层出不穷，主要还是老妈们太好骗</td>
+    <td class="xl65" x:str>量子技术暂时还没与日用品扯上关系，所谓“量子+生活”产品几乎都是骗人的。</td>
+    <td class="xl65" x:str>收到！</td>
+    <td class="xl65" x:str>学到了</td>
+    <td class="xl65" x:str>知道了，这是智商税！</td>
+    <td class="xl65" x:str>纳米火完，量子继续</td>
+    <td class="xl65" x:str>感谢人民日报科普！量子的技术还没应用那么广，大家不要受骗了哈！</td>
+    <td class="xl65" x:str>谁都骗不走我的钱</td>
+    <td class="xl65" x:str>典型的卖概念</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>  你要是把这个往朋友圈一转发张峰就把你拉黑了</td>
+    <td class="xl65" x:str>不是几乎吧！全部都是了</td>
+    <td class="xl65" x:str>噱头</td>
+    <td class="xl65" x:str>遇事不决……</td>
+    <td class="xl65" x:str>量子st</td>
+    <td class="xl65" x:str>遇事不决，量子力学</td>
+    <td class="xl66" colspan="6" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【#女孩患罕见病ICU里生活11年#，父亲用这样的方式为她“借”来一缕阳光】从20岁到31岁，广东女孩郑宇宁因患罕见的庞贝病，在ICU病房里度过了11年。医生叮嘱宇宁多晒太阳可以减少感染几率。但以宇宁的身体状况，已不允许她下楼晒太阳。于是，父亲制作了一面反光镜，#父亲用镜子让女儿晒太阳#…​​​​...展开全文c</td>
+    <td class="xl65" x:str>1810</td>
+    <td class="xl65" x:str>完全看不出31了像个十六七的少女脸上肉眼可见的天真像荆棘城堡里的睡美人一样时间的流逝没有给她刻上痕迹</td>
+    <td class="xl65" x:str>……我天啊天下网友手真的长到这个地步了吗？？我就觉得父爱真的好伟大啊结果评论阴暗到什么样子</td>
+    <td class="xl65" x:str>父爱伟大</td>
+    <td class="xl65" x:str>看了好心疼，心疼女儿，更心疼这个爸爸</td>
+    <td class="xl65" x:str>不管怎样酸，人家家里是否有钱是人家的事，钱也不是大风吹来的，得病了就是可怜，就是不幸。要是没有金钱的维持她早就不行了。真希望人间疾苦少一点，多一点甜。</td>
+    <td class="xl65" x:str>希望这个美丽的女孩能恢复健康，看到阳光照在她身上，真的好美的一个生命！有这样一个爱她的父亲，父爱真伟大！加油！美丽的女孩！</td>
+    <td class="xl65" x:str>我在医院住院超过一个星期都崩溃差点疯掉，难以想象11年怎么待的住？</td>
+    <td class="xl65" x:str>那束光打在脸上的时候，充满的真是无尽的爱和希望。</td>
+    <td class="xl65" x:str>评论怎么回事，你以为人家想住ICU吗，真的是脑子稀奇！</td>
+    <td class="xl65" x:str>11年多少费用啊。不容易。</td>
+    <td class="xl65" x:str>我居然看到有人说这个小女孩不可怜，因为有钱，他自己才比较惨，吃不饱穿不暖，把自己又懒又废说的这么清醒脱俗</td>
+    <td class="xl65" x:str>别总说什么钱不钱的，父爱的伟大、对女儿的爱才是重点好吗</td>
+    <td class="xl65" x:str>我第一反应是，真有钱…</td>
+    <td class="xl65" x:str>我在icu里住了11天，花了15w多，11年，可怜天下父母心啊</td>
+    <td class="xl65" x:str>icu住11年，这家什么背景？起码得地市级首富吧</td>
+    <td class="xl65" x:str>说她家里有经济实力支撑十一年ICU，那帮人就开始跳脚说别人脑子里全是钱啊，或者说他们酸，不是那些人臆测的吗，满嘴爱心实际上做的事情也不见得爱心到哪儿去。还是希望小姑娘能治好//:只是议论了一个医疗费用而已，十一年累计起来的确很高了。钱没什么不能说的，不必像猫踩了尾巴似的跳起来。</td>
+    <td class="xl65" x:str>视频里面并没有说人家多有钱多富有啊，谁愿意住icu一住十几年，人家也是变卖家产呢，也许东拼西凑呢，就算人家有钱，关你屁事，你们应该做的不是希望这个女孩早日康复，感慨父爱的伟大吗？</td>
+    <td class="xl65" x:str>只想知道icu的费用是怎么承受的</td>
+    <td class="xl65" x:str>回复的表态:群号多少，我想进群</td>
+    <td class="xl65" x:str>生活可以不快乐但一定要健康啊</td>
+    <td class="xl65" x:str>是一个美丽的女孩，祝早日康复。</td>
+    <td class="xl65" x:str>祝愿早日好起来</td>
+    <td class="xl65" x:str>看到女儿笑了，父亲沧桑的脸上洋溢着满足的微笑！</td>
+    <td class="xl65" x:str>只能说在这里高谈阔论说谈钱就是阴暗的人，都是自己没有亲身经历重病住过icu的吧，真的住过就知道，有钱比那些芝麻绿豆的照顾的小爱要重要的多</td>
+    <td class="xl65" x:str>哎。那些住不起ICU，被迫放弃治疗的呢，不但治不起病，连被报道的机会都没有。能住的起ICU11年，已经是不幸中的万幸了，起码还有机会活着。</td>
+    <td class="xl65" x:str>喷子们请手下留情哈！健康的你，永远不知道生了重大疾病或一些罕见病的人内心的痛苦！现在在医院陪我妈，愿天下无疾！</td>
+    <td class="xl65" x:str>人家里再有钱，也是人家里凭着本事自己赚过来的。她的有钱父母和普通家庭父母深夜背着发烧的孩子去医院，以及借钱也不惜一切治好孩子的父母们一样伟大。评论里个别杠精秀你</td>
+    <td class="xl65" x:str>父爱如山，父爱真的伟大❤</td>
+    <td class="xl65" x:str>评论里都是什么人给你400w让你在icu住4年你试试</td>
+    <td class="xl65" x:str>可怜天下父母心</td>
+    <td class="xl65" x:str>我们普通人绝对是住不起的呀！</td>
+    <td class="xl65" x:str>只是说icu那么多年很有钱没什么吧怎么就和仇富挂钩了</td>
+    <td class="xl65" x:str>十一年在一个人的病房里度过我不敢想！父爱如山是孩子最坚强的后盾。</td>
+    <td class="xl65" x:str>本来打开评论想看看庞贝病是什么，有没有人解释的。结果一打开评论，什么玩意儿！？</td>
+    <td class="xl65" x:str>祝愿早日康复！</td>
+    <td class="xl65" x:str>楼里某些人这是什么想法，就算人家有钱怎么了吗，明明弘扬的是父爱伟大，到某些酸鬼眼里就变了味道</td>
+    <td class="xl65" x:str>评论里关注钱的应该是还没有结婚生子的年轻人，我可以理解你们的好奇心，但是也希望你们能理解为人父母的情感寄托</td>
+    <td class="xl65" x:str>医院自己开的？</td>
+    <td class="xl65" x:str>评论里的人真奇怪，花你家钱了？？？人要表达的是父母对孩子的爱❤️祝愿她早日康复</td>
+    <td class="xl65" x:str>希望早日康复呀</td>
+    <td class="xl65" x:str>希望光落在你身上</td>
+    <td class="xl65" x:str>请大家更多的把目光聚集在庞贝氏病上由于体内缺乏某种分解肝醣的酶，他们肌肉逐渐无力，特别是躯干和下肢行动时感到疲惫，还有呼吸短促、睡眠呼吸暂停症侯群、早晨性头痛、脊椎侧弯、下背疼痛等不适。有什么是比全家一起努力坚持了十多年更令人动容的呢？</td>
+    <td class="xl65" x:str>11年对不起真有钱</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>哈哈哈哈我以为只有我觉得好有钱哦</td>
+    <td class="xl65" x:str>这个爹有爱又有钱</td>
+    <td class="xl65" x:str>早日康复</td>
+    <td class="xl65" x:str>深沉的父爱</td>
+    <td class="xl65" x:str>有钱人，住这么多年，不过一家人只要还在就好</td>
+    <td class="xl65" x:str>伟大的父母</td>
+    <td class="xl65" x:str>可怜天下父母心</td>
+    <td class="xl65" x:str>❤️❤️</td>
+    <td class="xl65" x:str>爱的坚持✊伟大</td>
+    <td class="xl65" x:str>哎</td>
+    <td class="xl65" x:str>父爱伟大愿人间疾苦少点</td>
+    <td class="xl65" x:str>父亲太辛苦了祝早日康复</td>
+    <td class="xl65" x:str>父爱如山！心里的那束光，会照亮前行的路，加油</td>
+    <td class="xl65" x:str>可怜天下父母心</td>
+    <td class="xl65" x:str>伟大的父爱！</td>
+    <td class="xl65" x:str>查了一下，简单的说这个病就是不能代谢葡萄糖。</td>
+    <td class="xl65" x:str>伟大的父亲啊</td>
+    <td class="xl65" x:str>希望全世界所有像她这样的早日远离病魔</td>
+    <td class="xl65" x:str>一点点的阳光，也能照亮前方的路加油</td>
+    <td class="xl65" x:str>快快好起来</td>
+    <td class="xl65" x:str>11年icu，真的有钱的感觉，为何不直接在玻璃上装一面镜子</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>11年ICU，弱弱问句，评论里的各位在ICU的收费面前能撑多久？</td>
+    <td class="xl65" x:str>愿平平安安，健健康康</td>
+    <td class="xl65" x:str>岁月对这家人太艰难了，愿命运对他们温柔一点。</td>
+    <td class="xl65" x:str>虽然好像祝福没有什么用，但是还是祝早日好转</td>
+    <td class="xl65" x:str>愿姑娘早日康复</td>
+    <td class="xl65" x:str>有些人对生命有持续热烈的渴望，有些人却在美好的时光里任由自己腐烂。反思～</td>
+    <td class="xl65" x:str>一些人对生命有持续热烈的渴望，有些人却在美好的时光里任由自己腐烂。</td>
+    <td class="xl65" x:str>父爱如山！</td>
+    <td class="xl65" x:str>早日康复</td>
+    <td class="xl65" x:str>加油！战胜病魔！</td>
+    <td class="xl65" x:str>这样真的很难过</td>
+    <td class="xl65" x:str>父爱的伟大</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl65" x:str>一切都会好起来的，加油，女孩</td>
+    <td class="xl65" x:str>伟大的父母</td>
+    <td class="xl65" x:str>能治好吗</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>父爱</td>
+    <td class="xl65" x:str>生</td>
+    <td class="xl66" colspan="3" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="208" style='height:104.00pt;'>
+    <td class="xl65" height="208" style='height:104.00pt;' x:str>【#菲律宾火山喷发#，#中国驻菲使馆提醒中国公民注意安全#！】据央视，1月12日，菲律宾塔阿尔火山开始喷发，火山灰高达10至15公里，菲火山地震局称，塔尔火山的喷发活动加剧，将引发一系列火山地震。中国驻菲律宾大使馆发布提醒，旅菲中国公民要遵从当地政府发布的疏散命令并立即撤离受影响区域。中国​​​​...展开全文c</td>
+    <td class="xl65" x:str>3155</td>
+    <td class="xl65" x:str>每次发生危险的时候那些电话觉得好温暖阿</td>
+    <td class="xl65" x:str>这感觉就是你妈给你说，你在外面玩要注意安全，遇到事记得给我打电话我来接你哈哈</td>
+    <td class="xl65" x:str>注意安全</td>
+    <td class="xl65" x:str>澳大利亚大火还没灭，这边火山灰又开始肆虐，大自然的力量</td>
+    <td class="xl65" x:str>遇事要冷静碰到解决不了的麻烦记住联系中国使领馆但愿平安</td>
+    <td class="xl65" x:str>想起那句话，中国护照可能不能让你去到任何地方，但是你在任何地方持有中国护照都能安全回家。</td>
+    <td class="xl65" x:str>你管他打不打的通，他打不通你也只能打这个电话，你打他们国家的，别人说不定直接翻个白眼就过去了，理都不理你，这个时候你除了祖国，你还要靠谁？几只杠精杠杠杠的，那个说热评都是这样的文案的，可以有很多点赞的我真的是服了，有病？你不喜欢可以，很简单，移民就好啊，中国也不差你一个</td>
+    <td class="xl65" x:str>平安</td>
+    <td class="xl65" x:str>上次去印度尼西亚我护照衣物啥的包被飞车党抢了，也是中国驻印尼大使馆三天时间内帮我办好旅行证，让我能第一时间回家，还安慰我说没事，有他们在。哇简直暖到爆</td>
+    <td class="xl65" x:str>同胞们要注意安全呀，祝平安。</td>
+    <td class="xl65" x:str>注意安全</td>
+    <td class="xl65" x:str>三年前在菲律宾旅游护照丢了，在街头給大使馆打电话，打过去都是推三阻四給别的号码，后来终于打通一个问她护照丢了要怎么办？对方一女的直接反问我，你护照丢了你想让我怎么办？</td>
+    <td class="xl65" x:str>被困机场，飞机停飞也是为了大家的安全啊！若是飞机起飞了万一火山灰导致飞机引擎失控坠机，或者雷达监控不了，发生意外，你安全地呆在机场室内总比飞在天上太多的不确定安全因素好吧，所以耐心一点吧！生命可贵</td>
+    <td class="xl65" x:str>一定要注意安全啊</td>
+    <td class="xl65" x:str>上次去菲律宾半夜酒店遭当地人砸门，特别恐怖。那时候没记国家联系电话，都不知道该打给谁。以后出国真的要记这种紧急电话了</td>
+    <td class="xl65" x:str>因为我们身后有个强大的祖国话语权很大的祖国</td>
+    <td class="xl65" x:str>可是我们昨晚一飞机的人打电话，都说管不了</td>
+    <td class="xl65" x:str>出门在外照顾好自己注意安全</td>
+    <td class="xl65" x:str>愿平安，大使馆做好安全工作</td>
+    <td class="xl65" x:str>在国外，大使馆就像男朋友一样，遇事打电话我来接你</td>
+    <td class="xl65" x:str>我就在这，飞机都取消了…我可太惨了。</td>
+    <td class="xl65" x:str>在菲律宾的中国公民现在怎么回家大使馆可否给出个解决办法呢大家都在机场等着</td>
+    <td class="xl65" x:str>叫你们听当地政府的话撤离，如遇危险或特殊情况再给大使馆打电话，大使馆总不可啥都管啊</td>
+    <td class="xl65" x:str>妈妈保护我们的感觉</td>
+    <td class="xl65" x:str>平安归来</td>
+    <td class="xl65" x:str>撤离受影响区域</td>
+    <td class="xl65" x:str>昨天一晚上在这里，打各种大使馆电话推三阻四，不想管，现在还有大部分中国公民在机场滞留，没人管</td>
+    <td class="xl65" x:str>在菲律宾的中国公民现在怎么回家大使馆可否给出个解决办法呢大家都在机场等着</td>
+    <td class="xl65" x:str>【，！】</td>
+    <td class="xl65" x:str>中国真伟大，我爱我的祖国</td>
+    <td class="xl65" x:str>中国现在可是驻全球大使馆最多的国家我骄傲！！！不喜欢阿中的那些虚伪的人，请移民，谢谢</td>
+    <td class="xl65" x:str>本来是明天凌晨一点的飞机飞宿务</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>各位学长，寒假赴菲旅游，这份提醒，请收下</td>
+    <td class="xl65" x:str>中国永远在每个中国人民的身后，超级感动，还有注意安全</td>
+    <td class="xl65" x:str>在马尼拉王城区呢老大的灰了我只想问问大家这个天能开空调不啦...</td>
+    <td class="xl65" x:str>航路可能会受影响</td>
+    <td class="xl65" x:str>在菲两个月先是台风再是地震现在刚准备踏上回国的飞机火山又来了</td>
+    <td class="xl65" x:str>1号到6号在菲律宾长滩岛玩，去之前是30年难遇的台风席卷长滩岛，回来后火山爆发…真是夹缝中求生啊</td>
+    <td class="xl65" x:str>注意安全</td>
+    <td class="xl65" x:str>啥都别说了，派辽宁舰来接我们吧</td>
+    <td class="xl65" x:str>怎么办？定了一月20号晚上机票去菲律宾玩！酒店也都确定好了</td>
+    <td class="xl65" x:str>16号去宿务，是不是去不了…我还是家里蹲吧</td>
+    <td class="xl65" x:str>好壮观</td>
+    <td class="xl65" x:str>注意安全啊！</td>
+    <td class="xl65" x:str>平安</td>
+    <td class="xl65" x:str>我关心的是，今年全球空气质量</td>
+    <td class="xl65" x:str>菲律宾火山爆发，澳大利亚森林大火，环保主义者提出的环境临界点逼近，种种环境危机让人们开始焦虑，如果气候问题持续升温那么上升的温度会导致地球冻土层解冻，冻土下的细菌病毒和腐烂的动物尸体将会解冻，就好比切断了碳排放冰箱的电源</td>
+    <td class="xl65" x:str>估计还是有不怕死的去旅游。跟上回印尼火山那次一样。</td>
+    <td class="xl65" x:str>愿所有中国公民注意安全。</td>
+    <td class="xl65" x:str>我16号凌晨的飞机</td>
+    <td class="xl65" x:str>上次在芽庄遇到问题，打电话都爱答不理的</td>
+    <td class="xl65" x:str>平平安安就好。</td>
+    <td class="xl65" x:str>小编，马尼拉被滞留机场，球回家</td>
+    <td class="xl65" x:str>出门在外要安全</td>
+    <td class="xl65" x:str>在塞尔维亚丢护照去大使馆补！前面排很多外国人，一看是中国就说你不用排队，旅行证出来了又丢了…可上班时间安排周五没法补，问大使馆的人听我的名字都熟了，就周一帮我提前办，给我说最快周三吧，但第二天就好了大使馆联系不上我给我妈打电话说证件好了，我周三去的时候见过我的都说孩子快回国吧</td>
+    <td class="xl65" x:str>评论里竟然还有很多人在质疑中国的撤侨和大使馆，不会是呆湾来的吧？</td>
+    <td class="xl65" x:str>理我只有五十公里。昨天下午四点就感觉到空气中有碳灰</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>一定要注意安全啊</td>
+    <td class="xl65" x:str>感动</td>
+    <td class="xl65" x:str>少点伤害</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>生活在这样的国家，为什么还会有反对的声音呢？</td>
+    <td class="xl65" x:str>！</td>
+    <td class="xl65" x:str>天啊啊啊啊啊可怕</td>
+    <td class="xl65" x:str>希望平安～～～这种自然灾害确实很严重～！</td>
+    <td class="xl65" x:str>长滩岛安全吗，后天就要去了</td>
+    <td class="xl65" x:str>注意安全～</td>
+    <td class="xl65" x:str>没别的被困菲律宾回不去</td>
+    <td class="xl65" x:str>背后有个强大的国家是多么幸福的事。</td>
+    <td class="xl65" x:str>真的爱祖国</td>
+    <td class="xl65" x:str>挂一天的热搜了，分在纠结……</td>
+    <td class="xl65" x:str>烤香蕉片，味道还是不错的。</td>
+    <td class="xl65" x:str>出国收到大使馆短信的时候真的特别温暖，也很有安全感</td>
+    <td class="xl65" x:str>如果不是非去不可的行程在祖国妈妈的友情提醒下建议取消不要等到滞留当地了再哭求救援！</td>
+    <td class="xl65" x:str>我们现在就在菲律宾。回不去国了出来玩玩给火山玩爆发了。想立刻就到祖国怀抱！</td>
+    <td class="xl65" x:str>转走大家注意安全啊</td>
+    <td class="xl65" x:str>期待平安</td>
+    <td class="xl65" x:str>愿平安</td>
+    <td class="xl65" x:str>我也第一次听说高度可以用公里做单位，原谅我见识不够！</td>
+    <td class="xl65" x:str>大使馆联系方式见图一，扩给首页！希望在菲律宾的华人华侨都能平平安安！</td>
+    <td class="xl65" x:str>三天前去广州白云机场转机一飞机的人一半都要去菲律宾度假望平安</td>
+    <td class="xl65" x:str>中国公民们国家一直是你们坚强的后盾请你们务必平安回国</td>
+    <td class="xl65" x:str>过年了，愿在异国他乡的同胞都能够平安！</td>
+    <td class="xl65" x:str>我想问一下，在菲律宾搞诈骗的国人团伙，撤离了没？群里好几个受害者的诈骗平台没反应了</td>
+    <td class="xl65" x:str>注意安全</td>
+    <td class="xl66" colspan="2" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="208" style='height:104.00pt;'>
+    <td class="xl65" height="208" style='height:104.00pt;' x:str>【#当不当兵差别有多大#？同学们，想不想加入人民子弟兵】#成为军人会有哪些改变#？练就铮铮铁骨，无所畏惧；拥有赤子之心，保家卫国。生长着祖国的筋骨，沸腾着人民的血液，更重要的是，成为军人，你的青春将大不一样！1月10日至2月15日，2020上半年征兵进行时。投身军旅，青春就该这么燃！   ​​​​...展开全文c</td>
+    <td class="xl65" x:str>1456</td>
+    <td class="xl65" x:str>我当兵时刚刚恢复高考，高考和当兵是冲突的，当地当兵还是参加高考争取上大学很矛盾，家人朋友都劝我考大学，我却想上大学很重要但是可以晚几年。我认为，一个男人一辈子没有当兵一次不算男人，最后成功入伍当兵，成为一名日思夜想的军人。退伍后参加高考读大学，虽然晚了几年，至今没有后悔！</td>
+    <td class="xl65" x:str>致敬兵哥哥致敬英姿飒爽的女兵感谢有你们！</td>
+    <td class="xl65" x:str>特别佩服当兵的人！</td>
+    <td class="xl65" x:str>致敬兵哥哥</td>
+    <td class="xl65" x:str>小时候，老家家对面一条马路之隔，就是部队，每天看着兵哥哥们出来跑步，打扫卫生，外婆家里都不挂钟</td>
+    <td class="xl65" x:str>想是想，条件不允许！</td>
+    <td class="xl65" x:str>一人当兵，全家光荣</td>
+    <td class="xl65" x:str>女兵不是想当就能当上的。</td>
+    <td class="xl65" x:str>并不觉得当兵有什么好，也不觉得当兵有什么不好，平常心。世界上有千万个职业，军人也是职业之一，与其他人没有什么区别。革命只有分工不同，没有高低贵贱之分。盲目的抬高或者贬损一个正当职业都不可取</td>
+    <td class="xl65" x:str>从小就有当兵情节</td>
+    <td class="xl65" x:str>打不垮我的，只会让我更强大！！向兵哥哥致敬！</td>
+    <td class="xl65" x:str>致敬最可爱可敬的人</td>
+    <td class="xl65" x:str>去还是不去。能有多大差别。  只要怀揣着一片赤诚爱国心。炝锅梦。哪里都是保家卫国</td>
+    <td class="xl65" x:str>致敬中国军人！</td>
+    <td class="xl65" x:str>哈哈哈哈哈哈哈[米奇比心][米奇比心][米奇比心]</td>
+    <td class="xl65" x:str>我哥是退伍军人，当兵是他一辈子的光荣啊</td>
+    <td class="xl65" x:str>我要参军</td>
+    <td class="xl65" x:str>这辈子最大的遗憾不是没上大学，而是没当兵</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>脱变</td>
+    <td class="xl65" x:str>变好看了</td>
+    <td class="xl65" x:str>没机会</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>男的当兵变帅了女子当兵变得坚毅了！</td>
+    <td class="xl65" x:str>我想当兵</td>
+    <td class="xl65" x:str>为中华之崛起而当兵！</td>
+    <td class="xl65" x:str>向最可爱的你敬个礼</td>
+    <td class="xl65" x:str>致敬</td>
+    <td class="xl65" x:str>致敬兵哥哥</td>
+    <td class="xl65" x:str>当兵是男人必须做的事</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>竟然看哭了</td>
+    <td class="xl65" x:str>向兵哥哥兵姐姐致敬！</td>
+    <td class="xl65" x:str>又到了帅哥美女上交国家的时刻[米奇比心]</td>
+    <td class="xl65" x:str>【2020两次征兵时间已确定，转发周知！】①2020年上半年应征报名时间1月10日至2月15日。②2020年下半年应征报名时间男兵为4月1日至8月15日，女兵为6月26日至8月15日。目前，全国征兵网已开启2020征兵报名通道，详戳→如果你有军旅梦，千万别错过哦！</td>
+    <td class="xl65" x:str>气质这块的确更胜一筹</td>
+    <td class="xl65" x:str>这个好！</td>
+    <td class="xl65" x:str>啊啊啊啊啊啊我也想当兵</td>
+    <td class="xl65" x:str>因为近视被刷下来的我…</td>
+    <td class="xl65" x:str>我的天！我的眼泪再一次不值钱</td>
+    <td class="xl65" x:str>BGM莫名觉得很LOW，X音毒害太深了！</td>
+    <td class="xl65" x:str>感恩我们强大的祖国，感恩我们的子弟兵，护卫这和平年代的不和平！</td>
+    <td class="xl65" x:str>去我是真想去，但是兵检我是真的过不去！！当初因为右耳听力弱被刷下来了……鼓起勇气想去当兵，期待了一年，最终梦想成空！</td>
+    <td class="xl65" x:str>当兵的你们是最美的，致敬女兵</td>
+    <td class="xl65" x:str>非常想，可是对身高有要求，小矮子没办法呀</td>
+    <td class="xl65" x:str>我爸爸喊我去当兵，我也想去，可是我近视了难受</td>
+    <td class="xl65" x:str>想当兵但是因为一些原因！无法实现</td>
+    <td class="xl65" x:str>战友说看到我了....还真有</td>
+    <td class="xl65" x:str>心向往之，但是身体条件不允许</td>
+    <td class="xl65" x:str>不想</td>
+    <td class="xl65" x:str>我把青春献给了祖国！</td>
+    <td class="xl65" x:str>今年差点就去了，其他都合格，眼睛也做了手术，奈何下蹲不全只有来世在当兵哥哥了</td>
+    <td class="xl65" x:str>好燃哦，青春。</td>
+    <td class="xl65" x:str>年龄过了，视力也不允许</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>最可爱的人</td>
+    <td class="xl65" x:str>无悔青春，不负芳华。</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>有信仰就是会不一样</td>
+    <td class="xl65" x:str>帅帅帅</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>我的天！好帅！</td>
+    <td class="xl65" x:str>我也想入伍没有机会穿军装了，等送自家小朋友入伍</td>
+    <td class="xl65" x:str>我转发了，看的时候在自己的朋友圈看，不用去其它地方找了，谢谢分享</td>
+    <td class="xl65" x:str>每一次看到穿军服的军人们感到高兴，辛苦了</td>
+    <td class="xl65" x:str>不管是兵哥哥还是兵姐姐都好帅啊</td>
+    <td class="xl65" x:str>好燃啊！！！！！！</td>
+    <td class="xl65" x:str>征兵进行时！</td>
+    <td class="xl65" x:str>从小到大都喜欢兵哥哥</td>
+    <td class="xl65" x:str>以前年龄还小的时候是想去当一名兵可惜身高不够也不知道具体的要求是什么那时候网络还不发达也不知道求助谁现在是身高不够年龄也超了一大遗憾从小就对兵和军人几个字眼有一种莫名的情愫不知道是不是老师教的好从小就灌输了军人很神圣很光荣很帅很威严的思想久而久之这种思想就扎根了</td>
+    <td class="xl65" x:str>保家卫国，为之奉献自己的青春热血</td>
+    <td class="xl65" x:str>杀马特变硬汉，我弟特别软弱一人现在腰杆挺得笔直</td>
+    <td class="xl65" x:str>当兵非常好，可惜我错过了</td>
+    <td class="xl65" x:str>保家卫国</td>
+    <td class="xl65" x:str>刚上大学时正赶上征兵，去报。但是高考刚考完，视力差，体检没过。现在用眼不那么费的时候视力又恢复很多。错失了～～～</td>
+    <td class="xl65" x:str>我已经超龄了，当不了了……</td>
+    <td class="xl65" x:str>当兵后悔三年，不当兵后悔一辈子。下辈子我一定要当英姿飒爽的女兵。</td>
+    <td class="xl65" x:str>从非主流变成硬汉太帅了！</td>
+    <td class="xl65" x:str>又想“骗”我当兵</td>
+    <td class="xl65" x:str>当兵就是不后悔的选择！</td>
+    <td class="xl65" x:str>致敬军人！</td>
+    <td class="xl65" x:str>我曾经也想过当兵，奈何身体状况不行…（严重皮肤病）。向他们致敬~</td>
+    <td class="xl66" colspan="6" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【内蒙古一#嫌犯持枪劫持3人被警方击毙#】内蒙古呼和浩特市公安局@青城公安通报：1月12日，呼和浩特市新城区发生一起绑架劫持人质案件，犯罪嫌疑人持自制枪支和爆炸装置，绑架劫持3名人质，并开枪威胁人质。晚19时15分许，公安机关果断将嫌疑人周某击毙，成功拆除人质身上的爆炸装置，安全解救人质。​​​​</td>
+    <td class="xl65" x:str>666</td>
+    <td class="xl65" x:str>干的漂亮</td>
+    <td class="xl65" x:str>干得漂亮！支持支持支持！</td>
+    <td class="xl65" x:str>自制枪支和爆炸装置？这是高手</td>
+    <td class="xl65" x:str>干的漂亮</td>
+    <td class="xl65" x:str>支持严厉处罚</td>
+    <td class="xl65" x:str>为狙击手和拆弹专家点赞</td>
+    <td class="xl65" x:str>人质安全就好，永远把保护人民群众生命财产安全放在首位</td>
+    <td class="xl65" x:str>警察叔叔辛苦了！感谢你们</td>
+    <td class="xl65" x:str>妈呀，现在的人疯了，好事没见着干、坏事做绝、警察</td>
+    <td class="xl65" x:str>歹徒就该就地击毙</td>
+    <td class="xl65" x:str>太棒了！！为狙击手和拆弹专家点赞</td>
+    <td class="xl65" x:str>人质安全就好</td>
+    <td class="xl65" x:str>我滴老哥呼和浩特</td>
+    <td class="xl65" x:str>原因呢？</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>赛罕区的瑟瑟发抖危险原来离我们这么近</td>
+    <td class="xl65" x:str>这水平很好了</td>
+    <td class="xl65" x:str>我草，过年了要造反了</td>
+    <td class="xl65" x:str>太可怕了</td>
+    <td class="xl65" x:str>我都怀疑是不是又是某国操纵国人搞恐袭了？</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>漂亮</td>
+    <td class="xl65" x:str>支持，干得漂亮！</td>
+    <td class="xl65" x:str>做得好！</td>
+    <td class="xl65" x:str>支持呀！</td>
+    <td class="xl65" x:str>持枪？绑架？还有爆炸装置？天啊以为是拍警匪片呢！警察</td>
+    <td class="xl65" x:str>必须严查严控枪支，为特警果断出手点赞！</td>
+    <td class="xl65" x:str>太嚣张了吧，干得漂亮。</td>
+    <td class="xl65" x:str>嫌疑人可以被击毙，我想知道劫持人质的原因。</td>
+    <td class="xl65" x:str>好棒！警察叔叔辛苦了注意安全</td>
+    <td class="xl65" x:str>快过年了，大家都多加小心！</td>
+    <td class="xl65" x:str>为民除害，给警察点赞！！</td>
+    <td class="xl65" x:str>这标题，还以为击毙了3人</td>
+    <td class="xl65" x:str>群众安全最重要，给警方点赞！！</td>
+    <td class="xl65" x:str>哇</td>
+    <td class="xl65" x:str>一定要给被迫成了人质的几位做好心理辅导呀英雄们也辛苦了</td>
+    <td class="xl65" x:str>不会是劫持拖欠工资的话，那太冤了  咋没整炸了呢</td>
+    <td class="xl65" x:str>8个小时啊。。。给了他活下去的机会，他却一心求死</td>
+    <td class="xl65" x:str>安全就好！平安回家过年</td>
+    <td class="xl65" x:str>干的漂亮</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>第三，耶耶耶，看来早起的没多少人呀</td>
+    <td class="xl65" x:str>好</td>
+    <td class="xl65" x:str>为民除害，支持支持支持支持支持支持</td>
+    <td class="xl65" x:str>昨天？？</td>
+    <td class="xl65" x:str>港片看多了</td>
+    <td class="xl65" x:str>干的漂亮！做的很好！支持！</td>
+    <td class="xl65" x:str>居然有这事儿？？！！</td>
+    <td class="xl65" x:str>支持支持</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl65" x:str>天天在新城区上班都没遇到</td>
+    <td class="xl65" x:str>这么好的社会为什么还有人抢劫啊？干点儿啥不能挣口饭吃</td>
+    <td class="xl65" x:str>优秀</td>
+    <td class="xl65" x:str>干净利落</td>
+    <td class="xl65" x:str>感谢人民警察</td>
+    <td class="xl65" x:str>我昨天7点好像在外面呢，吓人</td>
+    <td class="xl65" x:str>快过年了，出门都小心一点</td>
+    <td class="xl65" x:str>持枪？？？</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>干得漂亮，为他们点赞   他们是生命的保护神，维系着社会的稳定与百姓生活的安宁    赤胆忠心，铁血柔情</td>
+    <td class="xl65" x:str>好</td>
+    <td class="xl65" x:str>为民除害！干得漂亮！</td>
+    <td class="xl65" x:str>社会渣子死了真好</td>
+    <td class="xl65" x:str>干得漂亮</td>
+    <td class="xl65" x:str>这会没人说暴力执法了吧</td>
+    <td class="xl65" x:str>厉害了!</td>
+    <td class="xl65" x:str>赞</td>
+    <td class="xl65" x:str>我等疯狂抠6就是了。6666666</td>
+    <td class="xl65" x:str>干的漂亮</td>
+    <td class="xl65" x:str>对峙了8个小时……早点儿崩了不完了吗……</td>
+    <td class="xl65" x:str>电视剧才会有的情节</td>
+    <td class="xl65" x:str>干得好</td>
+    <td class="xl65" x:str>吓死了，犯罪分子哪里来的枪要好好查一查</td>
+    <td class="xl65" x:str>公安机关，人民的守护神！</td>
+    <td class="xl65" x:str>他哪儿来的这些爆炸装置啊</td>
+    <td class="xl65" x:str>还好是持枪的死了</td>
+    <td class="xl65" x:str>辛苦啦</td>
+    <td class="xl65" x:str>厉害了</td>
+    <td class="xl65" x:str>第一次前排，不知道说啥，那就快过年了  糟心事都别来了</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>干的好！支持！</td>
+    <td class="xl65" x:str>标题不严谨！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>支持</td>
+    <td class="xl66" colspan="4" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【#独生子女护理假何时能落地#？16地出台独生子女护理假】近日，西安出台独生子女护理假政策，老人住院子女最多可带薪陪护20天，引发热议。自2016年河南首次出台护理假以来，全国已至少有16地出台相关政策，但实施效果却不尽如人意，许多网友称#最暖心的假最难休假#。戳图↓↓关乎你的权益，转发关注！​​​​</td>
+    <td class="xl65" x:str>1177</td>
+    <td class="xl65" x:str>【关于护理假，各地怎么规定？】①福建≤10天/年；②广西≤15天/年；③河南≥20天/年；④湖北非独生子女≥10天/年，独生子女≥15天/年；⑤黑龙江非独生子女≤10天/年，独生子女≤20天/年；⑥内蒙古20天/年；⑦四川非独生子女≤7天/年，独生子女≤15天/年…更多↓</td>
+    <td class="xl65" x:str>以后招聘的会问你是不是独生子女，政策要配套</td>
+    <td class="xl65" x:str>只要有“带薪”俩字，不管是什么假，都难请</td>
+    <td class="xl65" x:str>我大山东对这种福利一般不上心。</td>
+    <td class="xl65" x:str>先把双休日落地吧</td>
+    <td class="xl65" x:str>在大家都在说996的时候，这个假期感觉都是形同虚设。</td>
+    <td class="xl65" x:str>台独可耻</td>
+    <td class="xl65" x:str>推广了，单位领导不执行也没有办法啊</td>
+    <td class="xl65" x:str>周末双休都做不到，还想着能有假？</td>
+    <td class="xl65" x:str>没有连正常休息都苛求别说这个了</td>
+    <td class="xl65" x:str>没事儿的时候不休，父母真的有不舒服了单位能让休就行……就这一个企盼</td>
+    <td class="xl65" x:str>估计很难毕竟二十多天对公司影响还是有些的</td>
+    <td class="xl65" x:str>这个政策很暖心，希望全国推广单位能按条例执行。但是上有政策下有对策…哎</td>
+    <td class="xl65" x:str>为什么没有浙江！浙江下面的小城市更是难指望了~连双休都没有</td>
+    <td class="xl65" x:str>这假期有点超前了</td>
+    <td class="xl65" x:str>还不如春节多两天假，能多陪一下父母</td>
+    <td class="xl65" x:str>政府如果不能给补贴，就只是给企业增加负担</td>
+    <td class="xl65" x:str>反正辽宁没有</td>
+    <td class="xl65" x:str>我广西有吗？</td>
+    <td class="xl65" x:str>没听说这个假</td>
+    <td class="xl65" x:str>山东连社保都没有，还想带薪假呢</td>
+    <td class="xl65" x:str>独生子女假和探亲假一样吗？</td>
+    <td class="xl65" x:str>湖南独生子女哭辽</td>
+    <td class="xl65" x:str>江苏有吗？恩，没有</td>
+    <td class="xl65" x:str>[米奇比心]</td>
+    <td class="xl65" x:str>没有广东</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>公务员假，毫无意义。</td>
+    <td class="xl65" x:str>企业不给放有什么办法</td>
+    <td class="xl65" x:str>咋？我不是独生子女，我和我姐就两个人都没假。</td>
+    <td class="xl65" x:str>推广容易，执行难啊</td>
+    <td class="xl65" x:str>但实施效果却不尽人意</td>
+    <td class="xl65" x:str>全国啥时候推广</td>
+    <td class="xl65" x:str>假薪国家负担，可行。</td>
+    <td class="xl65" x:str>我觉得很不公平，不是独生子女的父母住院就不需要照顾吗？</td>
+    <td class="xl65" x:str>江浙沪啥时候落实！！！求求了夫妻两个，带四个老人，两个娃，，没有护理假真的就完蛋了</td>
+    <td class="xl65" x:str>为什么独生子女才休假？两个孩子的孩子孝心不一样嘛？</td>
+    <td class="xl65" x:str>说白了还是政府机关和事业单位想放假了而已。这种负担就不应该放到企业承担。更何况严格落实年假制度就行了，这样瞎搞最后都变成了就业市场上对特定人群的歧视</td>
+    <td class="xl65" x:str>上有政策，下不执行，等于没有</td>
+    <td class="xl65" x:str>兄弟姐妹不在一个城市，老人跟着一个孩子过，也相当于独生子女啊</td>
+    <td class="xl65" x:str>又是政府请客，企业买单，最后独生子女找工作难</td>
+    <td class="xl65" x:str>以人为本</td>
+    <td class="xl65" x:str>探亲假都不给休，哪来的独生子女护理假。</td>
+    <td class="xl65" x:str>怎么不见北京</td>
+    <td class="xl65" x:str>转发微博</td>
+    <td class="xl65" x:str>有机会吗？</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>辽宁还没有</td>
+    <td class="xl65" x:str>呵呵，没放过</td>
+    <td class="xl65" x:str>广西的只给独生子女护理假，或许我们这些非独生子女的人可以把父母都丢掉了的</td>
+    <td class="xl65" x:str>不出所料  辽宁永远吃不到第一口，无论是屎还是巧克力</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>希望能推广，而不只是国企或事业单位</td>
+    <td class="xl65" x:str>只有我第一眼看成了台独吗？心想还有福利？</td>
+    <td class="xl65" x:str>我独生，学的护理，肯定没假，过年还只有三天假呢</td>
+    <td class="xl65" x:str>不是独生子女但是父母就只剩我一个孩子的，将来配拥有这个假期吗</td>
+    <td class="xl65" x:str>独生子女的我们真的太难了</td>
+    <td class="xl65" x:str>关注</td>
+    <td class="xl65" x:str>这个太好了快点真正落地呀</td>
+    <td class="xl65" x:str>只有独生子女才有啊</td>
+    <td class="xl65" x:str>60岁！我在想那没有满60岁的，生病了的呢？唉</td>
+    <td class="xl65" x:str>编外不可以</td>
+    <td class="xl65" x:str>计划生育征了那么多社会抚养费，也没补贴到独生子女身上，政策这种东西就只是给老实人定的吧？？</td>
+    <td class="xl65" x:str>试点城市的很多单位都推广不了。</td>
+    <td class="xl65" x:str>假是有，我就问一句，谁敢休？</td>
+    <td class="xl65" x:str>“您好，欢迎来面试。请问您结婚了吗？请问您是独生子吗？请问您有孩子吗？对不起您不适合我们，再见。”</td>
+    <td class="xl65" x:str>为什么没有北京</td>
+    <td class="xl65" x:str>双休落地我就谢他八辈祖宗</td>
+    <td class="xl65" x:str>我热切希望落地</td>
+    <td class="xl65" x:str>我也觉得  带不带薪不重要，能给你假就不错了，况且还要请这么久，实施起来真的很难</td>
+    <td class="xl65" x:str>居然有这个假</td>
+    <td class="xl65" x:str>白出的东西</td>
+    <td class="xl65" x:str>出台了，真正能执行的，或者能享受的又有几个</td>
+    <td class="xl65" x:str>劳动法先落地实行呗</td>
+    <td class="xl65" x:str>很难</td>
+    <td class="xl65" x:str>没有山东</td>
+    <td class="xl65" x:str>早</td>
+    <td class="xl65" x:str>山东作为贯彻计划生育最彻底的省份，却没有假期！！！！</td>
+    <td class="xl65" x:str>能执行才好</td>
+    <td class="xl65" x:str>希望</td>
+    <td class="xl65" x:str>湖南没有</td>
+    <td class="xl65" x:str>探亲假有没有具体规定距离多远可以休？在外地工作快两年还没休，因为不清楚符不符合要求。</td>
+    <td class="xl65" x:str>正确断句:台独  生子女  护理假错误断句:出台  独生子女  护理假</td>
+    <td class="xl65" x:str>就算执行了有咋滴？企业的收入构成是工资+提成（或者奖金），带薪休假只是指的工资，企业工资多少大家心里有数吧</td>
+    <td class="xl65" x:str>河北独生子女护理假不够明确，《河北省老年人权益保障条例》中只写到住院患病期间给予适当陪护时间。具体时间是多久，休假期间工资待遇如何均没有明确，这给休假造成了难度，期待具体方案出台，将护理假从公文落实到实处。</td>
+    <td class="xl66" colspan="4" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="182" style='height:91.00pt;'>
+    <td class="xl65" height="182" style='height:91.00pt;' x:str>【最好的生活状态，就是做自己】很多时候，不管我们做什么，周围总会有反对的声音。他人的看法，往往会让我们放弃了坚持，忘记了最初的梦想。不知不觉中，你甚至不记得自己为何出发。可活出最好的样子，本不需别人来规划。你就是自己人生的负责人，去掌控自己生活的节奏，对未来有所期待！共勉，早安！​​​​</td>
+    <td class="xl65" x:str>1140</td>
+    <td class="xl65" x:str>加油！早安！</td>
+    <td class="xl65" x:str>【一起早读】青春就是要活出精彩的自己，早安</td>
+    <td class="xl65" x:str>不忘初心做真实的自己任何时候都可以活成自己想要的样子。早安报报</td>
+    <td class="xl65" x:str>坚持做自己新的一周努力加油早上好报报！[米奇比心]</td>
+    <td class="xl65" x:str>自律，就是一场旅行，碰到的大小麻烦都是风景，新的一周，新的开始，加油，努力做最优秀的自己，早安报报早安朋友们[米奇比心]</td>
+    <td class="xl65" x:str>不忘初心。早安~</td>
+    <td class="xl65" x:str>越努力越幸运！越自律越自由！活出最好的自己！</td>
+    <td class="xl65" x:str>做最好的自己，加油</td>
+    <td class="xl65" x:str>做最好的自己，时光不会辜负每一个努力的人，新的一周继续努力。早安报报</td>
+    <td class="xl65" x:str>早安  做不忘初心的自己哪怕在别人眼里一文不值</td>
+    <td class="xl65" x:str>新的一周，加油早上好</td>
+    <td class="xl65" x:str>努力做好自己，为自己人生负责，为自己梦想买单…早安[米奇比心]</td>
+    <td class="xl65" x:str>自己选择的路要自己走下去，无论一帆风顺还是荆棘遍布～</td>
+    <td class="xl65" x:str>加油，努力做自己。新的一周开始了早安</td>
+    <td class="xl65" x:str>最好的状态就是做自己，早上好报报</td>
+    <td class="xl65" x:str>早安呀，周一加油</td>
+    <td class="xl65" x:str>不忘初心，做最真实的自己，早安</td>
+    <td class="xl65" x:str>自己的人生自己负责，做最好的自己。新的一周，继续努力啊。早安！</td>
+    <td class="xl65" x:str>最好的生活状态，就是做自己，努力做最好的自己</td>
+    <td class="xl65" x:str>加油做自己，早安</td>
+    <td class="xl65" x:str>努力走自己的路，认真过自己的生活！珍惜现在所拥有的，努力达成自己向往的。早安报报</td>
+    <td class="xl65" x:str>早安新的一周加油</td>
+    <td class="xl65" x:str>早安，集敬业福了。</td>
+    <td class="xl65" x:str>早安做最好的自己，新的一周加油</td>
+    <td class="xl65" x:str>坚持最初的梦想，做最好的自己。早安</td>
+    <td class="xl65" x:str>早安不忘初心，努力做更好的自己</td>
+    <td class="xl65" x:str>不忘初心，从心出发</td>
+    <td class="xl65" x:str>最好的生活状态，就是做自己！这就是人生！早安报报</td>
+    <td class="xl65" x:str>我的生活我做主！报报早安</td>
+    <td class="xl65" x:str>早安！不负韶华</td>
+    <td class="xl65" x:str>最好的自己</td>
+    <td class="xl65" x:str>加油</td>
+    <td class="xl65" x:str>【最好的生活状态，就是做自己】</td>
+    <td class="xl65" x:str>【最好的生活状态，就是做自己】</td>
+    <td class="xl65" x:str>最好的生活状态，就是做自己</td>
+    <td class="xl65" x:str>早</td>
+    <td class="xl65" x:str>最好的生活状态，就是做自己</td>
+    <td class="xl65" x:str>对对对对对对</td>
+    <td class="xl65" x:str>早晨早晨[米奇比心][米奇比心][米奇比心][米奇比心]</td>
+    <td class="xl65" x:str>早晨早晨早晨[米奇比心][米奇比心][米奇比心][米奇比心]</td>
+    <td class="xl65" x:str>加油！今天离职跳槽！！！</td>
+    <td class="xl65" x:str>做自己  我就是我</td>
+    <td class="xl65" x:str>不负韶华，不忘初心</td>
+    <td class="xl65" x:str>早上好</td>
+    <td class="xl65" x:str>好的  要努力努力做最好的自己喔！</td>
+    <td class="xl65" x:str>做自己，不忘初心！早安</td>
+    <td class="xl65" x:str>走自己的路让他人去说。早安</td>
+    <td class="xl65" x:str>坚持做自己！不管别人怎么说！早安</td>
+    <td class="xl65" x:str>做最好的自己，早安</td>
+    <td class="xl65" x:str>早安</td>
+    <td class="xl65" x:str>早安</td>
+    <td class="xl65" x:str>早安！做好自己，不要事事和他人做比较。</td>
+    <td class="xl65" x:str>不忘初心，做最好的自己</td>
+    <td class="xl65" x:str>早安！</td>
+    <td class="xl65" x:str>早安！报报</td>
+    <td class="xl65" x:str>早安(^O^)!</td>
+    <td class="xl65" x:str>早安，每天都是更好的一天</td>
+    <td class="xl65" x:str>加油，早安</td>
+    <td class="xl65" x:str>幸福从来不是外界给你的，而是从你心里生长出来的。往后余生，你要做自己的知己。时刻！珍惜自己身体、尊重自己内心。不负光阴、不负初心、不负自己。​​​早安</td>
+    <td class="xl65" x:str>早安安</td>
+    <td class="xl65" x:str>坚持自信，不忘初心，我的人生我做主!加油，做最好的自己!早安</td>
+    <td class="xl65" x:str>要不留遗憾的去做自己想做的事情呀</td>
+    <td class="xl65" x:str>过自己想要的生活，为自己而活</td>
+    <td class="xl65" x:str>早安</td>
+    <td class="xl65" x:str>早安</td>
+    <td class="xl65" x:str>早安！</td>
+    <td class="xl65" x:str>坚持初心，保持梦想，积极行动，感恩奋进，做中国有为好青年！</td>
+    <td class="xl65" x:str>做最真实的自己，早安</td>
+    <td class="xl65" x:str>坚持初心，保持能像，积极行动，感恩奋进，做中国有为好青年！</td>
+    <td class="xl65" x:str>早安，报报，做最好的自己</td>
+    <td class="xl65" x:str>早安</td>
+    <td class="xl65" x:str>不要让别人告诉你，你不行。那些做不到的人总要告诉你，你也不行。只要有梦想，就要去追逐。</td>
+    <td class="xl65" x:str>早安加油</td>
+    <td class="xl65" x:str>早安</td>
+    <td class="xl65" x:str>早上好</td>
+    <td class="xl65" x:str>做最好的自己！</td>
+    <td class="xl65" x:str>从来与其他人无关，自己是自己的主人，能做的只有做好自己！加油</td>
+    <td class="xl65" x:str>做自己很重要</td>
+    <td class="xl65" x:str>加油！坚持做自己</td>
+    <td class="xl65" x:str>加油！</td>
+    <td class="xl65" x:str>做自己</td>
+    <td class="xl65" x:str>早上好，做最好的自己</td>
+    <td class="xl65" x:str>早安</td>
+    <td class="xl65" x:str>加油！早安！</td>
+    <td class="xl65" x:str>努力</td>
+    <td class="xl65" x:str>迟到的早安</td>
+    <td class="xl65" x:str>加油！早安！做最好的自己！</td>
+    <td class="xl66"></td>
+    <td class="xl65" x:str>梦想的意义在于让一个人拥有希望和色彩，早安</td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="432" style='width:216;'></td>
+     <td width="97" style='width:48;'></td>
+     <td width="432" style='width:216;'></td>
+     <td width="361" style='width:180;'></td>
+     <td width="227" style='width:114;'></td>
+     <td width="432" style='width:216;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
